@@ -4,9 +4,9 @@ from rich.table import Table
 console = Console()
 
 def show_menu():
-    table = Table(title="Main Menu")
+    table = Table(title="SentinelSOC Main Menu")
 
-    table.add_column("Option", style="cyan")
+    table.add_column("Option", style="cyan", justify="center")
     table.add_column("Module", style="green")
 
     table.add_row("1", "Dashboard")
@@ -19,3 +19,7 @@ def show_menu():
     table.add_row("0", "Exit")
 
     console.print(table)
+
+    choice = input("\nSentinelSOC > ")
+
+    return choice
