@@ -1,0 +1,23 @@
+from rich.console import Console
+from rich.panel import Panel
+
+console = Console()
+
+def show_banner():
+    banner = """
+ ███████╗███████╗███╗   ██╗████████╗██╗███╗   ██╗███████╗██╗
+ ██╔════╝██╔════╝████╗  ██║╚══██╔══╝██║████╗  ██║██╔════╝██║
+ ███████╗█████╗  ██╔██╗ ██║   ██║   ██║██╔██╗ ██║█████╗  ██║
+ ╚════██║██╔══╝  ██║╚██╗██║   ██║   ██║██║╚██╗██║██╔══╝  ██║
+ ███████║███████╗██║ ╚████║   ██║   ██║██║ ╚████║███████╗███████╗
+ ╚══════╝╚══════╝╚═╝  ╚═══╝   ╚═╝   ╚═╝╚═╝  ╚═══╝╚══════╝╚══════╝
+    """
+
+    console.print(
+        Panel.fit(
+            banner,
+            title="[bold cyan]SentinelSOC[/bold cyan]",
+            subtitle="[green]Blue Team Toolkit[/green]",
+            border_style="cyan",
+        )
+    )
