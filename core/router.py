@@ -1,32 +1,47 @@
 from rich.console import Console
 
+from core.dashboard import create_dashboard
+from modules.network import network
+from modules.threatintel import threatintel
+from modules.loganalysis import loganalysis
+from modules.forensics import forensics
+from modules.incident import incident
+from modules.reporting import reporting
+
 console = Console()
 
 def route(choice):
 
     if choice == "1":
-        console.print("[green]Opening Dashboard...[/green]")
+        create_dashboard()
 
     elif choice == "2":
-        console.print("[cyan]Opening Network Analysis...[/cyan]")
+        network()
 
     elif choice == "3":
-        console.print("[yellow]Opening Threat Intelligence...[/yellow]")
+        threatintel()
 
     elif choice == "4":
-        console.print("[magenta]Opening Log Analysis...[/magenta]")
+        loganalysis()
 
     elif choice == "5":
-        console.print("[blue]Opening Digital Forensics...[/blue]")
+        forensics()
 
     elif choice == "6":
-        console.print("[red]Opening Incident Response...[/red]")
+        incident()
 
     elif choice == "7":
-        console.print("[white]Opening Reports...[/white]")
+        reporting()
+
+    elif choice == "8":
+        console.print("[cyan]Settings Module Coming Soon[/cyan]")
+
+    elif choice == "9":
+        console.print("[green]SentinelSOC v1.0[/green]")
+        console.print("Built by Sayan Chowdhury")
 
     elif choice == "0":
         console.print("[bold red]Goodbye![/bold red]")
 
     else:
-        console.print("[bold red]Invalid Choice![/bold red]")
+        console.print("[red]Invalid Choice[/red]")

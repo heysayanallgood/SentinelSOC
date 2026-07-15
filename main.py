@@ -4,11 +4,19 @@ from core.router import route
 
 def main():
 
-    show_banner()
+    while True:
 
-    choice = show_menu()
+        show_banner()
 
-    route(choice)
+        choice = show_menu()
+
+        if choice == "0":
+            route(choice)
+            break
+
+        route(choice)
+
+        input("\nPress Enter to continue...")
 
 if __name__ == "__main__":
     main()
