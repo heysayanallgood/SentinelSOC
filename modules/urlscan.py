@@ -1,18 +1,34 @@
 from rich.console import Console
+from rich.table import Table
+
+from core.vt_api import url_lookup
 
 console = Console()
 
+
 def run():
 
-    url = input("Enter URL : ")
+    console.print("\n[bold cyan]URL Reputation Lookup[/bold cyan]\n")
 
-    console.print()
+    url = input("Enter URL: ").strip()
 
-    console.print("[cyan]Scanning URL...[/cyan]")
+    result = url_lookup(url)
 
-    console.print()
+    if result is None:
+        console.print("[red]Unable to retrieve VirusTotal data.[/red]")
+        input("\nPress Enter...")
+        return
 
-    console.print("[green]Coming in Sprint 8[/green]")
+    stats = result["data"]["attributes"]["last_analysis_stats"]
+
+    table = Table(title="VirusTotal URL Report")
+
+    table.add_column("Metric", style="cyan")
+    table.add_column("Value", style="green")
+
+    for key, value in stats.items():
+        table.add_row(key.capitalize(), str(value))
+
+    console.print(table)
 
     input("\nPress Enter...")
-
