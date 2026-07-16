@@ -1,7 +1,8 @@
-import re
-
+from core.otx_api import lookup
 from rich.console import Console
+from rich.table import Table
 from rich.panel import Panel
+import re
 
 console = Console()
 
@@ -9,21 +10,15 @@ console = Console()
 def detect(value):
 
     if re.match(r"^\d+\.\d+\.\d+\.\d+$", value):
-        return "IPv4"
-
-    if re.match(r"^[a-fA-F0-9]{32}$", value):
-        return "MD5"
-
-    if re.match(r"^[a-fA-F0-9]{40}$", value):
-        return "SHA1"
-
-    if re.match(r"^[a-fA-F0-9]{64}$", value):
-        return "SHA256"
+        return "IPv4", "IPv4"
 
     if value.startswith("http"):
-        return "URL"
+        return "URL", "url"
 
-    return "Domain"
+    if re.match(r"^[a-fA-F0-9]{32}$", value):
+        return "MD5", "file"
+
+    return "Domain", "domain"
 
 
 def run():
@@ -36,10 +31,34 @@ def run():
 
     value = input("\nIOC : ")
 
-    t = detect(value)
+    display_type, api_type = detect(value)
 
-    console.print(f"\nDetected Type : [green]{t}[/green]")
+    console.print(f"\nDetected : [green]{display_type}[/green]")
 
-    console.print("\nAlienVault Integration coming next...")
+    console.print("\nFetching AlienVault Intelligence...\n")
+
+    result = lookup(api_type, value)
+
+    if result is None:
+
+        console.print("[red]No intelligence found.[/red]")
+
+        input("\nPress Enter...")
+
+        return
+
+    table = Table(title="AlienVault OTX")
+
+    table.add_column("Field", style="cyan")
+    table.add_column("Value", style="green")
+
+    table.add_row("Indicator", value)
+    table.add_row("Type", display_type)
+    table.add_row("Pulse Count", str(result.get("pulse_info", {}).get("count", 0)))
+    table.add_row("Country", str(result.get("country_name", "Unknown")))
+    table.add_row("ASN", str(result.get("asn", "Unknown")))
+    table.add_row("Reputation", str(result.get("reputation", "Unknown")))
+
+    console.print(table)
 
     input("\nPress Enter...")
