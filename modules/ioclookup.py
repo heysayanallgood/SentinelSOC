@@ -1,19 +1,45 @@
+import re
+
 from rich.console import Console
+from rich.panel import Panel
 
 console = Console()
 
+
+def detect(value):
+
+    if re.match(r"^\d+\.\d+\.\d+\.\d+$", value):
+        return "IPv4"
+
+    if re.match(r"^[a-fA-F0-9]{32}$", value):
+        return "MD5"
+
+    if re.match(r"^[a-fA-F0-9]{40}$", value):
+        return "SHA1"
+
+    if re.match(r"^[a-fA-F0-9]{64}$", value):
+        return "SHA256"
+
+    if value.startswith("http"):
+        return "URL"
+
+    return "Domain"
+
+
 def run():
 
-    ioc = input("Enter IOC: ")
+    console.print(
+        Panel.fit(
+            "[bold cyan]IOC Analyzer[/bold cyan]"
+        )
+    )
 
-    console.print()
+    value = input("\nIOC : ")
 
-    if "." in ioc:
+    t = detect(value)
 
-        console.print("[yellow]Looks like Domain/IP[/yellow]")
+    console.print(f"\nDetected Type : [green]{t}[/green]")
 
-    else:
-
-        console.print("[yellow]Looks like File Hash/String[/yellow]")
+    console.print("\nAlienVault Integration coming next...")
 
     input("\nPress Enter...")
