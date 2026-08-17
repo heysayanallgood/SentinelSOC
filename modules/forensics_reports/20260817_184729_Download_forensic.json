@@ -1,0 +1,3760 @@
+{
+  "timestamp": "2026-08-17T18:47:29",
+  "target": "/storage/emulated/0/Download",
+  "mode": "directory",
+  "file_count": 622,
+  "extensions": {
+    ".mp4": 112,
+    ".pdf": 282,
+    ".mp3": 3,
+    ".docx": 10,
+    ".pptx": 7,
+    ".jpg": 159,
+    ".html": 2,
+    ".zip": 2,
+    ".opus": 1,
+    ".mov": 8,
+    ".webp": 9,
+    ".xapk": 1,
+    ".apk": 13,
+    ".xlsx": 1,
+    ".png": 1,
+    ".json": 1,
+    "": 9,
+    ".ds_store": 1
+  },
+  "timeline": [
+    {
+      "path": "/storage/emulated/0/Download/AQNqzlHpXdFT1RuS_3cWyUnwQyX4wDPWE60E8_qhzeHi5dVjVmv0xXutPotz7y45Dpcg2H0-XVCeI3lrq_gWmx2UvGAPHiY-L1jXBj_8Nht1JLUsY0BCyNhKFSQMmP-v.mp4",
+      "created": "2026-01-29T13:15:04",
+      "modified": "2026-01-29T07:43:44",
+      "accessed": "2026-01-29T07:43:41"
+    },
+    {
+      "path": "/storage/emulated/0/Download/AQNR7A3KtYUddyAld72WW44FH8z7OWtnHmptqZttN7OxudiQKYjFFMOAk7zDf36e0IZCK7pLfZcsIaf07hO-o9abP7fP4RVwzfhSZktR1Y30wdUVqo89WcIgSwn-_NUC.mp4",
+      "created": "2026-01-29T13:15:05",
+      "modified": "2026-01-29T07:51:34",
+      "accessed": "2026-01-29T07:51:21"
+    },
+    {
+      "path": "/storage/emulated/0/Download/AQPEtE4g6WcXQo-Ac6tisnebfAm96BWcXxv792UNEtsI4OvZH4QBuntr-C_3j6xBsCdJkW-ktFeFN-HjULFaM_cd3XtgHSbaUxAsaucVo7s681HMi68sMY_ViD4UkhrC.mp4",
+      "created": "2026-01-29T13:15:05",
+      "modified": "2026-01-29T07:57:49",
+      "accessed": "2026-01-29T07:52:34"
+    },
+    {
+      "path": "/storage/emulated/0/Download/WINSEM2025-26_VL_BCSE304L_00100_TH_2026-01-22_Module-3.pdf",
+      "created": "2026-02-12T19:01:53",
+      "modified": "2026-02-12T19:01:53",
+      "accessed": "2026-02-12T19:01:53"
+    },
+    {
+      "path": "/storage/emulated/0/Download/Stranger_Things_iPhone_Marimba_Remix-644897-mobiles24.mp3",
+      "created": "2026-02-01T17:26:39",
+      "modified": "2026-02-01T17:26:39",
+      "accessed": "2026-02-01T17:26:37"
+    },
+    {
+      "path": "/storage/emulated/0/Download/Sayan Chowdhury_Helix_certificate.pdf",
+      "created": "2026-02-06T17:52:53",
+      "modified": "2026-02-06T17:52:53",
+      "accessed": "2026-02-06T17:52:53"
+    },
+    {
+      "path": "/storage/emulated/0/Download/24BCI0236_VL2025260505386_AST02.pdf",
+      "created": "2026-02-06T22:55:33",
+      "modified": "2026-02-06T22:55:33",
+      "accessed": "2026-02-06T22:55:33"
+    },
+    {
+      "path": "/storage/emulated/0/Download/Assignment -1.pdf",
+      "created": "2026-02-10T18:16:52",
+      "modified": "2026-02-10T18:16:52",
+      "accessed": "2026-02-10T18:16:52"
+    },
+    {
+      "path": "/storage/emulated/0/Download/AQMhIMGoBgo-11YTYh9sgFLMemFmQlX0aG1sfc43pWBZ2qVvnHSP24he48mv3VvklLI5JqjbbUvz6JfBjBh86O7HRXOqU3nU8Vr0BQM.mp4",
+      "created": "2026-02-02T23:04:37",
+      "modified": "2026-02-02T23:04:36",
+      "accessed": "2026-02-02T23:04:35"
+    },
+    {
+      "path": "/storage/emulated/0/Download/AQMhIMGoBgo-11YTYh9sgFLMemFmQlX0aG1sfc43pWBZ2qVvnHSP24he48mv3VvklLI5JqjbbUvz6JfBjBh86O7HRXOqU3nU.mp4",
+      "created": "2026-02-02T23:05:57",
+      "modified": "2026-02-02T23:05:57",
+      "accessed": "2026-02-02T23:05:54"
+    },
+    {
+      "path": "/storage/emulated/0/Download/24BCI0236_VL2025260504823_AST03.pdf",
+      "created": "2026-02-10T11:02:58",
+      "modified": "2026-02-10T11:02:58",
+      "accessed": "2026-02-10T11:02:55"
+    },
+    {
+      "path": "/storage/emulated/0/Download/24BCI0236_VL2025260504823_AST01.pdf",
+      "created": "2026-02-10T11:03:00",
+      "modified": "2026-02-10T11:03:00",
+      "accessed": "2026-02-10T11:03:00"
+    },
+    {
+      "path": "/storage/emulated/0/Download/Assignment - 2.pdf",
+      "created": "2026-02-10T18:18:22",
+      "modified": "2026-02-10T18:18:22",
+      "accessed": "2026-02-10T18:18:22"
+    },
+    {
+      "path": "/storage/emulated/0/Download/Biswa Bangla Gate, New Town (Kolkata) — A Symbol of Planned Urban GrowthConstructed between 2011.mp4",
+      "created": "2026-02-07T09:43:53",
+      "modified": "2026-02-07T09:43:53",
+      "accessed": "2026-02-07T09:43:52"
+    },
+    {
+      "path": "/storage/emulated/0/Download/Assignment -3.pdf",
+      "created": "2026-02-10T18:18:45",
+      "modified": "2026-02-10T18:18:45",
+      "accessed": "2026-02-10T18:18:43"
+    },
+    {
+      "path": "/storage/emulated/0/Download/4D_plastics_leads.pdf",
+      "created": "2026-02-24T20:41:43",
+      "modified": "2026-02-19T20:05:38",
+      "accessed": "2026-02-19T20:05:38"
+    },
+    {
+      "path": "/storage/emulated/0/Download/ETK-Quiz Schedule Winter semester 2025.docx",
+      "created": "2026-02-18T22:14:37",
+      "modified": "2026-02-18T22:14:37",
+      "accessed": "2026-02-18T22:14:37"
+    },
+    {
+      "path": "/storage/emulated/0/Download/MIDTERM.pdf",
+      "created": "2026-03-24T23:17:51",
+      "modified": "2026-03-24T23:17:50",
+      "accessed": "2026-03-24T23:17:50"
+    },
+    {
+      "path": "/storage/emulated/0/Download/WINSEM2025-26_VL_BCSE304L_00100_TH_2026-01-30_Module-3---Regular-Expressions-and-Languages.pptx",
+      "created": "2026-02-12T19:02:07",
+      "modified": "2026-02-12T19:02:06",
+      "accessed": "2026-02-12T19:02:06"
+    },
+    {
+      "path": "/storage/emulated/0/Download/WINSEM2025-26_VL_BCSE304L_00100_TH_2026-02-05_Module-3---Regular-Expressions-and-Languages.pdf",
+      "created": "2026-02-12T19:02:20",
+      "modified": "2026-02-12T19:02:20",
+      "accessed": "2026-02-12T19:02:19"
+    },
+    {
+      "path": "/storage/emulated/0/Download/WINSEM2025-26_VL_BCSE304L_00100_TH_2026-02-12_Closure-Properties-of-Regular-Languages.pptx",
+      "created": "2026-02-12T19:02:24",
+      "modified": "2026-02-12T19:02:24",
+      "accessed": "2026-02-12T19:02:24"
+    },
+    {
+      "path": "/storage/emulated/0/Download/WINSEM2025-26_VL_BCSE304L_00100_TH_2026-02-12_pumping-lemma.pptx",
+      "created": "2026-02-12T19:02:27",
+      "modified": "2026-02-12T19:02:26",
+      "accessed": "2026-02-12T19:02:26"
+    },
+    {
+      "path": "/storage/emulated/0/Download/WINSEM2025-26_VL_BMAT202L_00100_TH_2026-02-12_Module-3-Regression-equations.pdf",
+      "created": "2026-02-12T19:04:13",
+      "modified": "2026-02-12T19:04:13",
+      "accessed": "2026-02-12T19:04:13"
+    },
+    {
+      "path": "/storage/emulated/0/Download/WINSEM2025-26_VL_BMAT202L_00100_TH_2026-02-12_Module-4-Probability-Distribution-1.pdf",
+      "created": "2026-02-12T19:04:15",
+      "modified": "2026-02-12T19:04:15",
+      "accessed": "2026-02-12T19:04:15"
+    },
+    {
+      "path": "/storage/emulated/0/Download/✨💕..... .......... .................... ......... ..... ........................................mp4",
+      "created": "2026-02-14T06:10:04",
+      "modified": "2026-02-14T06:10:04",
+      "accessed": "2026-02-14T06:09:59"
+    },
+    {
+      "path": "/storage/emulated/0/Download/WINSEM2025-26_VL_BECE204L_00100_TH_2026-02-15_Timer-MODE-0_-2_-3_-and-Counter.pdf",
+      "created": "2026-02-16T11:14:37",
+      "modified": "2026-02-16T11:14:37",
+      "accessed": "2026-02-16T11:14:37"
+    },
+    {
+      "path": "/storage/emulated/0/Download/Instructions to Non Grade Course.pdf",
+      "created": "2026-02-18T22:15:07",
+      "modified": "2026-02-18T22:15:07",
+      "accessed": "2026-02-18T22:15:07"
+    },
+    {
+      "path": "/storage/emulated/0/Download/NRI MH - Room Allotment Policy 2026 - 27.pdf",
+      "created": "2026-03-06T10:21:07",
+      "modified": "2026-03-06T10:21:07",
+      "accessed": "2026-03-06T10:21:07"
+    },
+    {
+      "path": "/storage/emulated/0/Download/Suparna chowdhury.jpg",
+      "created": "2026-03-04T10:01:18",
+      "modified": "2026-03-04T10:01:17",
+      "accessed": "2026-03-04T10:01:17"
+    },
+    {
+      "path": "/storage/emulated/0/Download/Academic Calendar for the Summer Term 2026.pdf",
+      "created": "2026-02-23T15:05:59",
+      "modified": "2026-02-23T15:05:59",
+      "accessed": "2026-02-23T15:05:59"
+    },
+    {
+      "path": "/storage/emulated/0/Download/WINSEM2025-26_VL_BCSE205L_00100_TH_2026-02-18_Byte-storage-methods-and-conceptual-view-of-memory.pdf",
+      "created": "2026-02-18T23:08:40",
+      "modified": "2026-02-18T23:08:40",
+      "accessed": "2026-02-18T23:08:39"
+    },
+    {
+      "path": "/storage/emulated/0/Download/WINSEM2025-26_VL_BCSE205L_00100_TH_2026-02-18_Byte-storage-methods-and-conceptual-view-of-memory (1).pdf",
+      "created": "2026-02-18T23:15:02",
+      "modified": "2026-02-18T23:15:02",
+      "accessed": "2026-02-18T23:15:02"
+    },
+    {
+      "path": "/storage/emulated/0/Download/Suparna chowdhury (1).jpg",
+      "created": "2026-03-04T11:35:33",
+      "modified": "2026-03-04T11:35:33",
+      "accessed": "2026-03-04T11:35:33"
+    },
+    {
+      "path": "/storage/emulated/0/Download/Suparna chowdhury (2).jpg",
+      "created": "2026-03-04T11:36:25",
+      "modified": "2026-03-04T11:36:25",
+      "accessed": "2026-03-04T11:36:25"
+    },
+    {
+      "path": "/storage/emulated/0/Download/Suparna chowdhury (3).jpg",
+      "created": "2026-03-04T11:52:10",
+      "modified": "2026-03-04T11:52:10",
+      "accessed": "2026-03-04T11:52:10"
+    },
+    {
+      "path": "/storage/emulated/0/Download/WINSEM2025-26_VL_BMAT202L_00100_TH_2026-03-09_large-sample-2.pdf",
+      "created": "2026-03-10T00:55:25",
+      "modified": "2026-03-10T00:55:25",
+      "accessed": "2026-03-10T00:55:23"
+    },
+    {
+      "path": "/storage/emulated/0/Download/Task4MPMC.pdf",
+      "created": "2026-03-28T16:32:04",
+      "modified": "2026-03-28T16:32:04",
+      "accessed": "2026-03-28T16:32:04"
+    },
+    {
+      "path": "/storage/emulated/0/Download/gram_scan.pdf",
+      "created": "2026-03-30T15:55:37",
+      "modified": "2026-03-30T15:55:37",
+      "accessed": "2026-03-30T15:55:37"
+    },
+    {
+      "path": "/storage/emulated/0/Download/MIDTERM (1).pdf",
+      "created": "2026-03-24T23:19:11",
+      "modified": "2026-03-24T23:19:11",
+      "accessed": "2026-03-24T23:19:11"
+    },
+    {
+      "path": "/storage/emulated/0/Download/WINSEM2025-26_VL_BMAT202L_00100_TH_2026-02-25_Binomial-and-Poisson-distributions.pdf",
+      "created": "2026-03-05T03:52:16",
+      "modified": "2026-03-05T03:52:16",
+      "accessed": "2026-03-05T03:52:15"
+    },
+    {
+      "path": "/storage/emulated/0/Download/WINSEM2025-26_VL_BMAT202L_00100_TH_2026-02-25_Normal-distribution.pdf",
+      "created": "2026-03-05T03:52:19",
+      "modified": "2026-03-05T03:52:19",
+      "accessed": "2026-03-05T03:52:19"
+    },
+    {
+      "path": "/storage/emulated/0/Download/WINSEM2025-26_VL_BMAT202L_00100_TH_2026-02-25_Gamma_-exponential_-weibull-distributions.pdf",
+      "created": "2026-03-05T03:52:26",
+      "modified": "2026-03-05T03:52:26",
+      "accessed": "2026-03-05T03:52:25"
+    },
+    {
+      "path": "/storage/emulated/0/Download/WINSEM2025-26_VL_BMAT202L_00100_TH_2026-02-25_Normal-distribution-Statistical-Table.pdf",
+      "created": "2026-03-05T03:52:40",
+      "modified": "2026-03-05T03:52:40",
+      "accessed": "2026-03-05T03:52:40"
+    },
+    {
+      "path": "/storage/emulated/0/Download/WINSEM2025-26_VL_BMAT202L_00100_TH_2026-02-11_Correlation-and-Regression.pdf",
+      "created": "2026-03-05T04:09:29",
+      "modified": "2026-03-05T04:09:28",
+      "accessed": "2026-03-05T04:09:28"
+    },
+    {
+      "path": "/storage/emulated/0/Download/pdfcoffee.com_probability-statistics-and-random-processes-by-veerarajan-pdf-free.pdf",
+      "created": "2026-03-10T16:30:15",
+      "modified": "2026-03-10T16:30:15",
+      "accessed": "2026-03-10T16:30:13"
+    },
+    {
+      "path": "/storage/emulated/0/Download/WINSEM2025-26_VL_BMAT202L_00100_TH_2026-03-09_Large-samples-1.pdf",
+      "created": "2026-03-10T00:55:24",
+      "modified": "2026-03-10T00:55:24",
+      "accessed": "2026-03-10T00:55:22"
+    },
+    {
+      "path": "/storage/emulated/0/Download/WINSEM2025-26_VL_BMAT202L_00100_TH_2026-03-09_large-samples.pdf",
+      "created": "2026-03-10T00:55:26",
+      "modified": "2026-03-10T00:55:26",
+      "accessed": "2026-03-10T00:55:25"
+    },
+    {
+      "path": "/storage/emulated/0/Download/videoplayback.mp4",
+      "created": "2026-03-16T00:22:28",
+      "modified": "2026-03-16T00:22:28",
+      "accessed": "2026-03-16T00:22:25"
+    },
+    {
+      "path": "/storage/emulated/0/Download/24BCI0236_VL2025260501282_CS1.pdf",
+      "created": "2026-03-24T23:23:47",
+      "modified": "2026-03-24T23:23:47",
+      "accessed": "2026-03-24T23:23:47"
+    },
+    {
+      "path": "/storage/emulated/0/Download/hiring_problem.pdf",
+      "created": "2026-03-30T15:55:35",
+      "modified": "2026-03-30T15:55:35",
+      "accessed": "2026-03-30T15:55:35"
+    },
+    {
+      "path": "/storage/emulated/0/Download/ReportTOC.pdf",
+      "created": "2026-03-31T17:12:02",
+      "modified": "2026-03-31T17:12:02",
+      "accessed": "2026-03-31T17:12:02"
+    },
+    {
+      "path": "/storage/emulated/0/Download/DAAASS3.pdf",
+      "created": "2026-04-15T06:53:10",
+      "modified": "2026-04-15T06:53:10",
+      "accessed": "2026-04-15T06:53:10"
+    },
+    {
+      "path": "/storage/emulated/0/Download/jarvis.pdf",
+      "created": "2026-03-30T15:55:40",
+      "modified": "2026-03-30T15:55:40",
+      "accessed": "2026-03-30T15:55:40"
+    },
+    {
+      "path": "/storage/emulated/0/Download/WINSEM2025-26_VL_BCSE204L_00100_TH_2026-03-19_module-2_B_B-0_1-knapsack-handwritten-notes.pdf",
+      "created": "2026-03-21T08:54:06",
+      "modified": "2026-03-21T08:54:06",
+      "accessed": "2026-03-21T08:54:06"
+    },
+    {
+      "path": "/storage/emulated/0/Download/AQNUaZ7v8yEDn4uuYiSt91pLbVouGI0B5jW1e9XbC5K9VjJ3NoB7rwdbwmpYIdf_YEB9RoHGrOr5q9JvvCJ7eOxq..mp4",
+      "created": "2026-03-22T22:18:52",
+      "modified": "2026-03-22T22:18:52",
+      "accessed": "2026-03-22T22:04:41"
+    },
+    {
+      "path": "/storage/emulated/0/Download/24BCI0236_VL2025260505386_AST04.pdf",
+      "created": "2026-03-28T16:33:53",
+      "modified": "2026-03-28T16:33:53",
+      "accessed": "2026-03-28T16:33:52"
+    },
+    {
+      "path": "/storage/emulated/0/Download/VITEEE-2021-Question-Paper.pdf",
+      "created": "2026-04-08T21:31:14",
+      "modified": "2026-04-08T21:31:14",
+      "accessed": "2026-04-08T21:31:11"
+    },
+    {
+      "path": "/storage/emulated/0/Download/Lab3 (1).pdf",
+      "created": "2026-04-16T10:17:42",
+      "modified": "2026-04-16T10:17:41",
+      "accessed": "2026-04-16T10:17:41"
+    },
+    {
+      "path": "/storage/emulated/0/Download/ReportTOC_compressed.pdf",
+      "created": "2026-03-31T17:15:51",
+      "modified": "2026-03-31T17:15:50",
+      "accessed": "2026-03-31T17:15:42"
+    },
+    {
+      "path": "/storage/emulated/0/Download/WINSEM2025-26_VL_BCSE205L_00100_TH_2025-12-12_Sample-Problems.pdf",
+      "created": "2026-04-08T20:48:45",
+      "modified": "2026-04-08T20:48:45",
+      "accessed": "2026-04-08T20:48:44"
+    },
+    {
+      "path": "/storage/emulated/0/Download/WINSEM2025-26_VL_BCSE205L_00100_TH_2026-03-10_Module-5.pdf",
+      "created": "2026-04-08T19:56:54",
+      "modified": "2026-04-08T19:56:54",
+      "accessed": "2026-04-08T19:56:53"
+    },
+    {
+      "path": "/storage/emulated/0/Download/WINSEM2025-26_VL_BCSE205L_00100_TH_2025-12-12_Module-1.pdf",
+      "created": "2026-04-08T20:48:37",
+      "modified": "2026-04-08T20:48:36",
+      "accessed": "2026-04-08T20:48:30"
+    },
+    {
+      "path": "/storage/emulated/0/Download/WINSEM2025-26_VL_BCSE205L_00100_TH_2026-01-09_Module_1.pdf",
+      "created": "2026-04-08T20:49:40",
+      "modified": "2026-04-08T20:49:40",
+      "accessed": "2026-04-08T20:49:35"
+    },
+    {
+      "path": "/storage/emulated/0/Download/WINSEM2025-26_VL_BCSE205L_00100_TH_2026-01-14_Module-1.pdf",
+      "created": "2026-04-08T20:50:01",
+      "modified": "2026-04-08T20:50:01",
+      "accessed": "2026-04-08T20:49:57"
+    },
+    {
+      "path": "/storage/emulated/0/Download/Lab4.pdf",
+      "created": "2026-04-16T10:17:48",
+      "modified": "2026-04-16T10:17:48",
+      "accessed": "2026-04-16T10:17:48"
+    },
+    {
+      "path": "/storage/emulated/0/Download/WINSEM2025-26_VL_BCSE205L_00100_TH_2026-01-09_Module_2.pptx",
+      "created": "2026-04-08T20:49:59",
+      "modified": "2026-04-08T20:49:59",
+      "accessed": "2026-04-08T20:49:52"
+    },
+    {
+      "path": "/storage/emulated/0/Download/WINSEM2025-26_VL_BCSE205L_00100_TH_2026-02-23_Module-3--Part-2.pdf",
+      "created": "2026-04-08T20:58:31",
+      "modified": "2026-04-08T20:58:31",
+      "accessed": "2026-04-08T20:58:26"
+    },
+    {
+      "path": "/storage/emulated/0/Download/WINSEM2025-26_VL_BCSE205L_00100_TH_2026-01-14_Module-2.pdf",
+      "created": "2026-04-08T20:50:04",
+      "modified": "2026-04-08T20:50:04",
+      "accessed": "2026-04-08T20:50:01"
+    },
+    {
+      "path": "/storage/emulated/0/Download/WINSEM2025-26_VL_BCSE205L_00100_TH_2026-03-10_Module4.pdf",
+      "created": "2026-04-08T20:59:00",
+      "modified": "2026-04-08T20:59:00",
+      "accessed": "2026-04-08T20:58:54"
+    },
+    {
+      "path": "/storage/emulated/0/Download/WINSEM2025-26_VL_BCSE205L_00100_TH_2026-03-13_dma_numericals.pdf",
+      "created": "2026-04-08T21:00:11",
+      "modified": "2026-04-08T21:00:11",
+      "accessed": "2026-04-08T21:00:11"
+    },
+    {
+      "path": "/storage/emulated/0/Download/VITEEE-2023-Question-Paper.pdf",
+      "created": "2026-04-08T21:33:13",
+      "modified": "2026-04-08T21:33:13",
+      "accessed": "2026-04-08T21:31:18"
+    },
+    {
+      "path": "/storage/emulated/0/Download/WINSEM2025-26_VL_BCSE205L_00100_TH_2026-03-10_Module-5 (1).pdf",
+      "created": "2026-04-08T20:59:39",
+      "modified": "2026-04-08T20:59:39",
+      "accessed": "2026-04-08T20:59:38"
+    },
+    {
+      "path": "/storage/emulated/0/Download/WINSEM2025-26_VL_BCSE205L_00100_TH_2026-03-13_dma_numericals.pptx",
+      "created": "2026-04-08T21:00:22",
+      "modified": "2026-04-08T21:00:22",
+      "accessed": "2026-04-08T21:00:12"
+    },
+    {
+      "path": "/storage/emulated/0/Download/WINSEM2025-26_VL_BCSE205L_00100_TH_2026-04-01_Module-6.pdf",
+      "created": "2026-04-08T21:00:23",
+      "modified": "2026-04-08T21:00:23",
+      "accessed": "2026-04-08T21:00:18"
+    },
+    {
+      "path": "/storage/emulated/0/Download/WINSEM2025-26_VL_BCSE205L_00100_TH_2026-04-06_Module-7.pdf",
+      "created": "2026-04-08T21:00:27",
+      "modified": "2026-04-08T21:00:27",
+      "accessed": "2026-04-08T21:00:23"
+    },
+    {
+      "path": "/storage/emulated/0/Download/Lab 8.pdf",
+      "created": "2026-04-16T10:18:23",
+      "modified": "2026-04-16T10:18:23",
+      "accessed": "2026-04-16T10:18:23"
+    },
+    {
+      "path": "/storage/emulated/0/Download/Lab 9.pdf",
+      "created": "2026-04-16T10:18:28",
+      "modified": "2026-04-16T10:18:28",
+      "accessed": "2026-04-16T10:18:28"
+    },
+    {
+      "path": "/storage/emulated/0/Download/Lab6.pdf",
+      "created": "2026-04-16T10:18:00",
+      "modified": "2026-04-16T10:18:00",
+      "accessed": "2026-04-16T10:18:00"
+    },
+    {
+      "path": "/storage/emulated/0/Download/Lab6 (1).pdf",
+      "created": "2026-04-16T10:18:06",
+      "modified": "2026-04-16T10:18:06",
+      "accessed": "2026-04-16T10:18:06"
+    },
+    {
+      "path": "/storage/emulated/0/Download/VITEEE-2024-Question-Paper.pdf",
+      "created": "2026-04-08T21:34:04",
+      "modified": "2026-04-08T21:34:04",
+      "accessed": "2026-04-08T21:31:20"
+    },
+    {
+      "path": "/storage/emulated/0/Download/24BCI0236_VL2025260109207_FAT.pdf",
+      "created": "2026-04-09T00:45:33",
+      "modified": "2026-04-09T00:45:33",
+      "accessed": "2026-04-09T00:45:32"
+    },
+    {
+      "path": "/storage/emulated/0/Download/SERIAL COMMUNICATION.pdf",
+      "created": "2026-04-16T10:18:39",
+      "modified": "2026-04-16T10:18:38",
+      "accessed": "2026-04-16T10:18:38"
+    },
+    {
+      "path": "/storage/emulated/0/Download/Lab 10.pdf",
+      "created": "2026-04-16T10:18:33",
+      "modified": "2026-04-16T10:18:33",
+      "accessed": "2026-04-16T10:18:33"
+    },
+    {
+      "path": "/storage/emulated/0/Download/INTERRUPTS.pdf",
+      "created": "2026-04-16T10:18:45",
+      "modified": "2026-04-16T10:18:45",
+      "accessed": "2026-04-16T10:18:45"
+    },
+    {
+      "path": "/storage/emulated/0/Download/cao_study_notes.html",
+      "created": "2026-04-23T21:49:53",
+      "modified": "2026-04-20T21:49:50",
+      "accessed": "2026-04-20T21:49:50"
+    },
+    {
+      "path": "/storage/emulated/0/Download/fakephonepe-37.5.xapk.zip",
+      "created": "2026-04-25T23:51:49",
+      "modified": "2026-04-25T23:51:49",
+      "accessed": "2026-04-25T23:48:56"
+    },
+    {
+      "path": "/storage/emulated/0/Download/24BCI0236_VL2025260505386_AST01.pdf",
+      "created": "2026-04-16T10:19:48",
+      "modified": "2026-04-16T10:19:48",
+      "accessed": "2026-04-16T10:19:48"
+    },
+    {
+      "path": "/storage/emulated/0/Download/24BCI0236_VL2025260505386_AST03 (1).pdf",
+      "created": "2026-04-16T10:19:59",
+      "modified": "2026-04-16T10:19:59",
+      "accessed": "2026-04-16T10:19:59"
+    },
+    {
+      "path": "/storage/emulated/0/Download/24BCI0236_VL2025260505386_AST04 (1).pdf",
+      "created": "2026-04-16T10:20:02",
+      "modified": "2026-04-16T10:20:02",
+      "accessed": "2026-04-16T10:20:02"
+    },
+    {
+      "path": "/storage/emulated/0/Download/24BCI0236_VL2025260505386_AST05.pdf",
+      "created": "2026-04-16T10:20:03",
+      "modified": "2026-04-16T10:20:03",
+      "accessed": "2026-04-16T10:20:03"
+    },
+    {
+      "path": "/storage/emulated/0/Download/AQP4Ze6d7y3ADbVqoLZntjKnktvXDpN7GV6LV3O7IG0fySyancgk6zIDEel09H4qD2QYK6Rh720tV_LF04bLg5zMW3NHWJjwF-TK0IFLy8lBd2T8CT0RmkY-zxfz-iIZfG_HM7DwV8X9AG7ZPqGW5315BP4Q8twHVBk2gYk.mp4",
+      "created": "2026-04-09T11:08:09",
+      "modified": "2026-04-09T11:08:09",
+      "accessed": "2026-04-09T11:08:04"
+    },
+    {
+      "path": "/storage/emulated/0/Download/AQPBJEDxSy3kLVsGidRnszF1ZWJPLrjwUZe7YwACkFaXeJJVFUjTMZ4uIRI1_xZXOpFD2aIFn8Zh572JqUe9OVf3nBUb6HvOxEcmfsJmouALp-JK2oGPj09HgVoEBQJ9pYafB9M6qZ3Mqpd8r47NYZhNF1OkDnSZnf7bVCE~2.mp4",
+      "created": "2026-04-20T09:45:24",
+      "modified": "2026-04-20T09:45:24",
+      "accessed": "2026-04-20T09:45:24"
+    },
+    {
+      "path": "/storage/emulated/0/Download/AQPBJEDxSy3kLVsGidRnszF1ZWJPLrjwUZe7YwACkFaXeJJVFUjTMZ4uIRI1_xZXOpFD2aIFn8Zh572JqUe9OVf3nBUb6HvOxEcmfsJmouALp-JK2oGPj09HgVoEBQJ9pYafB9M6qZ3Mqpd8r47NYZhNF1OkDnSZnf7bVCE~6.mp4",
+      "created": "2026-04-20T10:09:16",
+      "modified": "2026-04-20T10:09:16",
+      "accessed": "2026-04-20T10:09:16"
+    },
+    {
+      "path": "/storage/emulated/0/Download/AQPBJEDxSy3kLVsGidRnszF1ZWJPLrjwUZe7YwACkFaXeJJVFUjTMZ4uIRI1_xZXOpFD2aIFn8Zh572JqUe9OVf3nBUb6HvOxEcmfsJmouALp-JK2oGPj09HgVoEBQJ9pYafB9M6qZ3Mqpd8r47NYZhNF1OkDnSZnf7bVCE~5.mp4",
+      "created": "2026-04-20T09:53:30",
+      "modified": "2026-04-20T09:53:30",
+      "accessed": "2026-04-20T09:53:30"
+    },
+    {
+      "path": "/storage/emulated/0/Download/AQOYRiMGJYHW-B03blURvXWcFsX_gFfJvKRWt4cUiOzYbkxJPxwiuSii5MEE0OH2H8BZx3CV37IS4cI0rzF86vNI8sJmyYX75FOa_vfzC49H8keCrjlCLNG-TzqAGmj4QsTjzc57wU0jZZafsCfeYKlo4dQZa_SL8Ignf_g~2.mp4",
+      "created": "2026-04-20T09:55:26",
+      "modified": "2026-04-20T09:55:26",
+      "accessed": "2026-04-20T09:55:26"
+    },
+    {
+      "path": "/storage/emulated/0/Download/AQMybLdTNxBY19thJoLhx9aARWowfO5wnqaAI6dX-MEP80fMx59eTpYSGHGO3M2jd3_MUG3wF3T21ICQCBIlORnII8t-6u0zRHmE7z2y8f83B7aZDi-z1yCEMJvbHL6-YPwJuxuctCfEXYcTFy1UOABFVkLjFAehIFfpzPk.mp4",
+      "created": "2026-04-22T22:28:49",
+      "modified": "2026-04-22T22:28:49",
+      "accessed": "2026-04-22T22:28:34"
+    },
+    {
+      "path": "/storage/emulated/0/Download/BECE204L-FAT-B2-2024-2025.pdf",
+      "created": "2026-04-28T01:44:51",
+      "modified": "2026-04-28T01:44:51",
+      "accessed": "2026-04-28T01:44:51"
+    },
+    {
+      "path": "/storage/emulated/0/Download/BECE204L-FAT-G1-2024-2025.pdf",
+      "created": "2026-04-28T01:44:58",
+      "modified": "2026-04-28T01:44:58",
+      "accessed": "2026-04-28T01:44:58"
+    },
+    {
+      "path": "/storage/emulated/0/Download/snapsave-app_2034793897108933_hd.mp4",
+      "created": "2026-04-22T22:35:26",
+      "modified": "2026-04-22T22:35:26",
+      "accessed": "2026-04-22T22:34:36"
+    },
+    {
+      "path": "/storage/emulated/0/Download/snapsave-app_940615402065682_hd.mp4",
+      "created": "2026-04-22T22:38:01",
+      "modified": "2026-04-22T22:38:00",
+      "accessed": "2026-04-22T22:37:11"
+    },
+    {
+      "path": "/storage/emulated/0/Download/snapsave-app_949067327841311_hd.mp4",
+      "created": "2026-04-23T22:35:12",
+      "modified": "2026-04-23T22:35:12",
+      "accessed": "2026-04-23T22:35:08"
+    },
+    {
+      "path": "/storage/emulated/0/Download/BECE204L-FAT-B1-2024-2025.pdf",
+      "created": "2026-04-28T01:44:29",
+      "modified": "2026-04-28T01:44:29",
+      "accessed": "2026-04-28T01:44:29"
+    },
+    {
+      "path": "/storage/emulated/0/Download/BECE204L-FAT-C1-2023-2024.pdf",
+      "created": "2026-04-28T01:44:31",
+      "modified": "2026-04-28T01:44:31",
+      "accessed": "2026-04-28T01:44:31"
+    },
+    {
+      "path": "/storage/emulated/0/Download/AQP6SCfm3jT_wWSls_WHaORygGgWVV9TgoQ3HHhJiVFNyVK3dpdXCWJsBl8RfDAZxYHJkTeC9CumT-bhPqLx1PX2hfnyMN0i1TLDDFlJZKL8LQ.mp4",
+      "created": "2026-04-28T15:56:37",
+      "modified": "2026-04-28T15:56:36",
+      "accessed": "2026-04-28T15:56:33"
+    },
+    {
+      "path": "/storage/emulated/0/Download/BCSE304L-FAT-F1-2024-2025.pdf",
+      "created": "2026-04-29T11:31:43",
+      "modified": "2026-04-29T11:31:43",
+      "accessed": "2026-04-29T11:31:43"
+    },
+    {
+      "path": "/storage/emulated/0/Download/AQNRhi4aqEF08aeltGvmRRl0_EF3yPmoi_sdqL30ONywFyL6Ow7JY4MTnKA4vU6wUapGp_cswOq3epj6Wlr-y5SO..mp4",
+      "created": "2026-03-22T22:21:21",
+      "modified": "2026-03-22T22:21:21",
+      "accessed": "2026-03-22T22:19:21"
+    },
+    {
+      "path": "/storage/emulated/0/Download/pdfcoffee.com_probability-statistics-and-random-processes-1-2-pdf-free.pdf",
+      "created": "2026-03-10T16:35:02",
+      "modified": "2026-03-10T16:35:02",
+      "accessed": "2026-03-10T16:34:21"
+    },
+    {
+      "path": "/storage/emulated/0/Download/WINSEM2025-26_VL_BCSE204L_00100_TH_2026-01-28_MODULE-2_0_1-KNAPSACK_H_W.pdf",
+      "created": "2026-03-21T08:55:33",
+      "modified": "2026-03-21T08:55:33",
+      "accessed": "2026-03-21T08:55:32"
+    },
+    {
+      "path": "/storage/emulated/0/Download/24BCI0236_VL2025260502023_CS1 (1).pdf",
+      "created": "2026-03-28T15:46:37",
+      "modified": "2026-03-28T15:46:37",
+      "accessed": "2026-03-28T15:46:37"
+    },
+    {
+      "path": "/storage/emulated/0/Download/Assessment 5.pdf",
+      "created": "2026-04-03T19:53:09",
+      "modified": "2026-04-03T19:53:09",
+      "accessed": "2026-04-03T19:53:09"
+    },
+    {
+      "path": "/storage/emulated/0/Download/24BCI0236_VL2025260502023_CS1.pdf",
+      "created": "2026-03-28T15:46:13",
+      "modified": "2026-03-28T15:46:13",
+      "accessed": "2026-03-28T15:46:13"
+    },
+    {
+      "path": "/storage/emulated/0/Download/24BCI0236_VL2025260505386_AST03.pdf",
+      "created": "2026-03-28T15:52:16",
+      "modified": "2026-03-28T15:52:15",
+      "accessed": "2026-03-28T15:52:15"
+    },
+    {
+      "path": "/storage/emulated/0/Download/Academic Calendar_Fall Semester 2026 -27.pdf",
+      "created": "2026-03-29T08:58:56",
+      "modified": "2026-03-29T08:58:56",
+      "accessed": "2026-03-29T08:58:56"
+    },
+    {
+      "path": "/storage/emulated/0/Download/24BCI0236_VL2025260501282_CS1 (1).pdf",
+      "created": "2026-03-31T17:20:54",
+      "modified": "2026-03-31T17:20:53",
+      "accessed": "2026-03-31T17:20:53"
+    },
+    {
+      "path": "/storage/emulated/0/Download/WINSEM2025-26_VL_BCSE205L_00100_TH_2026-01-14_Module-3---Part1.pdf",
+      "created": "2026-04-08T20:50:20",
+      "modified": "2026-04-08T20:50:20",
+      "accessed": "2026-04-08T20:50:18"
+    },
+    {
+      "path": "/storage/emulated/0/Download/WINSEM2025-26_VL_BCSE205L_00100_TH_2026-01-14_Module_3_AddressingMode.pptx",
+      "created": "2026-04-08T20:50:24",
+      "modified": "2026-04-08T20:50:24",
+      "accessed": "2026-04-08T20:50:23"
+    },
+    {
+      "path": "/storage/emulated/0/Download/WINSEM2025-26_VL_BCSE205L_00100_TH_2026-02-20_Module_4.pptx",
+      "created": "2026-04-08T20:58:26",
+      "modified": "2026-04-08T20:58:26",
+      "accessed": "2026-04-08T20:58:18"
+    },
+    {
+      "path": "/storage/emulated/0/Download/VITEEE-2025-Question-Paper.pdf",
+      "created": "2026-04-08T21:33:39",
+      "modified": "2026-04-08T21:33:39",
+      "accessed": "2026-04-08T21:31:24"
+    },
+    {
+      "path": "/storage/emulated/0/Download/DOC-20260409-WA0000..pdf",
+      "created": "2026-04-09T00:46:26",
+      "modified": "2026-04-09T00:46:26",
+      "accessed": "2026-04-09T00:46:26"
+    },
+    {
+      "path": "/storage/emulated/0/Download/VITEEE-2022-Question-Paper.pdf",
+      "created": "2026-04-08T21:33:06",
+      "modified": "2026-04-08T21:33:06",
+      "accessed": "2026-04-08T21:31:17"
+    },
+    {
+      "path": "/storage/emulated/0/Download/DAAASS3 (1).pdf",
+      "created": "2026-04-15T06:54:24",
+      "modified": "2026-04-15T06:54:24",
+      "accessed": "2026-04-15T06:54:24"
+    },
+    {
+      "path": "/storage/emulated/0/Download/WINSEM2025-26_VL_BCSE205L_00100_TH_2026-02-20_Module_3_ALU.pdf",
+      "created": "2026-04-08T20:58:19",
+      "modified": "2026-04-08T20:58:19",
+      "accessed": "2026-04-08T20:58:15"
+    },
+    {
+      "path": "/storage/emulated/0/Download/WINSEM2025-26_VL_BCSE205L_00100_TH_2026-03-10_Module_5_DMA.pdf",
+      "created": "2026-04-08T20:59:01",
+      "modified": "2026-04-08T20:59:01",
+      "accessed": "2026-04-08T20:59:00"
+    },
+    {
+      "path": "/storage/emulated/0/Download/24BCI0236_VL2025260109207_FAT (1).pdf",
+      "created": "2026-04-09T00:47:24",
+      "modified": "2026-04-09T00:47:24",
+      "accessed": "2026-04-09T00:47:24"
+    },
+    {
+      "path": "/storage/emulated/0/Download/AQP4Ze6d7y3ADbVqoLZntjKnktvXDpN7GV6LV3O7IG0fySyancgk6zIDEel09H4qD2QYK6Rh720tV_LF04bLg5zMW3NHWJjwF-TK0IFLy8lBd2T8CT0RmkY-zxfz-iIZfG_HM7DwV8X9AG7ZPqGW5315BP4Q8twHVBk2gYk~3.mp4",
+      "created": "2026-04-09T11:12:34",
+      "modified": "2026-04-09T11:12:34",
+      "accessed": "2026-04-09T11:12:33"
+    },
+    {
+      "path": "/storage/emulated/0/Download/DAaFat.pdf",
+      "created": "2026-04-15T18:23:42",
+      "modified": "2026-04-15T06:54:58",
+      "accessed": "2026-04-15T06:54:58"
+    },
+    {
+      "path": "/storage/emulated/0/Download/Lab2.pdf",
+      "created": "2026-04-16T10:17:16",
+      "modified": "2026-04-16T10:17:16",
+      "accessed": "2026-04-16T10:17:16"
+    },
+    {
+      "path": "/storage/emulated/0/Download/AQP4Ze6d7y3ADbVqoLZntjKnktvXDpN7GV6LV3O7IG0fySyancgk6zIDEel09H4qD2QYK6Rh720tV_LF04bLg5zMW3NHWJjwF-TK0IFLy8lBd2T8CT0RmkY-zxfz-iIZfG_HM7DwV8X9AG7ZPqGW5315BP4Q8twHVBk2gYk~2.mp4",
+      "created": "2026-04-09T11:11:04",
+      "modified": "2026-04-09T11:11:04",
+      "accessed": "2026-04-09T11:11:04"
+    },
+    {
+      "path": "/storage/emulated/0/Download/AQPBJEDxSy3kLVsGidRnszF1ZWJPLrjwUZe7YwACkFaXeJJVFUjTMZ4uIRI1_xZXOpFD2aIFn8Zh572JqUe9OVf3nBUb6HvOxEcmfsJmouALp-JK2oGPj09HgVoEBQJ9pYafB9M6qZ3Mqpd8r47NYZhNF1OkDnSZnf7bVCE.mp4",
+      "created": "2026-04-10T22:38:16",
+      "modified": "2026-04-10T22:38:16",
+      "accessed": "2026-04-10T22:38:08"
+    },
+    {
+      "path": "/storage/emulated/0/Download/AUD-20260415-WA0049.opus",
+      "created": "2026-04-15T19:00:16",
+      "modified": "2026-04-15T19:00:14",
+      "accessed": "2026-04-15T19:00:14"
+    },
+    {
+      "path": "/storage/emulated/0/Download/Lab3.pdf",
+      "created": "2026-04-16T10:17:32",
+      "modified": "2026-04-16T10:17:32",
+      "accessed": "2026-04-16T10:17:32"
+    },
+    {
+      "path": "/storage/emulated/0/Download/Lab5.pdf",
+      "created": "2026-04-16T10:17:53",
+      "modified": "2026-04-16T10:17:53",
+      "accessed": "2026-04-16T10:17:53"
+    },
+    {
+      "path": "/storage/emulated/0/Download/Lab7.pdf",
+      "created": "2026-04-16T10:18:11",
+      "modified": "2026-04-16T10:18:11",
+      "accessed": "2026-04-16T10:18:11"
+    },
+    {
+      "path": "/storage/emulated/0/Download/24BCI0236_VL2025260505386_AST02 (1).pdf",
+      "created": "2026-04-16T10:19:57",
+      "modified": "2026-04-16T10:19:57",
+      "accessed": "2026-04-16T10:19:57"
+    },
+    {
+      "path": "/storage/emulated/0/Download/io ports programming.pdf",
+      "created": "2026-04-16T10:18:17",
+      "modified": "2026-04-16T10:18:17",
+      "accessed": "2026-04-16T10:18:17"
+    },
+    {
+      "path": "/storage/emulated/0/Download/BCSE205L-FAT-C1-2025-2026.pdf",
+      "created": "2026-04-18T17:07:50",
+      "modified": "2026-04-18T17:07:50",
+      "accessed": "2026-04-18T17:07:49"
+    },
+    {
+      "path": "/storage/emulated/0/Download/BCSE205L-FAT-A2-2023-2024.pdf",
+      "created": "2026-04-18T17:08:21",
+      "modified": "2026-04-18T17:08:21",
+      "accessed": "2026-04-18T17:08:21"
+    },
+    {
+      "path": "/storage/emulated/0/Download/booking.pdf",
+      "created": "2026-04-26T21:42:54",
+      "modified": "2026-04-26T21:42:54",
+      "accessed": "2026-04-26T21:42:54"
+    },
+    {
+      "path": "/storage/emulated/0/Download/24BCI0236_VL2025260505386_AST01 (1)-combined.pdf",
+      "created": "2026-04-16T11:07:11",
+      "modified": "2026-04-16T11:07:11",
+      "accessed": "2026-04-16T11:07:11"
+    },
+    {
+      "path": "/storage/emulated/0/Download/24BCI0236_VL2025260109207_FAT (2).pdf",
+      "created": "2026-04-17T19:23:23",
+      "modified": "2026-04-17T19:23:23",
+      "accessed": "2026-04-17T19:23:23"
+    },
+    {
+      "path": "/storage/emulated/0/Download/BCSE205L-FAT-D1-2023-2024.pdf",
+      "created": "2026-04-18T17:08:25",
+      "modified": "2026-04-18T17:08:25",
+      "accessed": "2026-04-18T17:08:25"
+    },
+    {
+      "path": "/storage/emulated/0/Download/BCSE205L_COMPUTER-ARCHITECTURE-AND-ORGANIZATION_TH_1.0_70_BCSE205L.pdf",
+      "created": "2026-04-18T17:10:45",
+      "modified": "2026-04-18T17:10:45",
+      "accessed": "2026-04-18T17:10:45"
+    },
+    {
+      "path": "/storage/emulated/0/Download/cao_difference_tables.html",
+      "created": "2026-04-23T00:24:02",
+      "modified": "2026-04-20T00:24:00",
+      "accessed": "2026-04-20T00:24:00"
+    },
+    {
+      "path": "/storage/emulated/0/Download/AQOYRiMGJYHW-B03blURvXWcFsX_gFfJvKRWt4cUiOzYbkxJPxwiuSii5MEE0OH2H8BZx3CV37IS4cI0rzF86vNI8sJmyYX75FOa_vfzC49H8keCrjlCLNG-TzqAGmj4QsTjzc57wU0jZZafsCfeYKlo4dQZa_SL8Ignf_g.mp4",
+      "created": "2026-04-20T09:43:20",
+      "modified": "2026-04-20T09:43:20",
+      "accessed": "2026-04-20T09:43:17"
+    },
+    {
+      "path": "/storage/emulated/0/Download/AQPBJEDxSy3kLVsGidRnszF1ZWJPLrjwUZe7YwACkFaXeJJVFUjTMZ4uIRI1_xZXOpFD2aIFn8Zh572JqUe9OVf3nBUb6HvOxEcmfsJmouALp-JK2oGPj09HgVoEBQJ9pYafB9M6qZ3Mqpd8r47NYZhNF1OkDnSZnf7bVCE~3.mp4",
+      "created": "2026-04-20T09:48:55",
+      "modified": "2026-04-20T09:48:54",
+      "accessed": "2026-04-20T09:48:54"
+    },
+    {
+      "path": "/storage/emulated/0/Download/AQOYRiMGJYHW-B03blURvXWcFsX_gFfJvKRWt4cUiOzYbkxJPxwiuSii5MEE0OH2H8BZx3CV37IS4cI0rzF86vNI8sJmyYX75FOa_vfzC49H8keCrjlCLNG-TzqAGmj4QsTjzc57wU0jZZafsCfeYKlo4dQZa_SL8Ignf_g~3.mp4",
+      "created": "2026-04-20T10:05:31",
+      "modified": "2026-04-20T10:05:31",
+      "accessed": "2026-04-20T10:05:30"
+    },
+    {
+      "path": "/storage/emulated/0/Download/BECE204L-FAT-D2-2024-2025.pdf",
+      "created": "2026-04-28T01:44:12",
+      "modified": "2026-04-28T01:44:12",
+      "accessed": "2026-04-28T01:44:12"
+    },
+    {
+      "path": "/storage/emulated/0/Download/AQPBJEDxSy3kLVsGidRnszF1ZWJPLrjwUZe7YwACkFaXeJJVFUjTMZ4uIRI1_xZXOpFD2aIFn8Zh572JqUe9OVf3nBUb6HvOxEcmfsJmouALp-JK2oGPj09HgVoEBQJ9pYafB9M6qZ3Mqpd8r47NYZhNF1OkDnSZnf7bVCE~4.mp4",
+      "created": "2026-04-20T09:51:50",
+      "modified": "2026-04-20T09:51:50",
+      "accessed": "2026-04-20T09:51:49"
+    },
+    {
+      "path": "/storage/emulated/0/Download/AQOYRiMGJYHW-B03blURvXWcFsX_gFfJvKRWt4cUiOzYbkxJPxwiuSii5MEE0OH2H8BZx3CV37IS4cI0rzF86vNI8sJmyYX75FOa_vfzC49H8keCrjlCLNG-TzqAGmj4QsTjzc57wU0jZZafsCfeYKlo4dQZa_SL8Ignf_g~5.mp4",
+      "created": "2026-04-20T10:06:53",
+      "modified": "2026-04-20T10:06:53",
+      "accessed": "2026-04-20T10:06:53"
+    },
+    {
+      "path": "/storage/emulated/0/Download/BECE204L-FAT-B1-2023-2024.pdf",
+      "created": "2026-04-28T01:44:24",
+      "modified": "2026-04-28T01:44:24",
+      "accessed": "2026-04-28T01:44:24"
+    },
+    {
+      "path": "/storage/emulated/0/Download/AQOYRiMGJYHW-B03blURvXWcFsX_gFfJvKRWt4cUiOzYbkxJPxwiuSii5MEE0OH2H8BZx3CV37IS4cI0rzF86vNI8sJmyYX75FOa_vfzC49H8keCrjlCLNG-TzqAGmj4QsTjzc57wU0jZZafsCfeYKlo4dQZa_SL8Ignf_g~4.mp4",
+      "created": "2026-04-20T10:06:02",
+      "modified": "2026-04-20T10:06:02",
+      "accessed": "2026-04-20T10:06:02"
+    },
+    {
+      "path": "/storage/emulated/0/Download/AQM4hg4sIEP01dUGj_P-dkfX93OFOhhPsAvhQWk9XMGaWpMHl_6HUtrsUdKAod3yjZlqtGNq7yK1Unj5vMH_lmI7qbM3oW9_iLtn0Sih-Wwk4A.mp4",
+      "created": "2026-04-22T22:27:37",
+      "modified": "2026-04-22T22:27:36",
+      "accessed": "2026-04-22T22:27:16"
+    },
+    {
+      "path": "/storage/emulated/0/Download/BCSE304L-FAT-B2-2023-2024.pdf",
+      "created": "2026-04-29T11:40:05",
+      "modified": "2026-04-29T11:40:05",
+      "accessed": "2026-04-29T11:40:05"
+    },
+    {
+      "path": "/storage/emulated/0/Download/first resume.pdf",
+      "created": "2026-05-09T13:50:06",
+      "modified": "2026-05-09T13:50:06",
+      "accessed": "2026-05-09T13:50:06"
+    },
+    {
+      "path": "/storage/emulated/0/Download/VIT PAYMENT.pdf",
+      "created": "2026-05-24T08:22:19",
+      "modified": "2026-05-24T08:22:19",
+      "accessed": "2026-05-24T08:22:19"
+    },
+    {
+      "path": "/storage/emulated/0/Download/snapsave-app_978732911399639_hd.mp4",
+      "created": "2026-04-22T22:41:09",
+      "modified": "2026-04-22T22:41:09",
+      "accessed": "2026-04-22T22:40:51"
+    },
+    {
+      "path": "/storage/emulated/0/Download/AQP3cCXxQPQxixGhXYYq0LkPeuTIUBA4ZBFE_-XN5DLRqkOJJrO-V2XxMFKWeDruvj8n9Se4F-krf-xXYPO0FXCfSszAt00xLLpFuOFDSQ.mp4",
+      "created": "2026-05-05T18:41:13",
+      "modified": "2026-05-05T18:41:13",
+      "accessed": "2026-05-05T18:41:12"
+    },
+    {
+      "path": "/storage/emulated/0/Download/AQPfeG6E5pqkOWJNncbDtXJDhMQzGpWANlQ7EKBYBvFX8jqXkiQtyxWM26YTDhD6jh2pFeCA5wRYLKgaeeOGUI4Bakuyjp802sGYj-fEyZ4kMg.mp4",
+      "created": "2026-05-06T09:55:14",
+      "modified": "2026-05-06T09:55:14",
+      "accessed": "2026-05-06T09:55:09"
+    },
+    {
+      "path": "/storage/emulated/0/Download/eticket-Mr-CHOWDHURY-Sayan.pdf",
+      "created": "2026-05-13T09:27:45",
+      "modified": "2026-05-13T09:27:45",
+      "accessed": "2026-05-13T09:27:45"
+    },
+    {
+      "path": "/storage/emulated/0/Download/eticket-Mrs-CHAUDHURI-Suparna.pdf",
+      "created": "2026-05-13T09:27:47",
+      "modified": "2026-05-13T09:27:47",
+      "accessed": "2026-05-13T09:27:47"
+    },
+    {
+      "path": "/storage/emulated/0/Download/wolf_world_tour_30s.mp4",
+      "created": "2026-05-18T19:46:57",
+      "modified": "2026-05-16T15:19:45",
+      "accessed": "2026-05-16T15:19:44"
+    },
+    {
+      "path": "/storage/emulated/0/Download/first resume (1).pdf",
+      "created": "2026-06-02T01:19:30",
+      "modified": "2026-06-02T01:19:30",
+      "accessed": "2026-06-02T01:19:30"
+    },
+    {
+      "path": "/storage/emulated/0/Download/AQP-opSe5qA3bTDQW-r-GIwcKclkHAie6IlS08y_6a1GrY15Q3gFuP2PsLNGROO88XYE_3hOpy9cteGTmeFeuix6vp3UNm_EEmgDCtV4hsa-lg.mp4",
+      "created": "2026-05-06T10:02:45",
+      "modified": "2026-05-06T10:02:45",
+      "accessed": "2026-05-06T10:02:43"
+    },
+    {
+      "path": "/storage/emulated/0/Download/eticket-Mr-CHOUDHURY-Subhashis.pdf",
+      "created": "2026-05-13T09:27:48",
+      "modified": "2026-05-13T09:27:48",
+      "accessed": "2026-05-13T09:27:48"
+    },
+    {
+      "path": "/storage/emulated/0/Download/YTDown_Shorts_raghavchadha-ab-kaha-chhup-gye-ab-kyu-na_Media_Zoq-zL5_Gaw_001_720p.mp4",
+      "created": "2026-05-15T10:38:44",
+      "modified": "2026-05-15T10:38:44",
+      "accessed": "2026-05-15T10:38:41"
+    },
+    {
+      "path": "/storage/emulated/0/Download/wolf_dance_routine_10s_289d9f0e.mp4",
+      "created": "2026-05-18T19:46:57",
+      "modified": "2026-05-16T15:19:54",
+      "accessed": "2026-05-16T15:19:51"
+    },
+    {
+      "path": "/storage/emulated/0/Download/SaveClip.App_AQMJ-PeOtd_253y3Dy9Uygmr6SaSTxJyriFIAv_XRAodkNTsREv4oPp2VpCQY2E5Q3ogHKvTbyKb_gjMwCGCytkhOu4b7_1Hkp7fhTI.mp4",
+      "created": "2026-05-19T07:03:30",
+      "modified": "2026-05-19T07:03:30",
+      "accessed": "2026-05-19T07:03:30"
+    },
+    {
+      "path": "/storage/emulated/0/Download/AQOWVC1mVOCz1HZIP6hIs1pRnV0wcJy5r1j8p6iZAt0KIc2QeFdqaFyVqdDuE0lkxVEkoX6oaM9saLA_GkFKosOnbakNYyd5.mp4",
+      "created": "2026-05-23T23:18:39",
+      "modified": "2026-05-23T23:18:39",
+      "accessed": "2026-05-23T23:18:38"
+    },
+    {
+      "path": "/storage/emulated/0/Download/AQNKvGSt5fkivwWUv7EPUQKo2_HlLJa8OBHduAQeVVbHYt4dFsYWi_0eu8cWbUWPgOQ39xkQ-jwa4d_OK90lLOoz9RvyZBGCwYwmnTk (2).mp4",
+      "created": "2026-05-31T00:01:49",
+      "modified": "2026-05-31T00:01:49",
+      "accessed": "2026-05-31T00:01:49"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1220.JPG",
+      "created": "2026-06-07T15:42:43",
+      "modified": "2026-06-07T15:42:43",
+      "accessed": "2026-06-07T15:42:43"
+    },
+    {
+      "path": "/storage/emulated/0/Download/MVI_1157.MOV",
+      "created": "2026-06-07T15:42:58",
+      "modified": "2026-06-07T15:42:58",
+      "accessed": "2026-06-07T15:42:58"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1202.JPG",
+      "created": "2026-06-07T15:43:13",
+      "modified": "2026-06-07T15:43:13",
+      "accessed": "2026-06-07T15:43:13"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1114.JPG",
+      "created": "2026-06-07T15:43:15",
+      "modified": "2026-06-07T15:43:15",
+      "accessed": "2026-06-07T15:43:15"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1218.JPG",
+      "created": "2026-06-07T15:43:19",
+      "modified": "2026-06-07T15:43:19",
+      "accessed": "2026-06-07T15:43:19"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1205.JPG",
+      "created": "2026-06-07T15:43:26",
+      "modified": "2026-06-07T15:43:26",
+      "accessed": "2026-06-07T15:43:26"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1151.JPG",
+      "created": "2026-06-07T15:43:28",
+      "modified": "2026-06-07T15:43:28",
+      "accessed": "2026-06-07T15:43:28"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1192.JPG",
+      "created": "2026-06-07T15:43:35",
+      "modified": "2026-06-07T15:43:35",
+      "accessed": "2026-06-07T15:43:35"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1184.JPG",
+      "created": "2026-06-07T15:43:41",
+      "modified": "2026-06-07T15:43:41",
+      "accessed": "2026-06-07T15:43:41"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1085.JPG",
+      "created": "2026-06-07T15:43:41",
+      "modified": "2026-06-07T15:43:41",
+      "accessed": "2026-06-07T15:43:41"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1203.JPG",
+      "created": "2026-06-07T15:43:54",
+      "modified": "2026-06-07T15:43:54",
+      "accessed": "2026-06-07T15:43:54"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1175.JPG",
+      "created": "2026-06-07T15:43:58",
+      "modified": "2026-06-07T15:43:58",
+      "accessed": "2026-06-07T15:43:58"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1168.JPG",
+      "created": "2026-06-07T15:44:00",
+      "modified": "2026-06-07T15:44:00",
+      "accessed": "2026-06-07T15:44:00"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1169.JPG",
+      "created": "2026-06-07T15:44:31",
+      "modified": "2026-06-07T15:44:31",
+      "accessed": "2026-06-07T15:44:31"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1236.JPG",
+      "created": "2026-06-07T15:44:38",
+      "modified": "2026-06-07T15:44:38",
+      "accessed": "2026-06-07T15:44:38"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1152.JPG",
+      "created": "2026-06-07T15:44:43",
+      "modified": "2026-06-07T15:44:43",
+      "accessed": "2026-06-07T15:44:43"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1232.JPG",
+      "created": "2026-06-07T15:44:52",
+      "modified": "2026-06-07T15:44:52",
+      "accessed": "2026-06-07T15:44:52"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1118.JPG",
+      "created": "2026-06-07T15:45:08",
+      "modified": "2026-06-07T15:45:08",
+      "accessed": "2026-06-07T15:45:08"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1238.JPG",
+      "created": "2026-06-07T15:45:14",
+      "modified": "2026-06-07T15:45:14",
+      "accessed": "2026-06-07T15:45:14"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1131.JPG",
+      "created": "2026-06-07T15:45:37",
+      "modified": "2026-06-07T15:45:37",
+      "accessed": "2026-06-07T15:45:37"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1150 (1).JPG",
+      "created": "2026-06-07T15:45:39",
+      "modified": "2026-06-07T15:45:39",
+      "accessed": "2026-06-07T15:45:39"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1130.JPG",
+      "created": "2026-06-07T15:45:57",
+      "modified": "2026-06-07T15:45:57",
+      "accessed": "2026-06-07T15:45:57"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1187.JPG",
+      "created": "2026-06-07T15:46:00",
+      "modified": "2026-06-07T15:46:00",
+      "accessed": "2026-06-07T15:46:00"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1208.JPG",
+      "created": "2026-06-07T15:46:25",
+      "modified": "2026-06-07T15:46:25",
+      "accessed": "2026-06-07T15:46:25"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1237.JPG",
+      "created": "2026-06-07T15:46:32",
+      "modified": "2026-06-07T15:46:32",
+      "accessed": "2026-06-07T15:46:32"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1143.JPG",
+      "created": "2026-06-07T15:46:58",
+      "modified": "2026-06-07T15:46:58",
+      "accessed": "2026-06-07T15:46:58"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1188.JPG",
+      "created": "2026-06-07T15:47:00",
+      "modified": "2026-06-07T15:47:00",
+      "accessed": "2026-06-07T15:47:00"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1194.JPG",
+      "created": "2026-06-07T15:47:08",
+      "modified": "2026-06-07T15:47:08",
+      "accessed": "2026-06-07T15:47:08"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1177.JPG",
+      "created": "2026-06-07T15:47:28",
+      "modified": "2026-06-07T15:47:28",
+      "accessed": "2026-06-07T15:47:28"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1207.JPG",
+      "created": "2026-06-07T15:47:38",
+      "modified": "2026-06-07T15:47:38",
+      "accessed": "2026-06-07T15:47:38"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1173.JPG",
+      "created": "2026-06-07T15:47:45",
+      "modified": "2026-06-07T15:47:45",
+      "accessed": "2026-06-07T15:47:45"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1084.JPG",
+      "created": "2026-06-07T15:47:53",
+      "modified": "2026-06-07T15:47:53",
+      "accessed": "2026-06-07T15:47:53"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1151 (1).JPG",
+      "created": "2026-06-07T15:48:34",
+      "modified": "2026-06-07T15:48:34",
+      "accessed": "2026-06-07T15:48:34"
+    },
+    {
+      "path": "/storage/emulated/0/Download/MVI_1204.MOV",
+      "created": "2026-06-07T15:49:04",
+      "modified": "2026-06-07T15:49:04",
+      "accessed": "2026-06-07T15:49:04"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1125.JPG",
+      "created": "2026-06-07T15:49:06",
+      "modified": "2026-06-07T15:49:06",
+      "accessed": "2026-06-07T15:49:06"
+    },
+    {
+      "path": "/storage/emulated/0/Download/GP016388.JPG",
+      "created": "2026-06-08T18:59:34",
+      "modified": "2026-06-08T18:59:34",
+      "accessed": "2026-06-08T18:59:34"
+    },
+    {
+      "path": "/storage/emulated/0/Download/GP016396.JPG",
+      "created": "2026-06-08T19:01:04",
+      "modified": "2026-06-08T19:01:04",
+      "accessed": "2026-06-08T19:01:04"
+    },
+    {
+      "path": "/storage/emulated/0/Download/GP016397.JPG",
+      "created": "2026-06-08T19:01:07",
+      "modified": "2026-06-08T19:01:07",
+      "accessed": "2026-06-08T19:01:07"
+    },
+    {
+      "path": "/storage/emulated/0/Download/GP016399.JPG",
+      "created": "2026-06-08T19:01:12",
+      "modified": "2026-06-08T19:01:12",
+      "accessed": "2026-06-08T19:01:12"
+    },
+    {
+      "path": "/storage/emulated/0/Download/GP016422.JPG",
+      "created": "2026-06-08T19:02:59",
+      "modified": "2026-06-08T19:02:59",
+      "accessed": "2026-06-08T19:02:59"
+    },
+    {
+      "path": "/storage/emulated/0/Download/Cv1 (2).pdf",
+      "created": "2026-08-02T20:17:35",
+      "modified": "2026-08-02T20:17:35",
+      "accessed": "2026-08-02T20:17:35"
+    },
+    {
+      "path": "/storage/emulated/0/Download/CEH_Module7_Malware_Threats.pdf",
+      "created": "2026-06-15T09:44:48",
+      "modified": "2026-06-15T09:44:48",
+      "accessed": "2026-06-15T09:44:48"
+    },
+    {
+      "path": "/storage/emulated/0/Download/CEH_Module10_DoS.pdf",
+      "created": "2026-06-15T09:45:17",
+      "modified": "2026-06-15T09:45:17",
+      "accessed": "2026-06-15T09:45:17"
+    },
+    {
+      "path": "/storage/emulated/0/Download/CEH_Module16_Hacking_Wireless_Networks.pdf",
+      "created": "2026-06-15T09:46:33",
+      "modified": "2026-06-15T09:46:33",
+      "accessed": "2026-06-15T09:46:33"
+    },
+    {
+      "path": "/storage/emulated/0/Download/CEH_Module19_Cloud_Computing.pdf",
+      "created": "2026-06-15T09:49:05",
+      "modified": "2026-06-15T09:49:05",
+      "accessed": "2026-06-15T09:49:05"
+    },
+    {
+      "path": "/storage/emulated/0/Download/AQNDeiL6f2ifY9a8tfJ_w2IjvT9BTNpM_oEjvPu3joQOaE2ujo96eZz0dR5STQ08xvyXpyjTjolpZXRzvQwl9uTSMSC2lxfK9DDNYgzPFA.mp4",
+      "created": "2026-06-08T18:57:42",
+      "modified": "2026-06-08T18:57:41",
+      "accessed": "2026-06-08T18:57:13"
+    },
+    {
+      "path": "/storage/emulated/0/Download/AQMy0PO9B4RTJCeHOtZdkNxjjVE5wN54UTp4EM-vZpQsTqExdj2yEI0UvdlTMDgWEpIyiWiaT6Ox3Fkr7ZUHMqs.mp4",
+      "created": "2026-06-09T15:44:49",
+      "modified": "2026-06-09T15:44:48",
+      "accessed": "2026-06-09T15:44:48"
+    },
+    {
+      "path": "/storage/emulated/0/Download/CEH_Module15_SQL_Injection.pdf",
+      "created": "2026-06-15T09:46:25",
+      "modified": "2026-06-15T09:46:25",
+      "accessed": "2026-06-15T09:46:25"
+    },
+    {
+      "path": "/storage/emulated/0/Download/725860748_3211612832369071_8086560349774491474_n.webp",
+      "created": "2026-06-22T22:38:45",
+      "modified": "2026-06-19T22:38:42",
+      "accessed": "2026-06-19T22:38:42"
+    },
+    {
+      "path": "/storage/emulated/0/Download/E9pA6qsdbeyEkp3ti_9PBTqmSxAf6zZTseP_69d241d281f1094130e93730_1782015303500_completion_certificate.pdf",
+      "created": "2026-06-21T14:03:04",
+      "modified": "2026-06-21T14:03:04",
+      "accessed": "2026-06-21T14:03:03"
+    },
+    {
+      "path": "/storage/emulated/0/Download/Mom_Skincare_Routine.docx",
+      "created": "2026-07-06T14:02:59",
+      "modified": "2026-07-03T14:02:56",
+      "accessed": "2026-07-03T14:02:56"
+    },
+    {
+      "path": "/storage/emulated/0/Download/AI+Influencer+Studio_+Photo+AI_2026.4.21_APKPure.xapk",
+      "created": "2026-07-10T11:37:57",
+      "modified": "2026-07-10T11:37:57",
+      "accessed": "2026-07-10T11:37:44"
+    },
+    {
+      "path": "/storage/emulated/0/Download/VideoGPT_1783705565962.mp4",
+      "created": "2026-07-10T23:16:59",
+      "modified": "2026-07-10T23:16:59",
+      "accessed": "2026-07-10T23:16:58"
+    },
+    {
+      "path": "/storage/emulated/0/Download/VideoGPT_1783706791416.mp4",
+      "created": "2026-07-10T23:36:36",
+      "modified": "2026-07-10T23:36:36",
+      "accessed": "2026-07-10T23:36:35"
+    },
+    {
+      "path": "/storage/emulated/0/Download/743425276_869328865852650_8035676029771673968_n.webp",
+      "created": "2026-07-15T00:07:17",
+      "modified": "2026-07-12T00:07:17",
+      "accessed": "2026-07-12T00:07:16"
+    },
+    {
+      "path": "/storage/emulated/0/Download/743203876_1001625196096191_5287597127230813823_n.webp",
+      "created": "2026-07-15T00:07:27",
+      "modified": "2026-07-12T00:07:27",
+      "accessed": "2026-07-12T00:07:25"
+    },
+    {
+      "path": "/storage/emulated/0/Download/743157231_1057662183433310_7411504062453731483_n.webp",
+      "created": "2026-07-15T00:07:32",
+      "modified": "2026-07-12T00:07:31",
+      "accessed": "2026-07-12T00:07:30"
+    },
+    {
+      "path": "/storage/emulated/0/Download/743541795_1692591852660531_3296925567585726528_n.webp",
+      "created": "2026-07-15T00:07:40",
+      "modified": "2026-07-12T00:07:40",
+      "accessed": "2026-07-12T00:07:39"
+    },
+    {
+      "path": "/storage/emulated/0/Download/TABC_Report_Weeks1_2_Sayan_Chowdhury-1.docx",
+      "created": "2026-07-17T15:08:46",
+      "modified": "2026-07-14T15:08:44",
+      "accessed": "2026-07-14T15:08:44"
+    },
+    {
+      "path": "/storage/emulated/0/Download/VL2026270104045_AST01.pdf",
+      "created": "2026-07-15T08:17:29",
+      "modified": "2026-07-15T08:17:29",
+      "accessed": "2026-07-15T08:17:29"
+    },
+    {
+      "path": "/storage/emulated/0/Download/RESEARCHPAPERDRAFT.docx",
+      "created": "2026-07-20T17:41:24",
+      "modified": "2026-07-20T17:41:24",
+      "accessed": "2026-07-20T17:41:24"
+    },
+    {
+      "path": "/storage/emulated/0/Download/BCSE302L-CAT-1-B2-2025-2026 (3).pdf",
+      "created": "2026-07-23T09:20:24",
+      "modified": "2026-07-23T09:20:24",
+      "accessed": "2026-07-23T09:20:24"
+    },
+    {
+      "path": "/storage/emulated/0/Download/Module 1.pdf",
+      "created": "2026-08-14T21:58:46",
+      "modified": "2026-08-14T21:58:46",
+      "accessed": "2026-08-14T21:58:46"
+    },
+    {
+      "path": "/storage/emulated/0/Download/BCSE308L-CAT-1-G2-2025-2026.pdf",
+      "created": "2026-07-21T09:28:41",
+      "modified": "2026-07-21T09:28:41",
+      "accessed": "2026-07-21T09:28:41"
+    },
+    {
+      "path": "/storage/emulated/0/Download/BCSE308L-CAT-1-A1-2025-2026.pdf",
+      "created": "2026-07-21T09:28:46",
+      "modified": "2026-07-21T09:28:46",
+      "accessed": "2026-07-21T09:28:46"
+    },
+    {
+      "path": "/storage/emulated/0/Download/BCSE302L-CAT-1-B2-2025-2026 (1).pdf",
+      "created": "2026-07-23T09:17:01",
+      "modified": "2026-07-23T09:17:01",
+      "accessed": "2026-07-23T09:17:01"
+    },
+    {
+      "path": "/storage/emulated/0/Download/BCSE303L-CAT-1-C2-2025-2026 (1).pdf",
+      "created": "2026-07-24T11:20:41",
+      "modified": "2026-07-24T11:20:41",
+      "accessed": "2026-07-24T11:20:41"
+    },
+    {
+      "path": "/storage/emulated/0/Download/BCSE306L-CAT-1-E2-2024-2025.pdf",
+      "created": "2026-08-10T19:45:32",
+      "modified": "2026-08-10T19:45:32",
+      "accessed": "2026-08-10T19:45:32"
+    },
+    {
+      "path": "/storage/emulated/0/Download/BCSE308L-CAT-1-F1-2025-2026.pdf",
+      "created": "2026-08-13T19:03:50",
+      "modified": "2026-08-13T19:03:49",
+      "accessed": "2026-08-13T19:03:49"
+    },
+    {
+      "path": "/storage/emulated/0/Download/BCSE355L-CAT-1-A1-2025-2026.pdf",
+      "created": "2026-08-08T22:48:00",
+      "modified": "2026-08-08T22:47:59",
+      "accessed": "2026-08-08T22:47:59"
+    },
+    {
+      "path": "/storage/emulated/0/Download/BCSE306L-CAT-1-D1-2025-2026 (1).pdf",
+      "created": "2026-08-10T19:46:44",
+      "modified": "2026-08-10T19:46:44",
+      "accessed": "2026-08-10T19:46:44"
+    },
+    {
+      "path": "/storage/emulated/0/Download/AQOtHj0zm_4WlJ14re_XsaMX4wG_NTIRqajQgn4F0-Md48rMOMXTza90qw00lLAN0_YWzSG1olMZ_o_JiaTiei0FHzI2YyW2P2xDaJYIwbkSXw.mp4",
+      "created": "2026-07-26T19:46:36",
+      "modified": "2026-07-26T19:46:36",
+      "accessed": "2026-07-26T19:46:36"
+    },
+    {
+      "path": "/storage/emulated/0/Download/🚨 R.G. KAR CASE- A MOTHER’S BOMBSHELL CLAIMOn the second anniversary of the R.G. Kar incident, .mp4",
+      "created": "2026-08-11T20:41:07",
+      "modified": "2026-08-11T20:41:07",
+      "accessed": "2026-08-11T20:41:04"
+    },
+    {
+      "path": "/storage/emulated/0/Download/AQNmbOgsOZbe24k9twuFOIUxdFVBAhsLNb8f4qDu5l3cO3qk8dgNfkVVcAE-RiP6WUKFheI11ZCgZRjTgbxvonEnAgAdrjA1BJmT5p3aF84SK2Qta56TDUHebHMdCepXld1VGCVwtB_xrvu4Q_6GM4cOmm_b17_6Oa0V0-s.mp4",
+      "created": "2026-04-26T15:37:17",
+      "modified": "2026-04-26T15:37:16",
+      "accessed": "2026-04-26T15:37:13"
+    },
+    {
+      "path": "/storage/emulated/0/Download/AQMQZLYi8P-d3t5da40gsFyrK6kiB-dA502jDy_zXYbrclL6Tl0pQRxkk0rFi1HL7SeLQIwfHbxWLnNX2InwTpGoZgfkLYiDKvUb0RnMqzwlGQ.mp4",
+      "created": "2026-05-06T09:58:54",
+      "modified": "2026-05-06T09:58:53",
+      "accessed": "2026-05-06T09:58:41"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1213.JPG",
+      "created": "2026-06-07T15:42:39",
+      "modified": "2026-06-07T15:42:39",
+      "accessed": "2026-06-07T15:42:39"
+    },
+    {
+      "path": "/storage/emulated/0/Download/AQNttlcGgswS-mK1vk3T4N9YWro119LSzOxMzJ5aTKqoUn6BSoyxs1hgJ6iKcLEKbYVX9_jV8K5MmrW7Xy5h4HZz3vSWseqGUQM0to4LOcHlrQ.mp4",
+      "created": "2026-05-06T09:53:45",
+      "modified": "2026-05-06T09:53:45",
+      "accessed": "2026-05-06T09:53:42"
+    },
+    {
+      "path": "/storage/emulated/0/Download/Confirmation_5192767115.pdf",
+      "created": "2026-05-13T09:08:31",
+      "modified": "2026-05-13T09:08:31",
+      "accessed": "2026-05-13T09:08:30"
+    },
+    {
+      "path": "/storage/emulated/0/Download/biswa_bangla_badge.jpg",
+      "created": "2026-05-18T09:40:50",
+      "modified": "2026-05-15T09:40:49",
+      "accessed": "2026-05-15T09:40:49"
+    },
+    {
+      "path": "/storage/emulated/0/Download/AQN8l2iT5zSoqB0SSwMqbEw3JvmpzMExZkaV35n3IE2SaPgfbVCE82j5b1SzP1XvoI9yG0D4xnfzXb9lz76G5BCG.mp4",
+      "created": "2026-05-15T10:00:57",
+      "modified": "2026-05-15T10:00:57",
+      "accessed": "2026-05-15T09:57:38"
+    },
+    {
+      "path": "/storage/emulated/0/Download/AQPA6Wf4Awti7aXP4YmLoQU5WHNSdLSrSCFI2-hE6tLnvD6pgGz57No10iicfj__2Nw0NqLST30PI9SYhuaEGZfkAVPtw0pE.mp4",
+      "created": "2026-05-15T10:01:12",
+      "modified": "2026-05-15T10:01:12",
+      "accessed": "2026-05-15T10:01:09"
+    },
+    {
+      "path": "/storage/emulated/0/Download/openart-image_1778906224329_1bec11a8_1778906224394_4b50d2ef.jpg",
+      "created": "2026-05-16T10:07:25",
+      "modified": "2026-05-16T10:07:25",
+      "accessed": "2026-05-16T10:07:25"
+    },
+    {
+      "path": "/storage/emulated/0/Download/wolf_hacker_closeup_d5b0b34d.mp4",
+      "created": "2026-05-18T19:46:56",
+      "modified": "2026-05-16T11:05:10",
+      "accessed": "2026-05-16T11:05:10"
+    },
+    {
+      "path": "/storage/emulated/0/Download/cyberpack_orbit_6b1e7a38.mp4",
+      "created": "2026-05-18T19:46:56",
+      "modified": "2026-05-16T11:18:26",
+      "accessed": "2026-05-16T11:18:25"
+    },
+    {
+      "path": "/storage/emulated/0/Download/Sayan_chowdhury_text-to-speech.mp3",
+      "created": "2026-05-16T11:56:22",
+      "modified": "2026-05-16T11:56:22",
+      "accessed": "2026-05-16T11:56:22"
+    },
+    {
+      "path": "/storage/emulated/0/Download/wolf_facing_talk_final_0cfdbcc4.mp4",
+      "created": "2026-05-18T19:46:56",
+      "modified": "2026-05-16T11:57:05",
+      "accessed": "2026-05-16T11:57:03"
+    },
+    {
+      "path": "/storage/emulated/0/Download/cyber_wolf_dance_6d5908d0.mp4",
+      "created": "2026-05-18T19:46:57",
+      "modified": "2026-05-16T15:20:11",
+      "accessed": "2026-05-16T15:20:10"
+    },
+    {
+      "path": "/storage/emulated/0/Download/AQPDeV8iX-zjTvZPJMsu7YbLG9SVBobrvRdDewv5klq4_UhPZxnkQjgF7F3uZjePuwnkxw6BW-W-RSd_Qp1w4CTqO-rkS30J.mp4",
+      "created": "2026-05-30T13:07:51",
+      "modified": "2026-05-30T13:07:50",
+      "accessed": "2026-05-30T13:07:50"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1153.JPG",
+      "created": "2026-06-07T15:42:41",
+      "modified": "2026-06-07T15:42:41",
+      "accessed": "2026-06-07T15:42:41"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1239.JPG",
+      "created": "2026-06-07T15:43:00",
+      "modified": "2026-06-07T15:43:00",
+      "accessed": "2026-06-07T15:43:00"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1191.JPG",
+      "created": "2026-06-07T15:43:03",
+      "modified": "2026-06-07T15:43:03",
+      "accessed": "2026-06-07T15:43:03"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1109.JPG",
+      "created": "2026-06-07T15:43:19",
+      "modified": "2026-06-07T15:43:19",
+      "accessed": "2026-06-07T15:43:19"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1123.JPG",
+      "created": "2026-06-07T15:43:24",
+      "modified": "2026-06-07T15:43:24",
+      "accessed": "2026-06-07T15:43:24"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1210.JPG",
+      "created": "2026-06-07T15:43:44",
+      "modified": "2026-06-07T15:43:44",
+      "accessed": "2026-06-07T15:43:44"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1129.JPG",
+      "created": "2026-06-07T15:43:51",
+      "modified": "2026-06-07T15:43:51",
+      "accessed": "2026-06-07T15:43:51"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1250.JPG",
+      "created": "2026-06-07T15:43:56",
+      "modified": "2026-06-07T15:43:56",
+      "accessed": "2026-06-07T15:43:56"
+    },
+    {
+      "path": "/storage/emulated/0/Download/AQPReO5Bns-fcmOntmOBie4l1nCorDhRog2iLt37MlVAnIq3_qwCwIlWkHFs9oE68_MWa4s_s2RmeY7V-UGVebrvoa5HHP94.mp4",
+      "created": "2026-05-30T13:08:34",
+      "modified": "2026-05-30T13:08:34",
+      "accessed": "2026-05-30T13:08:33"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1212.JPG",
+      "created": "2026-06-07T15:44:23",
+      "modified": "2026-06-07T15:44:23",
+      "accessed": "2026-06-07T15:44:23"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1185.JPG",
+      "created": "2026-06-07T15:44:27",
+      "modified": "2026-06-07T15:44:27",
+      "accessed": "2026-06-07T15:44:27"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1233.JPG",
+      "created": "2026-06-07T15:44:33",
+      "modified": "2026-06-07T15:44:33",
+      "accessed": "2026-06-07T15:44:33"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1181.JPG",
+      "created": "2026-06-07T15:44:40",
+      "modified": "2026-06-07T15:44:40",
+      "accessed": "2026-06-07T15:44:40"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1182.JPG",
+      "created": "2026-06-07T15:45:10",
+      "modified": "2026-06-07T15:45:10",
+      "accessed": "2026-06-07T15:45:10"
+    },
+    {
+      "path": "/storage/emulated/0/Download/MVI_1189.MOV",
+      "created": "2026-06-07T15:45:32",
+      "modified": "2026-06-07T15:45:32",
+      "accessed": "2026-06-07T15:45:31"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1247.JPG",
+      "created": "2026-06-07T15:45:34",
+      "modified": "2026-06-07T15:45:34",
+      "accessed": "2026-06-07T15:45:34"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1146.JPG",
+      "created": "2026-06-07T15:45:46",
+      "modified": "2026-06-07T15:45:46",
+      "accessed": "2026-06-07T15:45:46"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1217.JPG",
+      "created": "2026-06-07T15:45:50",
+      "modified": "2026-06-07T15:45:50",
+      "accessed": "2026-06-07T15:45:50"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1149.JPG",
+      "created": "2026-06-07T15:45:55",
+      "modified": "2026-06-07T15:45:55",
+      "accessed": "2026-06-07T15:45:55"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1137.JPG",
+      "created": "2026-06-07T15:46:07",
+      "modified": "2026-06-07T15:46:07",
+      "accessed": "2026-06-07T15:46:07"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1140.JPG",
+      "created": "2026-06-07T15:46:11",
+      "modified": "2026-06-07T15:46:11",
+      "accessed": "2026-06-07T15:46:11"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1246.JPG",
+      "created": "2026-06-07T15:46:13",
+      "modified": "2026-06-07T15:46:13",
+      "accessed": "2026-06-07T15:46:13"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1158.JPG",
+      "created": "2026-06-07T15:46:27",
+      "modified": "2026-06-07T15:46:27",
+      "accessed": "2026-06-07T15:46:27"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1083.JPG",
+      "created": "2026-06-07T15:46:30",
+      "modified": "2026-06-07T15:46:30",
+      "accessed": "2026-06-07T15:46:30"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1147.JPG",
+      "created": "2026-06-07T15:46:41",
+      "modified": "2026-06-07T15:46:41",
+      "accessed": "2026-06-07T15:46:41"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1156.JPG",
+      "created": "2026-06-07T15:46:51",
+      "modified": "2026-06-07T15:46:51",
+      "accessed": "2026-06-07T15:46:51"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1122.JPG",
+      "created": "2026-06-07T15:46:54",
+      "modified": "2026-06-07T15:46:54",
+      "accessed": "2026-06-07T15:46:54"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1228.JPG",
+      "created": "2026-06-07T15:47:03",
+      "modified": "2026-06-07T15:47:03",
+      "accessed": "2026-06-07T15:47:03"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1115.JPG",
+      "created": "2026-06-07T15:47:05",
+      "modified": "2026-06-07T15:47:05",
+      "accessed": "2026-06-07T15:47:05"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1113.JPG",
+      "created": "2026-06-07T15:47:12",
+      "modified": "2026-06-07T15:47:12",
+      "accessed": "2026-06-07T15:47:12"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1149 (1).JPG",
+      "created": "2026-06-07T15:47:30",
+      "modified": "2026-06-07T15:47:30",
+      "accessed": "2026-06-07T15:47:30"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1126.JPG",
+      "created": "2026-06-07T15:47:32",
+      "modified": "2026-06-07T15:47:32",
+      "accessed": "2026-06-07T15:47:32"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1124.JPG",
+      "created": "2026-06-07T15:47:34",
+      "modified": "2026-06-07T15:47:34",
+      "accessed": "2026-06-07T15:47:34"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1244.JPG",
+      "created": "2026-06-07T15:47:36",
+      "modified": "2026-06-07T15:47:36",
+      "accessed": "2026-06-07T15:47:36"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1229.JPG",
+      "created": "2026-06-07T15:47:40",
+      "modified": "2026-06-07T15:47:40",
+      "accessed": "2026-06-07T15:47:40"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1183.JPG",
+      "created": "2026-06-07T15:47:51",
+      "modified": "2026-06-07T15:47:51",
+      "accessed": "2026-06-07T15:47:51"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1142.JPG",
+      "created": "2026-06-07T15:47:59",
+      "modified": "2026-06-07T15:47:59",
+      "accessed": "2026-06-07T15:47:59"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1087.JPG",
+      "created": "2026-06-07T15:48:37",
+      "modified": "2026-06-07T15:48:37",
+      "accessed": "2026-06-07T15:48:37"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1180.JPG",
+      "created": "2026-06-07T15:48:42",
+      "modified": "2026-06-07T15:48:42",
+      "accessed": "2026-06-07T15:48:42"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1110.JPG",
+      "created": "2026-06-07T15:49:12",
+      "modified": "2026-06-07T15:49:12",
+      "accessed": "2026-06-07T15:49:12"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1136.JPG",
+      "created": "2026-06-07T15:49:17",
+      "modified": "2026-06-07T15:49:17",
+      "accessed": "2026-06-07T15:49:17"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1245.JPG",
+      "created": "2026-06-07T15:49:22",
+      "modified": "2026-06-07T15:49:22",
+      "accessed": "2026-06-07T15:49:22"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1240.JPG",
+      "created": "2026-06-07T15:49:30",
+      "modified": "2026-06-07T15:49:30",
+      "accessed": "2026-06-07T15:49:30"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1135.JPG",
+      "created": "2026-06-07T15:49:35",
+      "modified": "2026-06-07T15:49:35",
+      "accessed": "2026-06-07T15:49:35"
+    },
+    {
+      "path": "/storage/emulated/0/Download/GP016395.JPG",
+      "created": "2026-06-08T19:01:00",
+      "modified": "2026-06-08T19:01:00",
+      "accessed": "2026-06-08T19:01:00"
+    },
+    {
+      "path": "/storage/emulated/0/Download/GP016406.JPG",
+      "created": "2026-06-08T19:01:28",
+      "modified": "2026-06-08T19:01:28",
+      "accessed": "2026-06-08T19:01:28"
+    },
+    {
+      "path": "/storage/emulated/0/Download/GP016421.JPG",
+      "created": "2026-06-08T19:02:58",
+      "modified": "2026-06-08T19:02:58",
+      "accessed": "2026-06-08T19:02:58"
+    },
+    {
+      "path": "/storage/emulated/0/Download/GP016434.JPG",
+      "created": "2026-06-08T19:04:01",
+      "modified": "2026-06-08T19:04:01",
+      "accessed": "2026-06-08T19:04:01"
+    },
+    {
+      "path": "/storage/emulated/0/Download/GX016514.MP4",
+      "created": "2026-06-08T19:11:56",
+      "modified": "2026-06-08T19:11:56",
+      "accessed": "2026-06-08T19:11:55"
+    },
+    {
+      "path": "/storage/emulated/0/Download/AQN4X36Dg6Ki3AOObs8doEq4pUSHaoEE1uK0tGNcEpkLszKTZCT9auGdazXYnwNVPMfiZNq8p28yYWO1QmOUai8.mp4",
+      "created": "2026-06-11T10:32:56",
+      "modified": "2026-06-11T10:32:56",
+      "accessed": "2026-06-11T10:32:55"
+    },
+    {
+      "path": "/storage/emulated/0/Download/AQNrbsaR2XXEANswh_syL9Eu6Hrfd_tvoSGefvpyufeRHr9j49BE3PanywfipMyMqIueX8NhoXYpKjegok4rxnLP.mp4",
+      "created": "2026-06-11T15:59:32",
+      "modified": "2026-06-11T15:59:31",
+      "accessed": "2026-06-11T15:59:14"
+    },
+    {
+      "path": "/storage/emulated/0/Download/vidssave.com Ekla Cholte Hoy with lyrics _ Nachiketa Chakraborty _ Best Of Nachiketa _ HD Song 144P.mp4",
+      "created": "2026-06-11T18:06:50",
+      "modified": "2026-06-11T18:06:49",
+      "accessed": "2026-06-11T18:06:48"
+    },
+    {
+      "path": "/storage/emulated/0/Download/BCSE303L-CAT-1-C2-2025-2026.pdf",
+      "created": "2026-06-13T08:32:53",
+      "modified": "2026-06-13T08:32:53",
+      "accessed": "2026-06-13T08:32:53"
+    },
+    {
+      "path": "/storage/emulated/0/Download/CEH_Module1_Introduction_to_Ethical_Hacking.pdf",
+      "created": "2026-06-15T09:43:33",
+      "modified": "2026-06-15T09:43:33",
+      "accessed": "2026-06-15T09:43:33"
+    },
+    {
+      "path": "/storage/emulated/0/Download/payload (1).apk",
+      "created": "2026-06-13T13:09:50",
+      "modified": "2026-06-13T13:09:48",
+      "accessed": "2026-06-13T13:09:48"
+    },
+    {
+      "path": "/storage/emulated/0/Download/CEH_Module8_Sniffing.pdf",
+      "created": "2026-06-15T09:44:56",
+      "modified": "2026-06-15T09:44:56",
+      "accessed": "2026-06-15T09:44:56"
+    },
+    {
+      "path": "/storage/emulated/0/Download/CEH_Module9_Social_Engineering.pdf",
+      "created": "2026-06-15T09:45:05",
+      "modified": "2026-06-15T09:45:05",
+      "accessed": "2026-06-15T09:45:05"
+    },
+    {
+      "path": "/storage/emulated/0/Download/CEH_Module12_IDS_Firewalls_Honeypots.pdf",
+      "created": "2026-06-15T09:45:37",
+      "modified": "2026-06-15T09:45:37",
+      "accessed": "2026-06-15T09:45:37"
+    },
+    {
+      "path": "/storage/emulated/0/Download/hryfine-gp-3.8.7(210)_google_0602.apk",
+      "created": "2026-06-16T08:08:48",
+      "modified": "2026-06-16T08:08:48",
+      "accessed": "2026-06-16T08:03:41"
+    },
+    {
+      "path": "/storage/emulated/0/Download/AQNdVLaRb9GDlLqwczuomfKhXw1M3ILKOzF1av2pNAe5BLUXLzki43eMcELa5au7MQJ5-BJPISLe9HIASC4j-f5b6QTAfYYWhYGd2Pw (1).mp4",
+      "created": "2026-06-21T23:28:57",
+      "modified": "2026-06-21T23:28:57",
+      "accessed": "2026-06-21T23:28:57"
+    },
+    {
+      "path": "/storage/emulated/0/Download/com.offsec.nethunter.kex_11525001.apk",
+      "created": "2026-06-23T09:04:00",
+      "modified": "2026-06-23T09:04:00",
+      "accessed": "2026-06-23T09:03:43"
+    },
+    {
+      "path": "/storage/emulated/0/Download/Mom_Skincare_Routine-2.docx",
+      "created": "2026-07-06T14:33:03",
+      "modified": "2026-07-03T14:33:00",
+      "accessed": "2026-07-03T14:33:00"
+    },
+    {
+      "path": "/storage/emulated/0/Download/BCSE302L-CAT-1-B1-2025-2026.pdf",
+      "created": "2026-07-09T09:29:19",
+      "modified": "2026-07-09T09:29:19",
+      "accessed": "2026-07-09T09:29:19"
+    },
+    {
+      "path": "/storage/emulated/0/Download/UndressAI.apk.zip",
+      "created": "2026-07-10T11:31:11",
+      "modified": "2026-07-10T11:31:11",
+      "accessed": "2026-07-10T11:30:56"
+    },
+    {
+      "path": "/storage/emulated/0/Download/APKPure_3.20.7005_apkpure.com.apk",
+      "created": "2026-07-10T11:39:23",
+      "modified": "2026-07-10T11:39:23",
+      "accessed": "2026-07-10T11:39:16"
+    },
+    {
+      "path": "/storage/emulated/0/Download/Screen Recording 2026-07-10 130048.mp4",
+      "created": "2026-07-10T13:41:46",
+      "modified": "2026-07-10T13:41:46",
+      "accessed": "2026-07-10T13:41:46"
+    },
+    {
+      "path": "/storage/emulated/0/Download/VideoGPT_1783704691632.mp4",
+      "created": "2026-07-10T23:03:13",
+      "modified": "2026-07-10T23:03:13",
+      "accessed": "2026-07-10T23:03:12"
+    },
+    {
+      "path": "/storage/emulated/0/Download/743294771_1742326423598080_2388606690741563257_n.webp",
+      "created": "2026-07-15T00:07:38",
+      "modified": "2026-07-12T00:07:37",
+      "accessed": "2026-07-12T00:07:36"
+    },
+    {
+      "path": "/storage/emulated/0/Download/OS Trust Scoring Framework Project.pdf",
+      "created": "2026-07-12T14:00:44",
+      "modified": "2026-07-12T14:00:44",
+      "accessed": "2026-07-12T14:00:44"
+    },
+    {
+      "path": "/storage/emulated/0/Download/VL2026270104045_AST02.pdf",
+      "created": "2026-07-15T08:16:28",
+      "modified": "2026-07-15T08:16:28",
+      "accessed": "2026-07-15T08:16:28"
+    },
+    {
+      "path": "/storage/emulated/0/Download/CPU_Scheduling_Programs.pdf",
+      "created": "2026-07-31T18:45:39",
+      "modified": "2026-07-30T12:22:20",
+      "accessed": "2026-07-30T12:22:20"
+    },
+    {
+      "path": "/storage/emulated/0/Download/Cv1 (1).pdf",
+      "created": "2026-08-01T21:53:20",
+      "modified": "2026-08-01T21:53:20",
+      "accessed": "2026-08-01T21:53:20"
+    },
+    {
+      "path": "/storage/emulated/0/Download/Goldmansachs_onlinetest_shortlist.xlsx",
+      "created": "2026-08-02T17:49:01",
+      "modified": "2026-08-02T17:49:01",
+      "accessed": "2026-08-02T17:49:01"
+    },
+    {
+      "path": "/storage/emulated/0/Download/Software Engineering Analyst JD 2027.pdf",
+      "created": "2026-07-31T10:09:38",
+      "modified": "2026-07-31T10:09:38",
+      "accessed": "2026-07-31T10:09:38"
+    },
+    {
+      "path": "/storage/emulated/0/Download/BCSE355L-CAT-1-A2-2025-2026.pdf",
+      "created": "2026-08-08T22:47:45",
+      "modified": "2026-08-08T22:47:45",
+      "accessed": "2026-08-08T22:47:45"
+    },
+    {
+      "path": "/storage/emulated/0/Download/Sayan Chowdhury- Intern -  Internship Extension Offer Letter (1).pdf",
+      "created": "2026-08-08T22:59:05",
+      "modified": "2026-08-08T22:59:04",
+      "accessed": "2026-08-08T22:59:04"
+    },
+    {
+      "path": "/storage/emulated/0/Download/BCSE303L-CAT-1-C2-2025-2026 (2).pdf",
+      "created": "2026-08-09T17:16:48",
+      "modified": "2026-08-09T17:16:48",
+      "accessed": "2026-08-09T17:16:48"
+    },
+    {
+      "path": "/storage/emulated/0/Download/BCSE306L-CAT-1-D2-2025-2026 (1).pdf",
+      "created": "2026-08-10T19:46:07",
+      "modified": "2026-08-10T19:46:07",
+      "accessed": "2026-08-10T19:46:07"
+    },
+    {
+      "path": "/storage/emulated/0/Download/BCSE304L-FAT-B1-2025-2026.pdf",
+      "created": "2026-04-29T11:39:55",
+      "modified": "2026-04-29T11:39:55",
+      "accessed": "2026-04-29T11:39:55"
+    },
+    {
+      "path": "/storage/emulated/0/Download/BCSE304L-FAT-B1-2023-2024.pdf",
+      "created": "2026-04-29T11:40:02",
+      "modified": "2026-04-29T11:40:02",
+      "accessed": "2026-04-29T11:40:02"
+    },
+    {
+      "path": "/storage/emulated/0/Download/AQPm7RDf_v3ksR2Z-efhawLifHF31D8fQfHyXz_cNDRgZVnGyfOsLFSKub9HZ_DGzF8CAG1ynuEodP4k9uivvl-2dnNFL7LXqIINXpRe9JRV9Q.mp4",
+      "created": "2026-05-05T18:37:32",
+      "modified": "2026-05-05T18:37:32",
+      "accessed": "2026-05-05T18:37:31"
+    },
+    {
+      "path": "/storage/emulated/0/Download/AQMJ1_h19Xl-75Kq5M-xKBVn8XgNMwm1PD5NwB2kfqm_MST-C1h0wZ0Ut6meDO3ET3HGDP448Yt68Vs_XAFSX6xTOlWF-ML9c7I869FZ-6x0NQ.mp4",
+      "created": "2026-05-05T18:42:38",
+      "modified": "2026-05-05T18:42:38",
+      "accessed": "2026-05-05T18:42:36"
+    },
+    {
+      "path": "/storage/emulated/0/Download/AQOqLQHHP2w_FaOiGjwVa1vgs_h2u1mM4nYoCstDBjHL_giMb5-TwEVvP-g3tCRuDm6v4GnJnoS20fPKibPNHZN_cqligUXpKu7Tjc0M5VvThQ.mp4",
+      "created": "2026-05-06T10:01:21",
+      "modified": "2026-05-06T10:01:21",
+      "accessed": "2026-05-06T10:01:18"
+    },
+    {
+      "path": "/storage/emulated/0/Download/AQOITBHB5uHBPwTcYhLrnNG4lsIUj9zg-xIvoAYhYDF0RTF7kH6JbB-AAkeYLKEUDctI1wxX7pxzx0DemdFFqubAzKIwTWyaRuUi4gHPHAsi0w.mp4",
+      "created": "2026-05-06T10:04:06",
+      "modified": "2026-05-06T10:04:06",
+      "accessed": "2026-05-06T10:04:01"
+    },
+    {
+      "path": "/storage/emulated/0/Download/AQN3IY8XbtVt7zUq_BT-Kc9E4V2GEbYdPn6HDISFeH6ZtSWIwHfK6oK8OAZYe_XrTADSVlj4-m90of9LPOJ01t7ODfOU2SoHNblbCnd43W_sqA.mp4",
+      "created": "2026-05-07T01:01:09",
+      "modified": "2026-05-07T01:01:09",
+      "accessed": "2026-05-07T01:01:04"
+    },
+    {
+      "path": "/storage/emulated/0/Download/AQOUADto3W4fJFLuXqhp4dIS_HsBaPTuJKgMN6qy3Vp18rKv9Q1E8KT_9U1Y6ZIlVEWNIsg_X7EWwUOHrhAa8Qr5Z-tBU78rx1x9v0o.mp4",
+      "created": "2026-05-11T15:08:01",
+      "modified": "2026-05-11T15:08:01",
+      "accessed": "2026-05-11T15:08:00"
+    },
+    {
+      "path": "/storage/emulated/0/Download/SIA E-Ticket - 618 2471648194.pdf",
+      "created": "2026-05-13T09:26:55",
+      "modified": "2026-05-13T09:26:55",
+      "accessed": "2026-05-13T09:26:55"
+    },
+    {
+      "path": "/storage/emulated/0/Download/Terms-Conditions.pdf",
+      "created": "2026-05-13T09:27:56",
+      "modified": "2026-05-13T09:27:56",
+      "accessed": "2026-05-13T09:27:56"
+    },
+    {
+      "path": "/storage/emulated/0/Download/Jai sree Ram.mp4",
+      "created": "2026-05-15T10:01:05",
+      "modified": "2026-05-15T10:01:04",
+      "accessed": "2026-05-15T09:56:20"
+    },
+    {
+      "path": "/storage/emulated/0/Download/eticket-Mr-GHOSH-Kallol.pdf",
+      "created": "2026-05-13T09:27:50",
+      "modified": "2026-05-13T09:27:49",
+      "accessed": "2026-05-13T09:27:49"
+    },
+    {
+      "path": "/storage/emulated/0/Download/cartoon_duel_base.jpg",
+      "created": "2026-05-18T09:40:46",
+      "modified": "2026-05-15T09:40:45",
+      "accessed": "2026-05-15T09:40:44"
+    },
+    {
+      "path": "/storage/emulated/0/Download/starwars_long_v2_extended_2138487b.mp4",
+      "created": "2026-05-18T09:42:34",
+      "modified": "2026-05-15T09:42:34",
+      "accessed": "2026-05-15T09:42:33"
+    },
+    {
+      "path": "/storage/emulated/0/Download/wolf_hacker_loop_8dd6a5cb.mp4",
+      "created": "2026-05-18T19:46:56",
+      "modified": "2026-05-16T11:06:29",
+      "accessed": "2026-05-16T11:06:27"
+    },
+    {
+      "path": "/storage/emulated/0/Download/wolf_hacker_reel.mp4",
+      "created": "2026-05-18T19:46:56",
+      "modified": "2026-05-16T11:15:18",
+      "accessed": "2026-05-16T11:15:18"
+    },
+    {
+      "path": "/storage/emulated/0/Download/wolf_head_turn_audio.mp4",
+      "created": "2026-05-18T19:46:56",
+      "modified": "2026-05-16T11:36:38",
+      "accessed": "2026-05-16T11:36:38"
+    },
+    {
+      "path": "/storage/emulated/0/Download/wolf_vpn_public_wifi_fbef6812.mp4",
+      "created": "2026-05-18T19:46:56",
+      "modified": "2026-05-16T12:15:47",
+      "accessed": "2026-05-16T12:15:47"
+    },
+    {
+      "path": "/storage/emulated/0/Download/SaveClip.App_AQOAx3Nac5deiYwRjyjI0n4lVeLDYNq6c3JgQ7OUdArCeaEErbLGv_wb4Nn0WxPN0m9cS3y506GRlNxSXsBJcFuPObPVUbX1wJQEETc.mp4",
+      "created": "2026-05-19T07:24:02",
+      "modified": "2026-05-19T07:24:02",
+      "accessed": "2026-05-19T07:24:02"
+    },
+    {
+      "path": "/storage/emulated/0/Download/Sayan Chowdhury-Intern - Letter of Internship.pdf",
+      "created": "2026-05-22T18:17:03",
+      "modified": "2026-05-22T18:17:03",
+      "accessed": "2026-05-22T18:17:03"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1154.JPG",
+      "created": "2026-06-07T15:42:45",
+      "modified": "2026-06-07T15:42:45",
+      "accessed": "2026-06-07T15:42:45"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1165.JPG",
+      "created": "2026-06-07T15:43:05",
+      "modified": "2026-06-07T15:43:05",
+      "accessed": "2026-06-07T15:43:05"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1174.JPG",
+      "created": "2026-06-07T15:43:08",
+      "modified": "2026-06-07T15:43:08",
+      "accessed": "2026-06-07T15:43:08"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1170.JPG",
+      "created": "2026-06-07T15:43:17",
+      "modified": "2026-06-07T15:43:17",
+      "accessed": "2026-06-07T15:43:17"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1145.JPG",
+      "created": "2026-06-07T15:43:31",
+      "modified": "2026-06-07T15:43:31",
+      "accessed": "2026-06-07T15:43:31"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1148.JPG",
+      "created": "2026-06-07T15:43:37",
+      "modified": "2026-06-07T15:43:37",
+      "accessed": "2026-06-07T15:43:37"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1221.JPG",
+      "created": "2026-06-07T15:43:46",
+      "modified": "2026-06-07T15:43:46",
+      "accessed": "2026-06-07T15:43:46"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1139.JPG",
+      "created": "2026-06-07T15:43:48",
+      "modified": "2026-06-07T15:43:48",
+      "accessed": "2026-06-07T15:43:48"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1120.JPG",
+      "created": "2026-06-07T15:43:51",
+      "modified": "2026-06-07T15:43:51",
+      "accessed": "2026-06-07T15:43:51"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1164.JPG",
+      "created": "2026-06-07T15:44:25",
+      "modified": "2026-06-07T15:44:25",
+      "accessed": "2026-06-07T15:44:25"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1162.JPG",
+      "created": "2026-06-07T15:44:50",
+      "modified": "2026-06-07T15:44:50",
+      "accessed": "2026-06-07T15:44:50"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1241.JPG",
+      "created": "2026-06-07T15:45:05",
+      "modified": "2026-06-07T15:45:05",
+      "accessed": "2026-06-07T15:45:05"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1251.JPG",
+      "created": "2026-06-07T15:45:12",
+      "modified": "2026-06-07T15:45:12",
+      "accessed": "2026-06-07T15:45:12"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1159.JPG",
+      "created": "2026-06-07T15:45:41",
+      "modified": "2026-06-07T15:45:41",
+      "accessed": "2026-06-07T15:45:41"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1215.JPG",
+      "created": "2026-06-07T15:45:44",
+      "modified": "2026-06-07T15:45:44",
+      "accessed": "2026-06-07T15:45:43"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1141.JPG",
+      "created": "2026-06-07T15:45:48",
+      "modified": "2026-06-07T15:45:48",
+      "accessed": "2026-06-07T15:45:48"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1206.JPG",
+      "created": "2026-06-07T15:46:03",
+      "modified": "2026-06-07T15:46:02",
+      "accessed": "2026-06-07T15:46:02"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1167.JPG",
+      "created": "2026-06-07T15:46:20",
+      "modified": "2026-06-07T15:46:20",
+      "accessed": "2026-06-07T15:46:20"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1116.JPG",
+      "created": "2026-06-07T15:46:23",
+      "modified": "2026-06-07T15:46:23",
+      "accessed": "2026-06-07T15:46:23"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1128.JPG",
+      "created": "2026-06-07T15:46:34",
+      "modified": "2026-06-07T15:46:34",
+      "accessed": "2026-06-07T15:46:34"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1138.JPG",
+      "created": "2026-06-07T15:46:39",
+      "modified": "2026-06-07T15:46:39",
+      "accessed": "2026-06-07T15:46:39"
+    },
+    {
+      "path": "/storage/emulated/0/Download/MVI_1127.MOV",
+      "created": "2026-06-07T15:46:49",
+      "modified": "2026-06-07T15:46:49",
+      "accessed": "2026-06-07T15:46:49"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1242.JPG",
+      "created": "2026-06-07T15:47:10",
+      "modified": "2026-06-07T15:47:10",
+      "accessed": "2026-06-07T15:47:10"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1119.JPG",
+      "created": "2026-06-07T15:47:17",
+      "modified": "2026-06-07T15:47:16",
+      "accessed": "2026-06-07T15:47:16"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1219.JPG",
+      "created": "2026-06-07T15:47:19",
+      "modified": "2026-06-07T15:47:19",
+      "accessed": "2026-06-07T15:47:19"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1234.JPG",
+      "created": "2026-06-07T15:47:21",
+      "modified": "2026-06-07T15:47:21",
+      "accessed": "2026-06-07T15:47:21"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1161.JPG",
+      "created": "2026-06-07T15:47:23",
+      "modified": "2026-06-07T15:47:23",
+      "accessed": "2026-06-07T15:47:23"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1086.JPG",
+      "created": "2026-06-07T15:47:26",
+      "modified": "2026-06-07T15:47:26",
+      "accessed": "2026-06-07T15:47:26"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1163.JPG",
+      "created": "2026-06-07T15:47:49",
+      "modified": "2026-06-07T15:47:49",
+      "accessed": "2026-06-07T15:47:49"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1111.JPG",
+      "created": "2026-06-07T15:47:55",
+      "modified": "2026-06-07T15:47:55",
+      "accessed": "2026-06-07T15:47:55"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1222.JPG",
+      "created": "2026-06-07T15:47:57",
+      "modified": "2026-06-07T15:47:57",
+      "accessed": "2026-06-07T15:47:57"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1148 (1).JPG",
+      "created": "2026-06-07T15:49:10",
+      "modified": "2026-06-07T15:49:10",
+      "accessed": "2026-06-07T15:49:10"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1216.JPG",
+      "created": "2026-06-07T15:49:15",
+      "modified": "2026-06-07T15:49:15",
+      "accessed": "2026-06-07T15:49:15"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1249.JPG",
+      "created": "2026-06-07T15:49:24",
+      "modified": "2026-06-07T15:49:24",
+      "accessed": "2026-06-07T15:49:23"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1209.JPG",
+      "created": "2026-06-07T15:49:26",
+      "modified": "2026-06-07T15:49:26",
+      "accessed": "2026-06-07T15:49:26"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1178.JPG",
+      "created": "2026-06-07T15:49:28",
+      "modified": "2026-06-07T15:49:28",
+      "accessed": "2026-06-07T15:49:28"
+    },
+    {
+      "path": "/storage/emulated/0/Download/GP016407.JPG",
+      "created": "2026-06-08T19:01:32",
+      "modified": "2026-06-08T19:01:32",
+      "accessed": "2026-06-08T19:01:32"
+    },
+    {
+      "path": "/storage/emulated/0/Download/BoardingPass.pdf",
+      "created": "2026-06-09T07:50:04",
+      "modified": "2026-06-09T07:50:04",
+      "accessed": "2026-06-09T07:50:04"
+    },
+    {
+      "path": "/storage/emulated/0/Download/payload.apk",
+      "created": "2026-06-13T13:07:45",
+      "modified": "2026-06-13T13:07:44",
+      "accessed": "2026-06-13T13:07:44"
+    },
+    {
+      "path": "/storage/emulated/0/Download/CEH_Module4_Enumeration.pdf",
+      "created": "2026-06-15T09:44:39",
+      "modified": "2026-06-15T09:44:38",
+      "accessed": "2026-06-15T09:44:38"
+    },
+    {
+      "path": "/storage/emulated/0/Download/file.pdf",
+      "created": "2026-06-14T15:43:03",
+      "modified": "2026-06-14T15:43:03",
+      "accessed": "2026-06-14T15:43:03"
+    },
+    {
+      "path": "/storage/emulated/0/Download/CEH_Module2_Footprinting_and_Reconnaissance.pdf",
+      "created": "2026-06-15T09:43:46",
+      "modified": "2026-06-15T09:43:46",
+      "accessed": "2026-06-15T09:43:46"
+    },
+    {
+      "path": "/storage/emulated/0/Download/CEH_Module3_Scanning_Networks.pdf",
+      "created": "2026-06-15T09:43:54",
+      "modified": "2026-06-15T09:43:54",
+      "accessed": "2026-06-15T09:43:54"
+    },
+    {
+      "path": "/storage/emulated/0/Download/CEH_Module18_IoT_and_OT_Hacking.pdf",
+      "created": "2026-06-15T09:47:59",
+      "modified": "2026-06-15T09:47:59",
+      "accessed": "2026-06-15T09:47:59"
+    },
+    {
+      "path": "/storage/emulated/0/Download/CEH_Module20_Cryptography.pdf",
+      "created": "2026-06-15T09:49:47",
+      "modified": "2026-06-15T09:49:47",
+      "accessed": "2026-06-15T09:49:47"
+    },
+    {
+      "path": "/storage/emulated/0/Download/AQOcJdfMrwdn7b5rfinbIsyyVfzMSovlRLalTORogAHqtiLSSauWQgY1VWXzIxufqfIwop5p9zZw87JfcirP6Zyb.mp4",
+      "created": "2026-06-23T23:43:11",
+      "modified": "2026-06-23T23:43:11",
+      "accessed": "2026-06-23T23:42:58"
+    },
+    {
+      "path": "/storage/emulated/0/Download/Mom_Skincare_Routine-1.docx",
+      "created": "2026-07-06T14:03:18",
+      "modified": "2026-07-03T14:03:15",
+      "accessed": "2026-07-03T14:03:15"
+    },
+    {
+      "path": "/storage/emulated/0/Download/Mom_Skincare_Routine-3.docx",
+      "created": "2026-07-06T14:33:14",
+      "modified": "2026-07-03T14:33:11",
+      "accessed": "2026-07-03T14:33:11"
+    },
+    {
+      "path": "/storage/emulated/0/Download/Screen Recording 2026-07-10 130048~2.mp4",
+      "created": "2026-07-10T13:59:26",
+      "modified": "2026-07-10T13:59:26",
+      "accessed": "2026-07-10T13:59:26"
+    },
+    {
+      "path": "/storage/emulated/0/Download/9095640.jpg",
+      "created": "2026-07-11T09:57:24",
+      "modified": "2026-07-11T09:57:24",
+      "accessed": "2026-07-11T09:57:01"
+    },
+    {
+      "path": "/storage/emulated/0/Download/BCSE303L Project - FN LAB BATCH.pdf",
+      "created": "2026-07-09T12:08:29",
+      "modified": "2026-07-09T12:08:29",
+      "accessed": "2026-07-09T12:08:29"
+    },
+    {
+      "path": "/storage/emulated/0/Download/Screen Recording 2026-07-10 130048~3.mp4",
+      "created": "2026-07-10T14:18:40",
+      "modified": "2026-07-10T14:18:39",
+      "accessed": "2026-07-10T14:18:39"
+    },
+    {
+      "path": "/storage/emulated/0/Download/VideoGPT_1783761605784.mp4",
+      "created": "2026-07-11T14:50:09",
+      "modified": "2026-07-11T14:50:09",
+      "accessed": "2026-07-11T14:50:09"
+    },
+    {
+      "path": "/storage/emulated/0/Download/743318158_27532643489731047_7831849240619487301_n.webp",
+      "created": "2026-07-15T00:07:17",
+      "modified": "2026-07-12T00:07:16",
+      "accessed": "2026-07-12T00:07:15"
+    },
+    {
+      "path": "/storage/emulated/0/Download/744597084_1683548349584779_6198831882177264484_n.webp",
+      "created": "2026-07-15T00:07:30",
+      "modified": "2026-07-12T00:07:30",
+      "accessed": "2026-07-12T00:07:28"
+    },
+    {
+      "path": "/storage/emulated/0/Download/da365ddcfdfe583694746f8eedd4ccd2_720w.mp4",
+      "created": "2026-07-12T01:00:50",
+      "modified": "2026-07-12T01:00:50",
+      "accessed": "2026-07-12T01:00:37"
+    },
+    {
+      "path": "/storage/emulated/0/Download/b48fe7cd9bd4b5cdcc5fc03c8c582d31_720w.mp4",
+      "created": "2026-07-12T01:03:24",
+      "modified": "2026-07-12T01:03:24",
+      "accessed": "2026-07-12T01:03:24"
+    },
+    {
+      "path": "/storage/emulated/0/Download/VideoGPT_1784036558835.mp4",
+      "created": "2026-07-14T19:21:23",
+      "modified": "2026-07-14T19:21:23",
+      "accessed": "2026-07-14T19:21:22"
+    },
+    {
+      "path": "/storage/emulated/0/Download/VL2026270104045_AST03.pdf",
+      "created": "2026-07-15T08:16:57",
+      "modified": "2026-07-15T08:16:57",
+      "accessed": "2026-07-15T08:16:57"
+    },
+    {
+      "path": "/storage/emulated/0/Download/instagram-video-1784712826640.mp4",
+      "created": "2026-07-22T15:03:52",
+      "modified": "2026-07-22T15:03:52",
+      "accessed": "2026-07-22T15:03:47"
+    },
+    {
+      "path": "/storage/emulated/0/Download/AQMxWTEZy0-f6zdqrDlqFyhojgeGMFVG0dC6TlKh9b6A8kKXyVhA0QdxZ95wYfofcZeLKcY3xdJNmczeh2dwFu_d6y3LeJbf_bo3hfQ.mp4",
+      "created": "2026-07-22T15:11:05",
+      "modified": "2026-07-22T15:11:05",
+      "accessed": "2026-07-22T15:11:05"
+    },
+    {
+      "path": "/storage/emulated/0/Download/BCSE303L-CAT-1-B1-2024-2025.pdf",
+      "created": "2026-07-24T11:20:29",
+      "modified": "2026-07-24T11:20:29",
+      "accessed": "2026-07-24T11:20:29"
+    },
+    {
+      "path": "/storage/emulated/0/Download/instagram-video-1785489073213.mp4",
+      "created": "2026-07-31T14:41:36",
+      "modified": "2026-07-31T14:41:36",
+      "accessed": "2026-07-31T14:41:16"
+    },
+    {
+      "path": "/storage/emulated/0/Download/BCSE306L-CAT-1-D2-2025-2026.pdf",
+      "created": "2026-08-06T01:40:07",
+      "modified": "2026-08-06T01:40:07",
+      "accessed": "2026-08-06T01:40:07"
+    },
+    {
+      "path": "/storage/emulated/0/Download/Cv1 (3).pdf",
+      "created": "2026-08-02T20:22:53",
+      "modified": "2026-08-02T20:22:53",
+      "accessed": "2026-08-02T20:22:53"
+    },
+    {
+      "path": "/storage/emulated/0/Download/BCSE355L-CAT-1-G2-2025-2026.pdf",
+      "created": "2026-08-08T22:48:05",
+      "modified": "2026-08-08T22:48:05",
+      "accessed": "2026-08-08T22:48:05"
+    },
+    {
+      "path": "/storage/emulated/0/Download/BCSE303L-CAT-1-B2-2024-2025 (1).pdf",
+      "created": "2026-08-09T17:15:47",
+      "modified": "2026-08-09T17:15:46",
+      "accessed": "2026-08-09T17:15:46"
+    },
+    {
+      "path": "/storage/emulated/0/Download/BCSE306L-CAT-1-D1-2025-2026.pdf",
+      "created": "2026-08-10T19:46:37",
+      "modified": "2026-08-10T19:46:37",
+      "accessed": "2026-08-10T19:46:37"
+    },
+    {
+      "path": "/storage/emulated/0/Download/BCSE308L-CAT-1-C2-2026-2027.pdf",
+      "created": "2026-08-13T19:03:17",
+      "modified": "2026-08-13T19:03:17",
+      "accessed": "2026-08-13T19:03:17"
+    },
+    {
+      "path": "/storage/emulated/0/Download/BCSE308L-CAT-1-F2-2025-2026.pdf",
+      "created": "2026-08-13T19:03:42",
+      "modified": "2026-08-13T19:03:42",
+      "accessed": "2026-08-13T19:03:42"
+    },
+    {
+      "path": "/storage/emulated/0/Download/BCSE302L-CAT-1-E1-2025-2026 (1).pdf",
+      "created": "2026-08-11T16:58:58",
+      "modified": "2026-08-11T16:58:57",
+      "accessed": "2026-08-11T16:58:57"
+    },
+    {
+      "path": "/storage/emulated/0/Download/Module 2.pdf",
+      "created": "2026-08-14T21:59:49",
+      "modified": "2026-08-14T21:59:49",
+      "accessed": "2026-08-14T21:59:49"
+    },
+    {
+      "path": "/storage/emulated/0/Download/BCSE307L-CAT-1-A2-2025-2026.pdf",
+      "created": "2026-08-14T23:52:14",
+      "modified": "2026-08-14T23:52:14",
+      "accessed": "2026-08-14T23:52:14"
+    },
+    {
+      "path": "/storage/emulated/0/Download/AQNG7Azt2FKSXiZDbLEeGqbUcOLEUbW-876Lk7DM5aJr3M_LzTrvvjPVuiMM0T80nvdAOdnIaaMCsENCwa4mhizDLg3mfrWNOTHLJXzeCNXZpg.mp4",
+      "created": "2026-05-05T18:36:27",
+      "modified": "2026-05-05T18:36:26",
+      "accessed": "2026-05-05T18:36:25"
+    },
+    {
+      "path": "/storage/emulated/0/Download/AQMle86HC3rK8uug-8Bn1GY7LxJXW_RqJG80hp9ACSuTjpfqFga4RrP-VLBynEAM5EXnPAPcsFW9Tld-QlaIpBhnYFI7uuhFrDjoPcj6FB0Wzg.mp4",
+      "created": "2026-05-06T09:56:06",
+      "modified": "2026-05-06T09:56:06",
+      "accessed": "2026-05-06T09:56:03"
+    },
+    {
+      "path": "/storage/emulated/0/Download/AQPnZp0rKuJtgidFsAXMDmXVDNOtqFptiryBST3nWZmf9YMm8bce_VDwMF9ZirLmssSqsFVXw8hQjwANcY1Rn_cEByFg22HJQwk-WU-M8Sejvg.mp4",
+      "created": "2026-05-06T10:39:28",
+      "modified": "2026-05-06T10:39:28",
+      "accessed": "2026-05-06T10:39:23"
+    },
+    {
+      "path": "/storage/emulated/0/Download/AQOgzkss8oazDWfX78Q5k6P0YkEJm8ZvFTfUBYhzp79ohgsJn8ZgwO55hAxcQY_8VpCi8MDWqJNlk4cZdPAdwA1LESn0IjYUAXggo4pszU5hpQ.mp4",
+      "created": "2026-05-07T00:57:15",
+      "modified": "2026-05-07T00:57:15",
+      "accessed": "2026-05-07T00:57:12"
+    },
+    {
+      "path": "/storage/emulated/0/Download/AQOlbCdCA8MLCM13XWxPSaioNcj90ItRpdjwl563oj9dbaQD-5lz1Y3t1NJnMGoF7UwSeG4vygnWs2baqjC-1nLCa6EXevxst5jR24ZMcVSdDw.mp4",
+      "created": "2026-05-07T01:02:36",
+      "modified": "2026-05-07T01:02:36",
+      "accessed": "2026-05-07T01:02:32"
+    },
+    {
+      "path": "/storage/emulated/0/Download/StorySaver.net-its_me_sayan_0706-Video-1778492325196.mp4",
+      "created": "2026-05-11T15:08:45",
+      "modified": "2026-05-11T15:08:45",
+      "accessed": "2026-05-11T15:08:44"
+    },
+    {
+      "path": "/storage/emulated/0/Download/AQOUADto3W4fJFLuXqhp4dIS_HsBaPTuJKgMN6qy3Vp18rKv9Q1E8KT_9U1Y6ZIlVEWNIsg_X7EWwUOHrhAa8Qr5Z-tBU78rx1x9v0o (1).mp4",
+      "created": "2026-05-11T15:10:28",
+      "modified": "2026-05-11T15:10:27",
+      "accessed": "2026-05-11T15:10:27"
+    },
+    {
+      "path": "/storage/emulated/0/Download/eticket-Mrs-GHOSH-Kabita.pdf",
+      "created": "2026-05-13T09:27:52",
+      "modified": "2026-05-13T09:27:52",
+      "accessed": "2026-05-13T09:27:52"
+    },
+    {
+      "path": "/storage/emulated/0/Download/upload_img_65254127_05_14_2026_21_20_17_562978_712135474667873757.mp4",
+      "created": "2026-05-18T10:08:56",
+      "modified": "2026-05-15T10:08:55",
+      "accessed": "2026-05-15T10:08:53"
+    },
+    {
+      "path": "/storage/emulated/0/Download/upload_img_65254127_05_14_2026_21_20_17_562978_712135474667873757-1.mp4",
+      "created": "2026-05-18T10:10:03",
+      "modified": "2026-05-15T10:10:02",
+      "accessed": "2026-05-15T10:10:02"
+    },
+    {
+      "path": "/storage/emulated/0/Download/wolf_talking_long_8803ea21.mp4",
+      "created": "2026-05-18T19:46:56",
+      "modified": "2026-05-16T11:36:46",
+      "accessed": "2026-05-16T11:36:45"
+    },
+    {
+      "path": "/storage/emulated/0/Download/wolf_talking_long_8803ea21-1.mp4",
+      "created": "2026-05-18T19:46:56",
+      "modified": "2026-05-16T11:43:37",
+      "accessed": "2026-05-16T11:43:37"
+    },
+    {
+      "path": "/storage/emulated/0/Download/wolf_moonwalk_smooth_long_625c5b97.mp4",
+      "created": "2026-05-18T19:46:57",
+      "modified": "2026-05-16T15:19:57",
+      "accessed": "2026-05-16T15:19:57"
+    },
+    {
+      "path": "/storage/emulated/0/Download/wolf_moonwalk_65236e73.mp4",
+      "created": "2026-05-18T19:46:57",
+      "modified": "2026-05-16T15:20:04",
+      "accessed": "2026-05-16T15:20:04"
+    },
+    {
+      "path": "/storage/emulated/0/Download/SaveClip.App_AQPLJL8W3ceqEOg5w31O9FTfzE0Y22CSXzG6lKY1ZinhcVBPaI6bECoy1fz0QgUmPcjElD4SlLEJ-K7PZbxXE5IG9m8Gledk8j8XhlY.mp4",
+      "created": "2026-05-19T07:03:21",
+      "modified": "2026-05-19T07:03:21",
+      "accessed": "2026-05-19T07:03:21"
+    },
+    {
+      "path": "/storage/emulated/0/Download/SaveClip.App_AQND_ElAJYZe2nztSjMKZKRzSXoTTeqZOD5P7msFOrNKmCCm-7d6VvKoEtqtobMZ-MFOywB_gbokiGudgIH0WRR_6NN1aB97zei1eM0.mp4",
+      "created": "2026-05-19T07:03:26",
+      "modified": "2026-05-19T07:03:26",
+      "accessed": "2026-05-19T07:03:26"
+    },
+    {
+      "path": "/storage/emulated/0/Download/cjp_living_final.mp4",
+      "created": "2026-05-21T16:19:17",
+      "modified": "2026-05-20T20:55:15",
+      "accessed": "2026-05-20T20:55:14"
+    },
+    {
+      "path": "/storage/emulated/0/Download/AQNtQohJPDPtvMPWtpGNnINijHWlFZ88qENjQQmvMr6Ea_j97cMXv2XRCjHY5QbrLYZqf4RcSWX0nhjegpl4BjNuXXsGWaQh.mp4",
+      "created": "2026-05-23T23:17:57",
+      "modified": "2026-05-23T23:17:57",
+      "accessed": "2026-05-23T23:17:56"
+    },
+    {
+      "path": "/storage/emulated/0/Download/Apparently the man is touching the marmots stomach with his hand.✨Ive never held a marmots st.mp4",
+      "created": "2026-05-24T15:18:25",
+      "modified": "2026-05-24T15:18:25",
+      "accessed": "2026-05-24T15:18:23"
+    },
+    {
+      "path": "/storage/emulated/0/Download/Zudio.pdf",
+      "created": "2026-05-30T08:07:02",
+      "modified": "2026-05-30T08:07:02",
+      "accessed": "2026-05-30T08:07:01"
+    },
+    {
+      "path": "/storage/emulated/0/Download/MVI_1248.MOV",
+      "created": "2026-06-07T15:42:36",
+      "modified": "2026-06-07T15:42:36",
+      "accessed": "2026-06-07T15:42:36"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1179.JPG",
+      "created": "2026-06-07T15:43:10",
+      "modified": "2026-06-07T15:43:10",
+      "accessed": "2026-06-07T15:43:10"
+    },
+    {
+      "path": "/storage/emulated/0/Download/AQNKvGSt5fkivwWUv7EPUQKo2_HlLJa8OBHduAQeVVbHYt4dFsYWi_0eu8cWbUWPgOQ39xkQ-jwa4d_OK90lLOoz9RvyZBGCwYwmnTk (1).mp4",
+      "created": "2026-05-31T00:01:40",
+      "modified": "2026-05-31T00:01:40",
+      "accessed": "2026-05-31T00:01:40"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1226.JPG",
+      "created": "2026-06-07T15:43:15",
+      "modified": "2026-06-07T15:43:15",
+      "accessed": "2026-06-07T15:43:15"
+    },
+    {
+      "path": "/storage/emulated/0/Download/AQOXXBjzo3kTQUdJfwutnmuObhQcYI8GqCWqqoYUuX4rmf0I12xW22zKs7tKjCchmTtaMlgn9EAFfClDgc2ErPgjkrPZlmFb.mp4",
+      "created": "2026-05-30T13:08:55",
+      "modified": "2026-05-30T13:08:55",
+      "accessed": "2026-05-30T13:08:54"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1172.JPG",
+      "created": "2026-06-07T15:43:22",
+      "modified": "2026-06-07T15:43:22",
+      "accessed": "2026-06-07T15:43:22"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1150.JPG",
+      "created": "2026-06-07T15:43:32",
+      "modified": "2026-06-07T15:43:32",
+      "accessed": "2026-06-07T15:43:32"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1227.JPG",
+      "created": "2026-06-07T15:43:39",
+      "modified": "2026-06-07T15:43:39",
+      "accessed": "2026-06-07T15:43:39"
+    },
+    {
+      "path": "/storage/emulated/0/Download/MVI_1176.MOV",
+      "created": "2026-06-07T15:44:18",
+      "modified": "2026-06-07T15:44:18",
+      "accessed": "2026-06-07T15:44:18"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1171.JPG",
+      "created": "2026-06-07T15:44:21",
+      "modified": "2026-06-07T15:44:21",
+      "accessed": "2026-06-07T15:44:21"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1190.JPG",
+      "created": "2026-06-07T15:44:29",
+      "modified": "2026-06-07T15:44:29",
+      "accessed": "2026-06-07T15:44:29"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1225.JPG",
+      "created": "2026-06-07T15:44:35",
+      "modified": "2026-06-07T15:44:35",
+      "accessed": "2026-06-07T15:44:35"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1088.JPG",
+      "created": "2026-06-07T15:44:45",
+      "modified": "2026-06-07T15:44:45",
+      "accessed": "2026-06-07T15:44:45"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1243.JPG",
+      "created": "2026-06-07T15:44:48",
+      "modified": "2026-06-07T15:44:48",
+      "accessed": "2026-06-07T15:44:48"
+    },
+    {
+      "path": "/storage/emulated/0/Download/MVI_1108.MOV",
+      "created": "2026-06-07T15:45:03",
+      "modified": "2026-06-07T15:45:03",
+      "accessed": "2026-06-07T15:45:03"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1132.JPG",
+      "created": "2026-06-07T15:45:16",
+      "modified": "2026-06-07T15:45:16",
+      "accessed": "2026-06-07T15:45:16"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1133.JPG",
+      "created": "2026-06-07T15:45:18",
+      "modified": "2026-06-07T15:45:18",
+      "accessed": "2026-06-07T15:45:18"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1144.JPG",
+      "created": "2026-06-07T15:45:52",
+      "modified": "2026-06-07T15:45:52",
+      "accessed": "2026-06-07T15:45:52"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1231.JPG",
+      "created": "2026-06-07T15:46:05",
+      "modified": "2026-06-07T15:46:05",
+      "accessed": "2026-06-07T15:46:05"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1117.JPG",
+      "created": "2026-06-07T15:46:09",
+      "modified": "2026-06-07T15:46:09",
+      "accessed": "2026-06-07T15:46:09"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1166.JPG",
+      "created": "2026-06-07T15:46:16",
+      "modified": "2026-06-07T15:46:16",
+      "accessed": "2026-06-07T15:46:16"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1121.JPG",
+      "created": "2026-06-07T15:46:18",
+      "modified": "2026-06-07T15:46:18",
+      "accessed": "2026-06-07T15:46:18"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1230.JPG",
+      "created": "2026-06-07T15:46:36",
+      "modified": "2026-06-07T15:46:36",
+      "accessed": "2026-06-07T15:46:36"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1214.JPG",
+      "created": "2026-06-07T15:46:56",
+      "modified": "2026-06-07T15:46:56",
+      "accessed": "2026-06-07T15:46:56"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1134.JPG",
+      "created": "2026-06-07T15:47:14",
+      "modified": "2026-06-07T15:47:14",
+      "accessed": "2026-06-07T15:47:14"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1193.JPG",
+      "created": "2026-06-07T15:47:42",
+      "modified": "2026-06-07T15:47:42",
+      "accessed": "2026-06-07T15:47:42"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1235.JPG",
+      "created": "2026-06-07T15:47:47",
+      "modified": "2026-06-07T15:47:47",
+      "accessed": "2026-06-07T15:47:47"
+    },
+    {
+      "path": "/storage/emulated/0/Download/MVI_1224.MOV",
+      "created": "2026-06-07T15:48:30",
+      "modified": "2026-06-07T15:48:30",
+      "accessed": "2026-06-07T15:48:30"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1160.JPG",
+      "created": "2026-06-07T15:48:32",
+      "modified": "2026-06-07T15:48:32",
+      "accessed": "2026-06-07T15:48:32"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1155.JPG",
+      "created": "2026-06-07T15:48:40",
+      "modified": "2026-06-07T15:48:40",
+      "accessed": "2026-06-07T15:48:39"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1112.JPG",
+      "created": "2026-06-07T15:49:08",
+      "modified": "2026-06-07T15:49:08",
+      "accessed": "2026-06-07T15:49:08"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1211.JPG",
+      "created": "2026-06-07T15:49:20",
+      "modified": "2026-06-07T15:49:20",
+      "accessed": "2026-06-07T15:49:20"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IMG_1223.JPG",
+      "created": "2026-06-07T15:49:32",
+      "modified": "2026-06-07T15:49:32",
+      "accessed": "2026-06-07T15:49:32"
+    },
+    {
+      "path": "/storage/emulated/0/Download/GP016401.JPG",
+      "created": "2026-06-08T19:01:20",
+      "modified": "2026-06-08T19:01:20",
+      "accessed": "2026-06-08T19:01:19"
+    },
+    {
+      "path": "/storage/emulated/0/Download/GP016408.JPG",
+      "created": "2026-06-08T19:01:36",
+      "modified": "2026-06-08T19:01:36",
+      "accessed": "2026-06-08T19:01:36"
+    },
+    {
+      "path": "/storage/emulated/0/Download/GP016431.JPG",
+      "created": "2026-06-08T19:03:47",
+      "modified": "2026-06-08T19:03:47",
+      "accessed": "2026-06-08T19:03:47"
+    },
+    {
+      "path": "/storage/emulated/0/Download/CEH_Module6_System_Hacking.pdf",
+      "created": "2026-06-15T09:44:01",
+      "modified": "2026-06-15T09:44:01",
+      "accessed": "2026-06-15T09:44:01"
+    },
+    {
+      "path": "/storage/emulated/0/Download/F-Droid.apk",
+      "created": "2026-06-22T08:27:40",
+      "modified": "2026-06-22T08:27:40",
+      "accessed": "2026-06-22T08:27:33"
+    },
+    {
+      "path": "/storage/emulated/0/Download/BoardingPass (1).pdf",
+      "created": "2026-06-09T08:43:08",
+      "modified": "2026-06-09T08:43:08",
+      "accessed": "2026-06-09T08:43:08"
+    },
+    {
+      "path": "/storage/emulated/0/Download/CEH_Module5_Vulnerability_Analysis.pdf",
+      "created": "2026-06-15T09:44:20",
+      "modified": "2026-06-15T09:44:20",
+      "accessed": "2026-06-15T09:44:20"
+    },
+    {
+      "path": "/storage/emulated/0/Download/CEH_Module11_Session_Hijacking.pdf",
+      "created": "2026-06-15T09:45:27",
+      "modified": "2026-06-15T09:45:27",
+      "accessed": "2026-06-15T09:45:27"
+    },
+    {
+      "path": "/storage/emulated/0/Download/CEH_Module13_Hacking_Web_Servers.pdf",
+      "created": "2026-06-15T09:45:52",
+      "modified": "2026-06-15T09:45:52",
+      "accessed": "2026-06-15T09:45:52"
+    },
+    {
+      "path": "/storage/emulated/0/Download/CEH_Module14_Hacking_Web_Applications.pdf",
+      "created": "2026-06-15T09:46:07",
+      "modified": "2026-06-15T09:46:07",
+      "accessed": "2026-06-15T09:46:07"
+    },
+    {
+      "path": "/storage/emulated/0/Download/CEH_Module17_Hacking_Mobile_Platforms.pdf",
+      "created": "2026-06-15T09:47:38",
+      "modified": "2026-06-15T09:47:38",
+      "accessed": "2026-06-15T09:47:38"
+    },
+    {
+      "path": "/storage/emulated/0/Download/MASHUQ_HAQUE_-_AIRTEL_PHONK_(mp3.pm).mp3",
+      "created": "2026-06-20T13:50:59",
+      "modified": "2026-06-20T13:50:58",
+      "accessed": "2026-06-20T13:50:57"
+    },
+    {
+      "path": "/storage/emulated/0/Download/Mom_Skincare_Routine-4.docx",
+      "created": "2026-07-06T14:40:50",
+      "modified": "2026-07-03T14:40:48",
+      "accessed": "2026-07-03T14:40:48"
+    },
+    {
+      "path": "/storage/emulated/0/Download/Cv1.pdf",
+      "created": "2026-08-01T21:33:44",
+      "modified": "2026-08-01T21:33:44",
+      "accessed": "2026-08-01T21:33:44"
+    },
+    {
+      "path": "/storage/emulated/0/Download/com.termux_1022.apk",
+      "created": "2026-06-22T11:43:49",
+      "modified": "2026-06-22T11:43:49",
+      "accessed": "2026-06-22T11:42:58"
+    },
+    {
+      "path": "/storage/emulated/0/Download/Mom_Skincare_Routine-5.docx",
+      "created": "2026-07-06T14:41:19",
+      "modified": "2026-07-03T14:41:17",
+      "accessed": "2026-07-03T14:41:17"
+    },
+    {
+      "path": "/storage/emulated/0/Download/BCSE302L-CAT-1-B2-2025-2026.pdf",
+      "created": "2026-07-09T09:29:23",
+      "modified": "2026-07-09T09:29:23",
+      "accessed": "2026-07-09T09:29:23"
+    },
+    {
+      "path": "/storage/emulated/0/Download/apkfiles.com_614397_deepnude-ai-premium-unlocked-latest-v2-9.apk",
+      "created": "2026-07-10T11:34:02",
+      "modified": "2026-07-10T11:33:59",
+      "accessed": "2026-07-10T11:33:59"
+    },
+    {
+      "path": "/storage/emulated/0/Download/VideoGPT_1783760904926.mp4",
+      "created": "2026-07-11T14:38:29",
+      "modified": "2026-07-11T14:38:29",
+      "accessed": "2026-07-11T14:38:29"
+    },
+    {
+      "path": "/storage/emulated/0/Download/VideoGPT_1783768143279.mp4",
+      "created": "2026-07-11T16:41:10",
+      "modified": "2026-07-11T16:41:10",
+      "accessed": "2026-07-11T16:41:10"
+    },
+    {
+      "path": "/storage/emulated/0/Download/742573536_2565824630538120_6150568296428388770_n.webp",
+      "created": "2026-07-15T00:07:24",
+      "modified": "2026-07-12T00:07:24",
+      "accessed": "2026-07-12T00:07:22"
+    },
+    {
+      "path": "/storage/emulated/0/Download/TABC_Report_Weeks1_2_Sayan_Chowdhury.docx",
+      "created": "2026-07-16T14:24:03",
+      "modified": "2026-07-13T14:23:59",
+      "accessed": "2026-07-13T14:23:59"
+    },
+    {
+      "path": "/storage/emulated/0/Download/VL2026270104045_AST04.pdf",
+      "created": "2026-07-15T08:17:20",
+      "modified": "2026-07-15T08:17:20",
+      "accessed": "2026-07-15T08:17:20"
+    },
+    {
+      "path": "/storage/emulated/0/Download/Module 3 (2).pdf",
+      "created": "2026-08-09T17:10:49",
+      "modified": "2026-08-09T17:10:49",
+      "accessed": "2026-08-09T17:10:49"
+    },
+    {
+      "path": "/storage/emulated/0/Download/FFH4X_V146_1.0_1782557601_latestmodapks.com.apk",
+      "created": "2026-07-13T17:35:03",
+      "modified": "2026-07-13T17:35:03",
+      "accessed": "2026-07-13T17:31:52"
+    },
+    {
+      "path": "/storage/emulated/0/Download/instagram-video-1784712824604.mp4",
+      "created": "2026-07-22T15:03:55",
+      "modified": "2026-07-22T15:03:55",
+      "accessed": "2026-07-22T15:03:47"
+    },
+    {
+      "path": "/storage/emulated/0/Download/BCSE302L-CAT-1-A2-2024-2025.pdf",
+      "created": "2026-07-23T09:19:40",
+      "modified": "2026-07-23T09:19:40",
+      "accessed": "2026-07-23T09:19:40"
+    },
+    {
+      "path": "/storage/emulated/0/Download/BCSE302L-CAT-1-B2-2025-2026 (2).pdf",
+      "created": "2026-07-23T09:20:05",
+      "modified": "2026-07-23T09:20:05",
+      "accessed": "2026-07-23T09:20:05"
+    },
+    {
+      "path": "/storage/emulated/0/Download/FALLSEM2025-26_VL_BSTS301P_00100_SS_2025-07-25_Remainder-Theorem.pdf",
+      "created": "2026-08-12T23:35:11",
+      "modified": "2026-08-12T23:35:11",
+      "accessed": "2026-08-12T23:35:09"
+    },
+    {
+      "path": "/storage/emulated/0/Download/FALLSEM2025-26_VL_BSTS301P_00100_SS_2025-07-25_Euclid's-Algorithm.pdf",
+      "created": "2026-08-12T23:35:32",
+      "modified": "2026-08-12T23:35:32",
+      "accessed": "2026-08-12T23:35:30"
+    },
+    {
+      "path": "/storage/emulated/0/Download/BCSE307L-CAT-1-E2-2025-2026.pdf",
+      "created": "2026-08-14T23:51:56",
+      "modified": "2026-08-14T23:51:56",
+      "accessed": "2026-08-14T23:51:56"
+    },
+    {
+      "path": "/storage/emulated/0/Download/Becoming Rahul Gandhi is not easy. At a very young age, he lost his grandmother, and later, his .mp4",
+      "created": "2026-08-09T19:12:54",
+      "modified": "2026-08-09T19:12:54",
+      "accessed": "2026-08-09T19:05:36"
+    },
+    {
+      "path": "/storage/emulated/0/Download/BCSE306L-CAT-1-B1-2026-2027.pdf",
+      "created": "2026-08-10T19:47:00",
+      "modified": "2026-08-10T19:47:00",
+      "accessed": "2026-08-10T19:47:00"
+    },
+    {
+      "path": "/storage/emulated/0/Download/BCSE302L-CAT-1-B2-2025-2026 (4).pdf",
+      "created": "2026-08-11T16:59:06",
+      "modified": "2026-08-11T16:59:06",
+      "accessed": "2026-08-11T16:59:06"
+    },
+    {
+      "path": "/storage/emulated/0/Download/BCSE302L-CAT-1-B2-2025-2026 (5).pdf",
+      "created": "2026-08-11T16:59:20",
+      "modified": "2026-08-11T16:59:20",
+      "accessed": "2026-08-11T16:59:20"
+    },
+    {
+      "path": "/storage/emulated/0/Download/FALLSEM2025-26_VL_BSTS301P_00100_SS_2025-07-25_Segmented-_-Incremental-Sieve.pdf",
+      "created": "2026-08-12T23:35:03",
+      "modified": "2026-08-12T23:35:03",
+      "accessed": "2026-08-12T23:35:02"
+    },
+    {
+      "path": "/storage/emulated/0/Download/FALLSEM2025-26_VL_BSTS301P_00100_SS_2025-07-25_Toggle-the-switch-_-Alice-Apple-tree.pdf",
+      "created": "2026-08-12T23:35:12",
+      "modified": "2026-08-12T23:35:12",
+      "accessed": "2026-08-12T23:35:11"
+    },
+    {
+      "path": "/storage/emulated/0/Download/FALLSEM2025-26_VL_BSTS301P_00100_SS_2025-07-25_Binary-Palindrome.pdf",
+      "created": "2026-08-12T23:35:18",
+      "modified": "2026-08-12T23:35:18",
+      "accessed": "2026-08-12T23:35:18"
+    },
+    {
+      "path": "/storage/emulated/0/Download/BCSE308L-CAT-1-C1-2026-2027.pdf",
+      "created": "2026-08-13T19:03:21",
+      "modified": "2026-08-13T19:03:20",
+      "accessed": "2026-08-13T19:03:20"
+    },
+    {
+      "path": "/storage/emulated/0/Download/FALLSEM2025-26_VL_BSTS301P_00100_SS_2025-07-25_Time-_-Space-complexity-1_2.pdf",
+      "created": "2026-08-12T23:34:59",
+      "modified": "2026-08-12T23:34:59",
+      "accessed": "2026-08-12T23:34:58"
+    },
+    {
+      "path": "/storage/emulated/0/Download/The present system is worst than British Raj #shorts #youtube #trending #sonamwangchuk - UPSC Karmrathi Dairies (720p, h264).mp4",
+      "created": "2026-07-22T15:43:59",
+      "modified": "2026-07-22T15:43:59",
+      "accessed": "2026-07-22T15:43:47"
+    },
+    {
+      "path": "/storage/emulated/0/Download/BCSE303L-CAT-1-B2-2024-2025.pdf",
+      "created": "2026-07-31T11:56:25",
+      "modified": "2026-07-31T11:56:25",
+      "accessed": "2026-07-31T11:56:25"
+    },
+    {
+      "path": "/storage/emulated/0/Download/ChotaDhobi-VIT Vellore.apk",
+      "created": "2026-07-24T19:25:30",
+      "modified": "2026-07-24T19:25:30",
+      "accessed": "2026-07-24T19:25:24"
+    },
+    {
+      "path": "/storage/emulated/0/Download/2028 Graduating Batch Credits to be earned to become eligible for Placement.pdf",
+      "created": "2026-07-31T09:46:18",
+      "modified": "2026-07-31T09:46:18",
+      "accessed": "2026-07-31T09:46:18"
+    },
+    {
+      "path": "/storage/emulated/0/Download/BCSE302L-CAT-1-B1-2025-2026 (1).pdf",
+      "created": "2026-08-11T16:59:49",
+      "modified": "2026-08-11T16:59:49",
+      "accessed": "2026-08-11T16:59:49"
+    },
+    {
+      "path": "/storage/emulated/0/Download/FALLSEM2025-26_VL_BSTS301P_00100_SS_2025-07-25_Introduction-to-Algorithms.pdf",
+      "created": "2026-08-12T23:34:54",
+      "modified": "2026-08-12T23:34:54",
+      "accessed": "2026-08-12T23:34:53"
+    },
+    {
+      "path": "/storage/emulated/0/Download/FALLSEM2025-26_VL_BSTS301P_00100_SS_2025-07-25_Simple-Sieve.pdf",
+      "created": "2026-08-12T23:35:02",
+      "modified": "2026-08-12T23:35:01",
+      "accessed": "2026-08-12T23:35:01"
+    },
+    {
+      "path": "/storage/emulated/0/Download/FALLSEM2025-26_VL_BSTS301P_00100_SS_2025-07-25_Euler's-phi-Algorithm.pdf",
+      "created": "2026-08-12T23:35:07",
+      "modified": "2026-08-12T23:35:07",
+      "accessed": "2026-08-12T23:35:05"
+    },
+    {
+      "path": "/storage/emulated/0/Download/FALLSEM2025-26_VL_BSTS301P_00100_SS_2025-07-25_Booth's-Algorithm.pdf",
+      "created": "2026-08-12T23:35:20",
+      "modified": "2026-08-12T23:35:20",
+      "accessed": "2026-08-12T23:35:20"
+    },
+    {
+      "path": "/storage/emulated/0/Download/FALLSEM2025-26_VL_BSTS301P_00100_SS_2025-07-25_Basic-I_O_-Operators.pdf",
+      "created": "2026-08-12T23:34:50",
+      "modified": "2026-08-12T23:34:50",
+      "accessed": "2026-08-12T23:34:48"
+    },
+    {
+      "path": "/storage/emulated/0/Download/FALLSEM2025-26_VL_BSTS301P_00100_SS_2025-07-25_Decision-making-and-Control-structures.pdf",
+      "created": "2026-08-12T23:34:52",
+      "modified": "2026-08-12T23:34:51",
+      "accessed": "2026-08-12T23:34:51"
+    },
+    {
+      "path": "/storage/emulated/0/Download/FALLSEM2025-26_VL_BSTS301P_00100_SS_2025-07-25_Time-_-Space-complexity-1_1.pdf",
+      "created": "2026-08-12T23:34:58",
+      "modified": "2026-08-12T23:34:58",
+      "accessed": "2026-08-12T23:34:57"
+    },
+    {
+      "path": "/storage/emulated/0/Download/BCSE308L-CAT-1-G2-2025-2026 (1).pdf",
+      "created": "2026-08-13T19:03:30",
+      "modified": "2026-08-13T19:03:30",
+      "accessed": "2026-08-13T19:03:30"
+    },
+    {
+      "path": "/storage/emulated/0/Download/BCSE302L-CAT-1-B2-2025-2026 (6).pdf",
+      "created": "2026-08-11T16:59:42",
+      "modified": "2026-08-11T16:59:42",
+      "accessed": "2026-08-11T16:59:42"
+    },
+    {
+      "path": "/storage/emulated/0/Download/FALLSEM2025-26_VL_BSTS301P_00100_SS_2025-07-25_Java-Introduction_-Features_-Structure_-Data-Types.pdf",
+      "created": "2026-08-12T23:34:46",
+      "modified": "2026-08-12T23:34:46",
+      "accessed": "2026-08-12T23:34:45"
+    },
+    {
+      "path": "/storage/emulated/0/Download/BCSE308L-CAT-1-A1-2025-2026 (1).pdf",
+      "created": "2026-08-13T19:03:35",
+      "modified": "2026-08-13T19:03:35",
+      "accessed": "2026-08-13T19:03:35"
+    },
+    {
+      "path": "/storage/emulated/0/Download/Module 1 and Module 2 - Questions.pdf",
+      "created": "2026-08-14T22:00:07",
+      "modified": "2026-08-14T22:00:07",
+      "accessed": "2026-08-14T22:00:07"
+    },
+    {
+      "path": "/storage/emulated/0/Download/BCSE307L-CAT-1-E1-2025-2026.pdf",
+      "created": "2026-08-14T23:52:07",
+      "modified": "2026-08-14T23:52:07",
+      "accessed": "2026-08-14T23:52:07"
+    },
+    {
+      "path": "/storage/emulated/0/Download/24BCI0236_VL2026270103856_AST02.pdf",
+      "created": "2026-08-17T12:27:25",
+      "modified": "2026-08-17T12:27:25",
+      "accessed": "2026-08-17T12:27:24"
+    },
+    {
+      "path": "/storage/emulated/0/Download/BCSE302L-CAT-1-E1-2025-2026.pdf",
+      "created": "2026-07-23T09:16:14",
+      "modified": "2026-07-23T09:16:14",
+      "accessed": "2026-07-23T09:16:14"
+    },
+    {
+      "path": "/storage/emulated/0/Download/BCSE355L-CAT-1-G1-2025-2026.pdf",
+      "created": "2026-08-08T22:47:55",
+      "modified": "2026-08-08T22:47:55",
+      "accessed": "2026-08-08T22:47:55"
+    },
+    {
+      "path": "/storage/emulated/0/Download/Sayan Chowdhury- Intern -  Internship Extension Offer Letter.pdf",
+      "created": "2026-08-08T22:55:37",
+      "modified": "2026-08-08T22:55:37",
+      "accessed": "2026-08-08T22:55:37"
+    },
+    {
+      "path": "/storage/emulated/0/Download/BCSE306L-CAT-1-E1-2024-2025.pdf",
+      "created": "2026-08-10T19:45:04",
+      "modified": "2026-08-10T19:45:04",
+      "accessed": "2026-08-10T19:45:04"
+    },
+    {
+      "path": "/storage/emulated/0/Download/BCSE307L-CAT-1-A1-2025-2026.pdf",
+      "created": "2026-08-14T23:52:17",
+      "modified": "2026-08-14T23:52:17",
+      "accessed": "2026-08-14T23:52:17"
+    },
+    {
+      "path": "/storage/emulated/0/Download/IS-2022-23.pdf",
+      "created": "2026-08-15T09:24:51",
+      "modified": "2026-08-15T09:24:51",
+      "accessed": "2026-08-15T01:10:01"
+    },
+    {
+      "path": "/storage/emulated/0/Download/FALLSEM2025-26_VL_BSTS301P_00100_SS_2025-07-25_Strobogrammatic-Number.pdf",
+      "created": "2026-08-12T23:35:09",
+      "modified": "2026-08-12T23:35:09",
+      "accessed": "2026-08-12T23:35:07"
+    },
+    {
+      "path": "/storage/emulated/0/Download/fakephonepe-37.5.xapk/com.phonepe.app.apk",
+      "created": "2026-04-25T23:53:06",
+      "modified": "2026-04-25T23:53:04",
+      "accessed": "2026-04-25T23:53:04"
+    },
+    {
+      "path": "/storage/emulated/0/Download/fakephonepe-37.5.xapk/icon.png",
+      "created": "2026-04-25T23:53:06",
+      "modified": "2026-04-25T23:53:05",
+      "accessed": "2026-04-25T23:53:05"
+    },
+    {
+      "path": "/storage/emulated/0/Download/fakephonepe-37.5.xapk/config.xxhdpi.apk",
+      "created": "2026-04-25T23:53:06",
+      "modified": "2026-04-25T23:53:05",
+      "accessed": "2026-04-25T23:53:05"
+    },
+    {
+      "path": "/storage/emulated/0/Download/fakephonepe-37.5.xapk/config.arm64_v8a.apk",
+      "created": "2026-04-25T23:53:06",
+      "modified": "2026-04-25T23:53:05",
+      "accessed": "2026-04-25T23:53:05"
+    },
+    {
+      "path": "/storage/emulated/0/Download/fakephonepe-37.5.xapk/manifest.json",
+      "created": "2026-04-25T23:53:06",
+      "modified": "2026-04-25T23:53:05",
+      "accessed": "2026-04-25T23:53:05"
+    },
+    {
+      "path": "/storage/emulated/0/Download/rachna bhatia prob/__MACOSX/._rachna bhatia prob",
+      "created": "2026-02-25T17:21:09",
+      "modified": "2026-02-25T17:20:49",
+      "accessed": "2026-02-25T17:20:49"
+    },
+    {
+      "path": "/storage/emulated/0/Download/rachna bhatia prob/rachna bhatia prob/.DS_Store",
+      "created": "2026-02-25T17:21:08",
+      "modified": "2026-02-25T17:20:50",
+      "accessed": "2026-02-25T17:20:49"
+    },
+    {
+      "path": "/storage/emulated/0/Download/rachna bhatia prob/rachna bhatia prob/Module 5/1.Hypothesis Testing.pdf",
+      "created": "2026-02-25T17:21:09",
+      "modified": "2026-02-25T17:20:52",
+      "accessed": "2026-02-25T17:20:51"
+    },
+    {
+      "path": "/storage/emulated/0/Download/rachna bhatia prob/rachna bhatia prob/Module 5/3. Test for single mean and teas for difference of means.pdf",
+      "created": "2026-02-25T17:21:08",
+      "modified": "2026-02-25T17:20:52",
+      "accessed": "2026-02-25T17:20:52"
+    },
+    {
+      "path": "/storage/emulated/0/Download/rachna bhatia prob/rachna bhatia prob/Module 5/2. Test for Single Proportion and Test for difference of Proportion.pdf",
+      "created": "2026-02-25T17:21:08",
+      "modified": "2026-02-25T17:20:52",
+      "accessed": "2026-02-25T17:20:52"
+    },
+    {
+      "path": "/storage/emulated/0/Download/rachna bhatia prob/rachna bhatia prob/Module 2/1-dim Discrete and Conti. random variable.pdf",
+      "created": "2026-02-25T17:21:09",
+      "modified": "2026-02-25T17:20:53",
+      "accessed": "2026-02-25T17:20:53"
+    },
+    {
+      "path": "/storage/emulated/0/Download/rachna bhatia prob/rachna bhatia prob/Module 2/4-Moment Generating function.pdf",
+      "created": "2026-02-25T17:21:08",
+      "modified": "2026-02-25T17:20:54",
+      "accessed": "2026-02-25T17:20:53"
+    },
+    {
+      "path": "/storage/emulated/0/Download/rachna bhatia prob/rachna bhatia prob/Module 2/2-Expectation and Two dimensional random variable.pdf",
+      "created": "2026-02-25T17:21:09",
+      "modified": "2026-02-25T17:20:54",
+      "accessed": "2026-02-25T17:20:54"
+    },
+    {
+      "path": "/storage/emulated/0/Download/rachna bhatia prob/rachna bhatia prob/Module 2/3- Conditional distribution fun and Expectation.pdf",
+      "created": "2026-02-25T17:21:08",
+      "modified": "2026-02-25T17:20:55",
+      "accessed": "2026-02-25T17:20:54"
+    },
+    {
+      "path": "/storage/emulated/0/Download/rachna bhatia prob/rachna bhatia prob/Module 3/3. Partial and Multiple Correlation.pdf",
+      "created": "2026-02-25T17:21:09",
+      "modified": "2026-02-25T17:20:55",
+      "accessed": "2026-02-25T17:20:55"
+    },
+    {
+      "path": "/storage/emulated/0/Download/rachna bhatia prob/rachna bhatia prob/Module 3/4. Regression.pdf",
+      "created": "2026-02-25T17:21:08",
+      "modified": "2026-02-25T17:20:56",
+      "accessed": "2026-02-25T17:20:55"
+    },
+    {
+      "path": "/storage/emulated/0/Download/rachna bhatia prob/rachna bhatia prob/Module 3/2. Rank Correlation Coefficient.pdf",
+      "created": "2026-02-25T17:21:09",
+      "modified": "2026-02-25T17:20:56",
+      "accessed": "2026-02-25T17:20:56"
+    },
+    {
+      "path": "/storage/emulated/0/Download/rachna bhatia prob/rachna bhatia prob/Module 3/1. Coefficient of Correlation.pdf",
+      "created": "2026-02-25T17:21:09",
+      "modified": "2026-02-25T17:20:57",
+      "accessed": "2026-02-25T17:20:57"
+    },
+    {
+      "path": "/storage/emulated/0/Download/rachna bhatia prob/rachna bhatia prob/Module 4/6. Weibull Distribution.pdf",
+      "created": "2026-02-25T17:21:09",
+      "modified": "2026-02-25T17:20:57",
+      "accessed": "2026-02-25T17:20:57"
+    },
+    {
+      "path": "/storage/emulated/0/Download/rachna bhatia prob/rachna bhatia prob/Module 4/1.Binomial Distribution.pdf",
+      "created": "2026-02-25T17:21:09",
+      "modified": "2026-02-25T17:20:58",
+      "accessed": "2026-02-25T17:20:58"
+    },
+    {
+      "path": "/storage/emulated/0/Download/rachna bhatia prob/rachna bhatia prob/Module 4/4. Exponential Distribution.pdf",
+      "created": "2026-02-25T17:21:08",
+      "modified": "2026-02-25T17:20:58",
+      "accessed": "2026-02-25T17:20:58"
+    },
+    {
+      "path": "/storage/emulated/0/Download/rachna bhatia prob/rachna bhatia prob/Module 4/2. Poisson Distribution.pdf",
+      "created": "2026-02-25T17:21:08",
+      "modified": "2026-02-25T17:20:59",
+      "accessed": "2026-02-25T17:20:58"
+    },
+    {
+      "path": "/storage/emulated/0/Download/rachna bhatia prob/rachna bhatia prob/Module 4/5. Gamma Distribution.pdf",
+      "created": "2026-02-25T17:21:09",
+      "modified": "2026-02-25T17:20:59",
+      "accessed": "2026-02-25T17:20:59"
+    },
+    {
+      "path": "/storage/emulated/0/Download/rachna bhatia prob/rachna bhatia prob/Module 4/3. Normal Distribution.pdf",
+      "created": "2026-02-25T17:21:09",
+      "modified": "2026-02-25T17:21:00",
+      "accessed": "2026-02-25T17:20:59"
+    },
+    {
+      "path": "/storage/emulated/0/Download/rachna bhatia prob/rachna bhatia prob/Module 1/6. Skewness, Kurtosis and Moments.pdf",
+      "created": "2026-02-25T17:21:08",
+      "modified": "2026-02-25T17:21:00",
+      "accessed": "2026-02-25T17:21:00"
+    },
+    {
+      "path": "/storage/emulated/0/Download/rachna bhatia prob/rachna bhatia prob/Module 1/5. Standard Deviation and Variance.pdf",
+      "created": "2026-02-25T17:21:09",
+      "modified": "2026-02-25T17:21:01",
+      "accessed": "2026-02-25T17:21:00"
+    },
+    {
+      "path": "/storage/emulated/0/Download/rachna bhatia prob/rachna bhatia prob/Module 1/1. Mean.pdf",
+      "created": "2026-02-25T17:21:09",
+      "modified": "2026-02-25T17:21:01",
+      "accessed": "2026-02-25T17:21:01"
+    },
+    {
+      "path": "/storage/emulated/0/Download/rachna bhatia prob/rachna bhatia prob/Module 1/4. Mean Deviation.pdf",
+      "created": "2026-02-25T17:21:09",
+      "modified": "2026-02-25T17:21:02",
+      "accessed": "2026-02-25T17:21:01"
+    },
+    {
+      "path": "/storage/emulated/0/Download/rachna bhatia prob/rachna bhatia prob/Module 1/3. Mode and Positional Measures.pdf",
+      "created": "2026-02-25T17:21:08",
+      "modified": "2026-02-25T17:21:02",
+      "accessed": "2026-02-25T17:21:02"
+    },
+    {
+      "path": "/storage/emulated/0/Download/rachna bhatia prob/rachna bhatia prob/Module 1/2. Median.pdf",
+      "created": "2026-02-25T17:21:09",
+      "modified": "2026-02-25T17:21:03",
+      "accessed": "2026-02-25T17:21:03"
+    },
+    {
+      "path": "/storage/emulated/0/Download/rachna bhatia prob/rachna bhatia prob/Module 6/1. t-test.pdf",
+      "created": "2026-02-25T17:21:09",
+      "modified": "2026-02-25T17:21:03",
+      "accessed": "2026-02-25T17:21:03"
+    },
+    {
+      "path": "/storage/emulated/0/Download/rachna bhatia prob/rachna bhatia prob/Module 6/2. F-test.pdf",
+      "created": "2026-02-25T17:21:09",
+      "modified": "2026-02-25T17:21:04",
+      "accessed": "2026-02-25T17:21:03"
+    },
+    {
+      "path": "/storage/emulated/0/Download/rachna bhatia prob/rachna bhatia prob/Module 6/3.1  Chi Square Goodness of fit.pdf",
+      "created": "2026-02-25T17:21:09",
+      "modified": "2026-02-25T17:21:04",
+      "accessed": "2026-02-25T17:21:04"
+    },
+    {
+      "path": "/storage/emulated/0/Download/rachna bhatia prob/rachna bhatia prob/Module 6/3.2  Chi Square Indepenence of Attributes.pdf",
+      "created": "2026-02-25T17:21:09",
+      "modified": "2026-02-25T17:21:05",
+      "accessed": "2026-02-25T17:21:04"
+    },
+    {
+      "path": "/storage/emulated/0/Download/rachna bhatia prob/rachna bhatia prob/Module 6/4. Design of Experiment.PDF",
+      "created": "2026-02-25T17:21:09",
+      "modified": "2026-02-25T17:21:05",
+      "accessed": "2026-02-25T17:21:05"
+    },
+    {
+      "path": "/storage/emulated/0/Download/rachna bhatia prob/rachna bhatia prob/Module 6/21baeb37-0b40-4053-8938-8dcd54348361.PDF",
+      "created": "2026-02-25T17:21:09",
+      "modified": "2026-02-25T17:21:06",
+      "accessed": "2026-02-25T17:21:05"
+    },
+    {
+      "path": "/storage/emulated/0/Download/rachna bhatia prob/rachna bhatia prob/Module 7/Mod 7 All.pdf",
+      "created": "2026-02-25T17:21:09",
+      "modified": "2026-02-25T17:21:06",
+      "accessed": "2026-02-25T17:21:06"
+    },
+    {
+      "path": "/storage/emulated/0/Download/rachna bhatia prob/__MACOSX/rachna bhatia prob/._.DS_Store",
+      "created": "2026-02-25T17:21:09",
+      "modified": "2026-02-25T17:20:50",
+      "accessed": "2026-02-25T17:20:50"
+    },
+    {
+      "path": "/storage/emulated/0/Download/rachna bhatia prob/__MACOSX/rachna bhatia prob/._Module 5",
+      "created": "2026-02-25T17:21:09",
+      "modified": "2026-02-25T17:20:50",
+      "accessed": "2026-02-25T17:20:50"
+    },
+    {
+      "path": "/storage/emulated/0/Download/rachna bhatia prob/__MACOSX/rachna bhatia prob/._Module 2",
+      "created": "2026-02-25T17:21:09",
+      "modified": "2026-02-25T17:20:50",
+      "accessed": "2026-02-25T17:20:50"
+    },
+    {
+      "path": "/storage/emulated/0/Download/rachna bhatia prob/__MACOSX/rachna bhatia prob/._Module 3",
+      "created": "2026-02-25T17:21:09",
+      "modified": "2026-02-25T17:20:50",
+      "accessed": "2026-02-25T17:20:50"
+    },
+    {
+      "path": "/storage/emulated/0/Download/rachna bhatia prob/__MACOSX/rachna bhatia prob/._Module 4",
+      "created": "2026-02-25T17:21:09",
+      "modified": "2026-02-25T17:20:51",
+      "accessed": "2026-02-25T17:20:51"
+    },
+    {
+      "path": "/storage/emulated/0/Download/rachna bhatia prob/__MACOSX/rachna bhatia prob/._Module 1",
+      "created": "2026-02-25T17:21:09",
+      "modified": "2026-02-25T17:20:51",
+      "accessed": "2026-02-25T17:20:51"
+    },
+    {
+      "path": "/storage/emulated/0/Download/rachna bhatia prob/__MACOSX/rachna bhatia prob/._Module 6",
+      "created": "2026-02-25T17:21:09",
+      "modified": "2026-02-25T17:20:51",
+      "accessed": "2026-02-25T17:20:51"
+    },
+    {
+      "path": "/storage/emulated/0/Download/rachna bhatia prob/__MACOSX/rachna bhatia prob/._Module 7",
+      "created": "2026-02-25T17:21:09",
+      "modified": "2026-02-25T17:20:51",
+      "accessed": "2026-02-25T17:20:51"
+    },
+    {
+      "path": "/storage/emulated/0/Download/rachna bhatia prob/__MACOSX/rachna bhatia prob/Module 5/._1.Hypothesis Testing.pdf",
+      "created": "2026-02-25T17:21:08",
+      "modified": "2026-02-25T17:20:52",
+      "accessed": "2026-02-25T17:20:52"
+    },
+    {
+      "path": "/storage/emulated/0/Download/rachna bhatia prob/__MACOSX/rachna bhatia prob/Module 5/._3. Test for single mean and teas for difference of means.pdf",
+      "created": "2026-02-25T17:21:09",
+      "modified": "2026-02-25T17:20:52",
+      "accessed": "2026-02-25T17:20:52"
+    },
+    {
+      "path": "/storage/emulated/0/Download/rachna bhatia prob/__MACOSX/rachna bhatia prob/Module 5/._2. Test for Single Proportion and Test for difference of Proportion.pdf",
+      "created": "2026-02-25T17:21:09",
+      "modified": "2026-02-25T17:20:53",
+      "accessed": "2026-02-25T17:20:53"
+    },
+    {
+      "path": "/storage/emulated/0/Download/rachna bhatia prob/__MACOSX/rachna bhatia prob/Module 2/._1-dim Discrete and Conti. random variable.pdf",
+      "created": "2026-02-25T17:21:09",
+      "modified": "2026-02-25T17:20:53",
+      "accessed": "2026-02-25T17:20:53"
+    },
+    {
+      "path": "/storage/emulated/0/Download/rachna bhatia prob/__MACOSX/rachna bhatia prob/Module 2/._4-Moment Generating function.pdf",
+      "created": "2026-02-25T17:21:09",
+      "modified": "2026-02-25T17:20:54",
+      "accessed": "2026-02-25T17:20:54"
+    },
+    {
+      "path": "/storage/emulated/0/Download/rachna bhatia prob/__MACOSX/rachna bhatia prob/Module 2/._2-Expectation and Two dimensional random variable.pdf",
+      "created": "2026-02-25T17:21:08",
+      "modified": "2026-02-25T17:20:54",
+      "accessed": "2026-02-25T17:20:54"
+    },
+    {
+      "path": "/storage/emulated/0/Download/rachna bhatia prob/__MACOSX/rachna bhatia prob/Module 2/._3- Conditional distribution fun and Expectation.pdf",
+      "created": "2026-02-25T17:21:09",
+      "modified": "2026-02-25T17:20:55",
+      "accessed": "2026-02-25T17:20:55"
+    },
+    {
+      "path": "/storage/emulated/0/Download/rachna bhatia prob/__MACOSX/rachna bhatia prob/Module 3/._3. Partial and Multiple Correlation.pdf",
+      "created": "2026-02-25T17:21:09",
+      "modified": "2026-02-25T17:20:55",
+      "accessed": "2026-02-25T17:20:55"
+    },
+    {
+      "path": "/storage/emulated/0/Download/rachna bhatia prob/__MACOSX/rachna bhatia prob/Module 3/._4. Regression.pdf",
+      "created": "2026-02-25T17:21:08",
+      "modified": "2026-02-25T17:20:56",
+      "accessed": "2026-02-25T17:20:56"
+    },
+    {
+      "path": "/storage/emulated/0/Download/rachna bhatia prob/__MACOSX/rachna bhatia prob/Module 3/._2. Rank Correlation Coefficient.pdf",
+      "created": "2026-02-25T17:21:09",
+      "modified": "2026-02-25T17:20:56",
+      "accessed": "2026-02-25T17:20:56"
+    },
+    {
+      "path": "/storage/emulated/0/Download/rachna bhatia prob/__MACOSX/rachna bhatia prob/Module 3/._1. Coefficient of Correlation.pdf",
+      "created": "2026-02-25T17:21:09",
+      "modified": "2026-02-25T17:20:57",
+      "accessed": "2026-02-25T17:20:57"
+    },
+    {
+      "path": "/storage/emulated/0/Download/rachna bhatia prob/__MACOSX/rachna bhatia prob/Module 4/._6. Weibull Distribution.pdf",
+      "created": "2026-02-25T17:21:09",
+      "modified": "2026-02-25T17:20:57",
+      "accessed": "2026-02-25T17:20:57"
+    },
+    {
+      "path": "/storage/emulated/0/Download/rachna bhatia prob/__MACOSX/rachna bhatia prob/Module 4/._1.Binomial Distribution.pdf",
+      "created": "2026-02-25T17:21:09",
+      "modified": "2026-02-25T17:20:58",
+      "accessed": "2026-02-25T17:20:58"
+    },
+    {
+      "path": "/storage/emulated/0/Download/rachna bhatia prob/__MACOSX/rachna bhatia prob/Module 4/._4. Exponential Distribution.pdf",
+      "created": "2026-02-25T17:21:09",
+      "modified": "2026-02-25T17:20:58",
+      "accessed": "2026-02-25T17:20:58"
+    },
+    {
+      "path": "/storage/emulated/0/Download/rachna bhatia prob/__MACOSX/rachna bhatia prob/Module 4/._2. Poisson Distribution.pdf",
+      "created": "2026-02-25T17:21:08",
+      "modified": "2026-02-25T17:20:59",
+      "accessed": "2026-02-25T17:20:59"
+    },
+    {
+      "path": "/storage/emulated/0/Download/rachna bhatia prob/__MACOSX/rachna bhatia prob/Module 4/._5. Gamma Distribution.pdf",
+      "created": "2026-02-25T17:21:08",
+      "modified": "2026-02-25T17:20:59",
+      "accessed": "2026-02-25T17:20:59"
+    },
+    {
+      "path": "/storage/emulated/0/Download/rachna bhatia prob/__MACOSX/rachna bhatia prob/Module 4/._3. Normal Distribution.pdf",
+      "created": "2026-02-25T17:21:09",
+      "modified": "2026-02-25T17:21:00",
+      "accessed": "2026-02-25T17:21:00"
+    },
+    {
+      "path": "/storage/emulated/0/Download/rachna bhatia prob/__MACOSX/rachna bhatia prob/Module 1/._6. Skewness, Kurtosis and Moments.pdf",
+      "created": "2026-02-25T17:21:09",
+      "modified": "2026-02-25T17:21:00",
+      "accessed": "2026-02-25T17:21:00"
+    },
+    {
+      "path": "/storage/emulated/0/Download/rachna bhatia prob/__MACOSX/rachna bhatia prob/Module 1/._5. Standard Deviation and Variance.pdf",
+      "created": "2026-02-25T17:21:08",
+      "modified": "2026-02-25T17:21:01",
+      "accessed": "2026-02-25T17:21:01"
+    },
+    {
+      "path": "/storage/emulated/0/Download/rachna bhatia prob/__MACOSX/rachna bhatia prob/Module 1/._1. Mean.pdf",
+      "created": "2026-02-25T17:21:09",
+      "modified": "2026-02-25T17:21:01",
+      "accessed": "2026-02-25T17:21:01"
+    },
+    {
+      "path": "/storage/emulated/0/Download/rachna bhatia prob/__MACOSX/rachna bhatia prob/Module 1/._4. Mean Deviation.pdf",
+      "created": "2026-02-25T17:21:09",
+      "modified": "2026-02-25T17:21:02",
+      "accessed": "2026-02-25T17:21:02"
+    },
+    {
+      "path": "/storage/emulated/0/Download/rachna bhatia prob/__MACOSX/rachna bhatia prob/Module 1/._3. Mode and Positional Measures.pdf",
+      "created": "2026-02-25T17:21:09",
+      "modified": "2026-02-25T17:21:02",
+      "accessed": "2026-02-25T17:21:02"
+    },
+    {
+      "path": "/storage/emulated/0/Download/rachna bhatia prob/__MACOSX/rachna bhatia prob/Module 1/._2. Median.pdf",
+      "created": "2026-02-25T17:21:08",
+      "modified": "2026-02-25T17:21:03",
+      "accessed": "2026-02-25T17:21:03"
+    },
+    {
+      "path": "/storage/emulated/0/Download/rachna bhatia prob/__MACOSX/rachna bhatia prob/Module 6/._1. t-test.pdf",
+      "created": "2026-02-25T17:21:08",
+      "modified": "2026-02-25T17:21:03",
+      "accessed": "2026-02-25T17:21:03"
+    },
+    {
+      "path": "/storage/emulated/0/Download/rachna bhatia prob/__MACOSX/rachna bhatia prob/Module 6/._2. F-test.pdf",
+      "created": "2026-02-25T17:21:09",
+      "modified": "2026-02-25T17:21:04",
+      "accessed": "2026-02-25T17:21:04"
+    },
+    {
+      "path": "/storage/emulated/0/Download/rachna bhatia prob/__MACOSX/rachna bhatia prob/Module 6/._3.1  Chi Square Goodness of fit.pdf",
+      "created": "2026-02-25T17:21:09",
+      "modified": "2026-02-25T17:21:04",
+      "accessed": "2026-02-25T17:21:04"
+    },
+    {
+      "path": "/storage/emulated/0/Download/rachna bhatia prob/__MACOSX/rachna bhatia prob/Module 6/._3.2  Chi Square Indepenence of Attributes.pdf",
+      "created": "2026-02-25T17:21:08",
+      "modified": "2026-02-25T17:21:05",
+      "accessed": "2026-02-25T17:21:05"
+    },
+    {
+      "path": "/storage/emulated/0/Download/rachna bhatia prob/__MACOSX/rachna bhatia prob/Module 6/._4. Design of Experiment.PDF",
+      "created": "2026-02-25T17:21:09",
+      "modified": "2026-02-25T17:21:05",
+      "accessed": "2026-02-25T17:21:05"
+    },
+    {
+      "path": "/storage/emulated/0/Download/rachna bhatia prob/__MACOSX/rachna bhatia prob/Module 6/._21baeb37-0b40-4053-8938-8dcd54348361.PDF",
+      "created": "2026-02-25T17:21:08",
+      "modified": "2026-02-25T17:21:06",
+      "accessed": "2026-02-25T17:21:06"
+    },
+    {
+      "path": "/storage/emulated/0/Download/rachna bhatia prob/__MACOSX/rachna bhatia prob/Module 7/._Mod 7 All.pdf",
+      "created": "2026-02-25T17:21:09",
+      "modified": "2026-02-25T17:21:07",
+      "accessed": "2026-02-25T17:21:07"
+    }
+  ]
+}

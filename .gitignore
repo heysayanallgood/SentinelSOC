@@ -1,0 +1,24 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+*.log
+
+# Local/generated databases
+assets/mitre/sentinel_mitre_db
+assets/mitre/*.db
+assets/*.db
+
+# Runtime-generated incident evidence
+assets/incident_response/ad hoc_triage/
+assets/incident_response/adhoc_triage/
+
+# Local backup files
+*.backup
+*.bak
+*.WORKING
+*_backup.py
+*.before_*

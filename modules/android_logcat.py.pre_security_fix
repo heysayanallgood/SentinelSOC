@@ -1,0 +1,639 @@
+#!/usr/bin/env python3
+
+import re
+import subprocess
+from collections import Counter
+from datetime import datetime
+
+try:
+    from rich.console import Console
+    from rich.table import Table
+    from rich.panel import Panel
+except ImportError:
+    Console = None
+
+console = Console() if Console else None
+
+
+def p(text="", style=None):
+    if console:
+        console.print(text, style=style)
+    else:
+        print(text)
+
+
+# ============================================================
+# EVENT CLASSIFICATION
+# ============================================================
+
+def classify(line):
+    s = line.lower()
+
+    # --------------------------------------------------------
+    # SELINUX / PERMISSION DENIAL
+    # --------------------------------------------------------
+
+    if (
+        "avc: denied" in s
+        or "permission denied" in s
+        or "access denied" in s
+        or "eacces" in s
+    ):
+        return "PERMISSION_DENIED", "HIGH"
+
+    # --------------------------------------------------------
+    # AUTHENTICATION
+    # --------------------------------------------------------
+
+    if any(x in s for x in [
+        "authentication failed",
+        "authenticationfailure",
+        "auth failed",
+        "login failed",
+        "wrong password",
+        "incorrect password",
+        "account locked",
+        "credential"
+    ]):
+        return "AUTHENTICATION", "HIGH"
+
+    # --------------------------------------------------------
+    # CRASH / FATAL EXCEPTION
+    # --------------------------------------------------------
+
+    if any(x in s for x in [
+        "fatal exception",
+        "androidruntime: f",
+        "fatal signal",
+        "crash",
+        "uncaught exception"
+    ]):
+        return "CRASH", "HIGH"
+
+    # --------------------------------------------------------
+    # ANR
+    # --------------------------------------------------------
+
+    if (
+        "anr in" in s
+        or "application not responding" in s
+        or "not responding" in s
+    ):
+        return "ANR", "HIGH"
+
+    # --------------------------------------------------------
+    # PACKAGE / APPLICATION INSTALLATION
+    # --------------------------------------------------------
+
+    if any(x in s for x in [
+        "packageinstaller",
+        "package manager",
+        "packageinstaller",
+        "install_success",
+        "install_failed",
+        "package added",
+        "package removed",
+        "package changed"
+    ]):
+        return "PACKAGE", "MEDIUM"
+
+    # --------------------------------------------------------
+    # PROCESS / EXECUTION
+    # --------------------------------------------------------
+
+    if any(x in s for x in [
+        "starting process",
+        "start proc",
+        "killing",
+        "process died",
+        "fork",
+        "exec",
+        "zygote",
+        "runtime process"
+    ]):
+        return "PROCESS", "MEDIUM"
+
+    # --------------------------------------------------------
+    # NETWORK
+    #
+    # IMPORTANT:
+    # Surface / BufferQueue / BLAST are NOT network events.
+    # --------------------------------------------------------
+
+    network_patterns = [
+        "connect to",
+        "connection refused",
+        "connection reset",
+        "network unreachable",
+        "dns",
+        "dnsresolver",
+        "netd",
+        "connectivityservice",
+        "wificond",
+        "wifi",
+        "mobile data",
+        "cellular",
+        "tcp",
+        "udp",
+        "socket",
+        "http",
+        "https",
+        "tls",
+        "ssl",
+        "vpn",
+        "firewall"
+    ]
+
+    if any(x in s for x in network_patterns):
+        return "NETWORK", "LOW"
+
+    # --------------------------------------------------------
+    # SECURITY / AUDIT
+    # --------------------------------------------------------
+
+    if any(x in s for x in [
+        "audit(",
+        "auditd",
+        "selinux",
+        "securityexception",
+        "security exception",
+        "denied",
+        "restricted"
+    ]):
+        return "SECURITY", "MEDIUM"
+
+    # --------------------------------------------------------
+    # SERVICE / SYSTEM
+    # --------------------------------------------------------
+
+    if any(x in s for x in [
+        "system_server",
+        "systemservice",
+        "system service",
+        "servicemanager",
+        "activitymanager",
+        "packagemanager"
+    ]):
+        return "SYSTEM", "LOW"
+
+    # --------------------------------------------------------
+    # UI / GRAPHICS
+    #
+    # These are intentionally NOT security/network events.
+    # --------------------------------------------------------
+
+    if any(x in s for x in [
+        "surface::",
+        "surface=",
+        "surface :",
+        "bufferqueueproducer",
+        "bufferqueueconsumer",
+        "windowonbackdispatcher",
+        "viewdraghelper",
+        "popupwindow",
+        "blast consumer",
+        "choreographer",
+        "renderthread",
+        "hwui"
+    ]):
+        return "UI_GRAPHICS", "INFO"
+
+    # --------------------------------------------------------
+    # BATTERY / POWER
+    # --------------------------------------------------------
+
+    if any(x in s for x in [
+        "battery",
+        "power manager",
+        "powermanager",
+        "charging",
+        "thermal"
+    ]):
+        return "POWER", "INFO"
+
+    # --------------------------------------------------------
+    # STORAGE
+    # --------------------------------------------------------
+
+    if any(x in s for x in [
+        "storage",
+        "mount",
+        "unmount",
+        "filesystem",
+        "file system",
+        "sdcard"
+    ]):
+        return "STORAGE", "LOW"
+
+    return "OTHER", "INFO"
+
+
+# ============================================================
+# TIMESTAMP EXTRACTION
+# ============================================================
+
+def timestamp(line):
+    m = re.search(
+        r"(\d{2}-\d{2}\s+\d{2}:\d{2}:\d{2}\.\d+)",
+        line
+    )
+
+    if m:
+        return m.group(1)
+
+    m = re.search(
+        r"(\d{4}-\d{2}-\d{2}[T\s]\d{2}:\d{2}:\d+(?:\.\d+)?)",
+        line
+    )
+
+    if m:
+        return m.group(1)
+
+    return "Unknown"
+
+
+# ============================================================
+# SECURITY FIELD EXTRACTION
+# ============================================================
+
+def extract_fields(line):
+    fields = {}
+
+    ip = re.search(
+        r"\b(?:\d{1,3}\.){3}\d{1,3}\b",
+        line
+    )
+
+    if ip:
+        fields["ip"] = ip.group(0)
+
+    uid = re.search(
+        r"\buid[=:](\d+)",
+        line,
+        re.I
+    )
+
+    if uid:
+        fields["uid"] = uid.group(1)
+
+    pid = re.search(
+        r"\bpid[=:](\d+)",
+        line,
+        re.I
+    )
+
+    if pid:
+        fields["pid"] = pid.group(1)
+
+    app = re.search(
+        r"(?:name=|app=|package=|pkg=)([A-Za-z0-9._-]+)",
+        line,
+        re.I
+    )
+
+    if app:
+        fields["app"] = app.group(1)
+
+    # Android SELinux:
+    # avc: denied { search } for name="tests"
+    permission = re.search(
+        r"avc:\s+denied\s+\{\s*([^}]+)\s*\}",
+        line,
+        re.I
+    )
+
+    if permission:
+        fields["permission"] = permission.group(1).strip()
+
+    resource = re.search(
+        r'for\s+name="([^"]+)"',
+        line,
+        re.I
+    )
+
+    if resource:
+        fields["resource"] = resource.group(1)
+
+    device = re.search(
+        r'\bdev=([^\s]+)',
+        line,
+        re.I
+    )
+
+    if device:
+        fields["device"] = device.group(1)
+
+    return fields
+
+
+# ============================================================
+# NORMALIZATION
+# ============================================================
+
+def normalize(line):
+    event_type, severity = classify(line)
+
+    return {
+        "timestamp": timestamp(line),
+        "type": event_type,
+        "severity": severity,
+        "fields": extract_fields(line),
+        "raw": line.strip()
+    }
+
+
+# ============================================================
+# LOGCAT COMMAND
+# ============================================================
+
+def logcat_lines(limit=None):
+
+    command = [
+        "logcat",
+        "-v",
+        "threadtime"
+    ]
+
+    if limit:
+        command += [
+            "-t",
+            str(limit)
+        ]
+
+    try:
+        result = subprocess.run(
+            command,
+            capture_output=True,
+            text=True,
+            timeout=20
+        )
+
+        return result.stdout.splitlines()
+
+    except Exception as e:
+        p(f"[red]logcat error: {e}[/red]")
+        return []
+
+
+# ============================================================
+# ANALYZE CURRENT LOGCAT
+# ============================================================
+
+def analyze():
+
+    p(
+        Panel(
+            "Real Android logcat → "
+            "Security Classification → "
+            "Severity → IOC Extraction",
+            title="📱 SentinelSOC Android Security Analysis",
+            border_style="cyan"
+        ) if console else
+        "=== SentinelSOC Android Security Analysis ==="
+    )
+
+    lines = logcat_lines(1000)
+
+    if not lines:
+        p("[yellow]No logcat events available.[/yellow]")
+        return
+
+    events = [
+        normalize(line)
+        for line in lines
+        if line.strip()
+    ]
+
+    counts = Counter(
+        event["type"]
+        for event in events
+    )
+
+    severity = Counter(
+        event["severity"]
+        for event in events
+    )
+
+    if console:
+
+        table = Table(
+            title=f"Android Security Event Classification ({len(events)} events)"
+        )
+
+        table.add_column(
+            "Event Type",
+            style="cyan"
+        )
+
+        table.add_column(
+            "Count",
+            style="green"
+        )
+
+        for event_type, count in counts.most_common():
+
+            table.add_row(
+                event_type,
+                str(count)
+            )
+
+        console.print(table)
+
+        stable = Table(
+            title="Severity Summary"
+        )
+
+        stable.add_column("Severity")
+        stable.add_column("Count")
+
+        for level in [
+            "CRITICAL",
+            "HIGH",
+            "MEDIUM",
+            "LOW",
+            "INFO"
+        ]:
+
+            stable.add_row(
+                level,
+                str(severity.get(level, 0))
+            )
+
+        console.print(stable)
+
+    # Only display meaningful security events.
+    interesting = [
+        event
+        for event in events
+        if event["type"] not in [
+            "OTHER",
+            "UI_GRAPHICS"
+        ]
+    ]
+
+    if console:
+
+        table = Table(
+            title="Detected Security-Relevant Events"
+        )
+
+        table.add_column("Time")
+        table.add_column("Type")
+        table.add_column("Severity")
+        table.add_column("Details")
+
+        for event in interesting[-50:]:
+
+            details = event["raw"]
+
+            if event["fields"]:
+                details += "\n" + str(
+                    event["fields"]
+                )
+
+            table.add_row(
+                event["timestamp"],
+                event["type"],
+                event["severity"],
+                details[:500]
+            )
+
+        console.print(table)
+
+    else:
+
+        for event in interesting[-50:]:
+            print(
+                event["timestamp"],
+                event["type"],
+                event["severity"],
+                event["raw"]
+            )
+
+
+# ============================================================
+# LIVE MONITOR
+# ============================================================
+
+def live():
+
+    p("\n=== SENTINELSOC LIVE ANDROID SECURITY MONITOR ===")
+
+    p(
+        "[yellow]Monitoring real Android logcat events. "
+        "CTRL+C to stop.[/yellow]"
+    )
+
+    process = None
+
+    try:
+
+        process = subprocess.Popen(
+            [
+                "logcat",
+                "-v",
+                "threadtime"
+            ],
+            stdout=subprocess.PIPE,
+            stderr=subprocess.STDOUT,
+            text=True,
+            bufsize=1
+        )
+
+        for line in process.stdout:
+
+            line = line.strip()
+
+            if not line:
+                continue
+
+            event = normalize(line)
+
+            # Ignore noisy UI graphics completely.
+            if event["type"] == "UI_GRAPHICS":
+                continue
+
+            if event["type"] == "OTHER":
+                continue
+
+            fields = event["fields"]
+
+            extra = ""
+
+            if fields:
+                extra = " | " + " ".join(
+                    f"{k}={v}"
+                    for k, v in fields.items()
+                )
+
+            prefix = {
+                "CRITICAL": "🚨",
+                "HIGH": "🔴",
+                "MEDIUM": "🟠",
+                "LOW": "🔵",
+                "INFO": "⚪"
+            }.get(
+                event["severity"],
+                "•"
+            )
+
+            if console:
+
+                style = {
+                    "CRITICAL": "bold red",
+                    "HIGH": "red",
+                    "MEDIUM": "yellow",
+                    "LOW": "cyan",
+                    "INFO": "white"
+                }.get(
+                    event["severity"],
+                    "white"
+                )
+
+                console.print(
+                    f"{prefix} "
+                    f"{event['type']} "
+                    f"[{event['severity']}] "
+                    f"{event['timestamp']} "
+                    f"{extra}\n"
+                    f"  {event['raw']}",
+                    style=style
+                )
+
+            else:
+
+                print(
+                    f"{prefix} {event['type']} "
+                    f"[{event['severity']}] "
+                    f"{event['timestamp']} "
+                    f"{extra}"
+                )
+
+                print(
+                    " ",
+                    event["raw"]
+                )
+
+    except KeyboardInterrupt:
+
+        if process:
+            process.terminate()
+
+        p("\n[cyan]Live monitoring stopped.[/cyan]")
+
+    except Exception as e:
+
+        p(f"[red]Live monitor error: {e}[/red]")
+
+    finally:
+
+        if process:
+
+            try:
+                process.terminate()
+            except Exception:
+                pass
+
+
+if __name__ == "__main__":
+    analyze()

@@ -1,0 +1,226 @@
+--------- beginning of system
+08-17 14:53:45.537  6313  6313 D InsetsController: Setting requestedVisibleTypes to -9 (was -1)
+--------- beginning of main
+08-17 14:54:37.449  6313  5727 D MediaCodecList: codecHandlesFormat: no format, so no extra checks
+08-17 14:54:37.450  6313  5727 I MediaCodec: (0x71f85b0800) init name(c2.android.vorbis.decoder)
+08-17 14:54:37.450  6313  5729 D CCodec  : allocate(c2.android.vorbis.decoder)
+08-17 14:54:37.451  6313  5729 I CCodec  : setting up 'default' as default (vendor) store
+08-17 14:54:37.454  6313  5729 W com.termux: AIBinder_linkToDeath is being called with a non-null cookie and no onUnlink callback set. This might not be intended. AIBinder_DeathRecipient_setOnUnlinked should be called first.
+08-17 14:54:37.454  6313  5729 I CCodec  : Created component [c2.android.vorbis.decoder] for [c2.android.vorbis.decoder]
+08-17 14:54:37.454  6313  5729 D CCodecConfig: read media type: audio/vorbis
+08-17 14:54:37.456  6313  5729 D ReflectedParamUpdater: extent() != 1 for single value type: algo.buffers.max-count.values
+08-17 14:54:37.456  6313  5729 D ReflectedParamUpdater: extent() != 1 for single value type: output.subscribed-indices.values
+08-17 14:54:37.456  6313  5729 D ReflectedParamUpdater: extent() != 1 for single value type: input.buffers.allocator-ids.values
+08-17 14:54:37.457  6313  5729 D ReflectedParamUpdater: extent() != 1 for single value type: output.buffers.allocator-ids.values
+08-17 14:54:37.457  6313  5729 D ReflectedParamUpdater: extent() != 1 for single value type: algo.buffers.allocator-ids.values
+08-17 14:54:37.457  6313  5729 D ReflectedParamUpdater: extent() != 1 for single value type: output.buffers.pool-ids.values
+08-17 14:54:37.457  6313  5729 D ReflectedParamUpdater: extent() != 1 for single value type: algo.buffers.pool-ids.values
+08-17 14:54:37.459  6313  5729 I CCodecConfig: query failed after returning 8 values (BAD_INDEX)
+08-17 14:54:37.459  6313  5729 D CCodecConfig: c2 config diff is Dict {
+08-17 14:54:37.459  6313  5729 D CCodecConfig:   c2::u32 coded.bitrate.value = 64000
+08-17 14:54:37.459  6313  5729 D CCodecConfig:   c2::u32 input.buffers.max-size.value = 32768
+08-17 14:54:37.459  6313  5729 D CCodecConfig:   c2::u32 input.delay.value = 0
+08-17 14:54:37.459  6313  5729 D CCodecConfig:   string input.media-type.value = "audio/vorbis"
+08-17 14:54:37.459  6313  5729 D CCodecConfig:   c2::u32 output.large-frame.max-size = 0
+08-17 14:54:37.459  6313  5729 D CCodecConfig:   c2::u32 output.large-frame.threshold-size = 0
+08-17 14:54:37.459  6313  5729 D CCodecConfig:   string output.media-type.value = "audio/raw"
+08-17 14:54:37.459  6313  5729 D CCodecConfig:   c2::u32 raw.channel-count.value = 1
+08-17 14:54:37.459  6313  5729 D CCodecConfig:   c2::u32 raw.sample-rate.value = 48000
+08-17 14:54:37.459  6313  5729 D CCodecConfig: }
+08-17 14:54:37.459  6313  5729 I MediaCodec: (0x71f85b0800) Component Allocated (c2.android.vorbis.decoder)
+08-17 14:54:37.461  6313  5727 E MediaCodec: Media Quality Service not found.
+08-17 14:54:37.461  6313  5727 I MediaCodec: (0x71f85b0800) configure surface(0x0) crypto(0x0) flags(0)
+08-17 14:54:37.461  6313  5727 D MediaCodec: (0x71f85b0800) configure format: AMessage(what = 0x00000000) = {
+08-17 14:54:37.461  6313  5727 D MediaCodec:       string mime = "audio/vorbis"
+08-17 14:54:37.461  6313  5727 D MediaCodec:       int64_t durationUs = 116848
+08-17 14:54:37.461  6313  5727 D MediaCodec:       int32_t track-id = 1
+08-17 14:54:37.461  6313  5727 D MediaCodec:       Buffer csd-0 = {
+08-17 14:54:37.461  6313  5727 D MediaCodec:         00000000:  01 76 6f 72 62 69 73 00  00 00 00 01 44 ac 00 00  .vorbis.....D...
+08-17 14:54:37.461  6313  5727 D MediaCodec:         00000010:  00 00 00 00 00 77 01 00  00 00 00 00 b8 01        .....w........
+08-17 14:54:37.461  6313  5727 D MediaCodec:       }
+08-17 14:54:37.461  6313  5727 D MediaCodec:       Buffer *csd-1 = 0x72d604a6c0
+08-17 14:54:37.461  6313  5727 D MediaCodec:       int32_t bitrate = 96000
+08-17 14:54:37.461  6313  5727 D MediaCodec:       int32_t channel-count = 1
+08-17 14:54:37.461  6313  5727 D MediaCodec:       int32_t sample-rate = 44100
+08-17 14:54:37.461  6313  5727 D MediaCodec:       int32_t channel-mask = 1
+08-17 14:54:37.461  6313  5727 D MediaCodec:     }
+08-17 14:54:37.461  6313  5729 D CCodec  : [c2.android.vorbis.decoder] buffers are bound to CCodec for this session
+08-17 14:54:37.461  6313  5729 D CCodecConfig: no c2 equivalents for durationUs
+08-17 14:54:37.461  6313  5729 D CCodecConfig: no c2 equivalents for track-id
+08-17 14:54:37.461  6313  5729 D CCodecConfig: no c2 equivalents for csd-1
+08-17 14:54:37.461  6313  5729 D CCodecConfig: no c2 equivalents for flags
+08-17 14:54:37.461  6313  5729 D CCodecConfig: c2 config diff is   c2::u32 coded.bitrate.value = 96000
+08-17 14:54:37.461  6313  5729 D CCodecConfig:   c2::u32 raw.sample-rate.value = 44100
+08-17 14:54:37.462  6313  5729 D CCodec  : encoding statistics level = 0
+08-17 14:54:37.462  6313  5729 D CCodec  : setup formats input: AMessage(what = 0x00000000) = {
+08-17 14:54:37.462  6313  5729 D CCodec  :   int32_t bitrate = 96000
+08-17 14:54:37.462  6313  5729 D CCodec  :   int32_t channel-count = 1
+08-17 14:54:37.462  6313  5729 D CCodec  :   int32_t max-input-size = 32768
+08-17 14:54:37.462  6313  5729 D CCodec  :   string mime = "audio/vorbis"
+08-17 14:54:37.462  6313  5729 D CCodec  :   int32_t sample-rate = 44100
+08-17 14:54:37.462  6313  5729 D CCodec  : }
+08-17 14:54:37.462  6313  5729 D CCodec  : setup formats output: AMessage(what = 0x00000000) = {
+08-17 14:54:37.462  6313  5729 D CCodec  :   int32_t buffer-batch-max-output-size = 0
+08-17 14:54:37.462  6313  5729 D CCodec  :   int32_t buffer-batch-threshold-output-size = 0
+08-17 14:54:37.462  6313  5729 D CCodec  :   int32_t channel-count = 1
+08-17 14:54:37.462  6313  5729 D CCodec  :   string mime = "audio/raw"
+08-17 14:54:37.462  6313  5729 D CCodec  :   int32_t sample-rate = 44100
+08-17 14:54:37.462  6313  5729 D CCodec  :   int32_t channel-mask = 1
+08-17 14:54:37.462  6313  5729 D CCodec  :   int32_t android._config-pcm-encoding = 2
+08-17 14:54:37.462  6313  5729 D CCodec  : }
+08-17 14:54:37.462  6313  5729 I CCodecConfig: query failed after returning 8 values (BAD_INDEX)
+08-17 14:54:37.462  6313  5729 E com.termux: Failed to query component interface for required system resources: 6
+08-17 14:54:37.462  6313  5727 I MediaCodec: (0x71f85b0800) start
+08-17 14:54:37.464  6313  5729 D CCodecBufferChannel: [c2.android.vorbis.decoder#10] Created input block pool with allocatorID 16 => poolID 108 - OK (0)
+08-17 14:54:37.465  6313  5729 I CCodecBufferChannel: [c2.android.vorbis.decoder#10] Created output block pool with allocatorID 16 => poolID 2407 - OK
+08-17 14:54:37.466  6313  5729 D CCodecBufferChannel: [c2.android.vorbis.decoder#10] Configured output block pool ids 2407 => OK
+08-17 14:54:37.466  6313  5729 D CCodecBufferChannel: [c2.android.vorbis.decoder#10] start: updating output delay 0
+08-17 14:54:37.467  6313  5729 I MediaCodec: (0x71f85b0800) kWhatStartCompleted
+08-17 14:54:37.469  6313  5729 W com.termux: AIBinder_linkToDeath is being called with a non-null cookie and no onUnlink callback set. This might not be intended. AIBinder_DeathRecipient_setOnUnlinked should be called first.
+08-17 14:54:37.482  6313  5727 I MediaCodec: (0x71f85b0800) stop
+08-17 14:54:37.482  6313  5729 D CCodecBufferChannel: [c2.android.vorbis.decoder#10] MediaCodec discarded an unknown buffer
+08-17 14:54:37.483  6313  5727 I MediaCodec: (0x71f85b0800) release
+08-17 14:54:37.574  6313  6313 D InsetsController: show(ime(), fromIme=false)
+08-17 14:54:37.575  6313  6313 D InsetsController: Setting requestedVisibleTypes to -1 (was -9)
+08-17 14:54:37.764  6313  6313 I ImeTracker: com.termux:1da9897: onRequestShow at ORIGIN_CLIENT reason SHOW_SOFT_INPUT fromUser false
+08-17 14:54:37.765  6313  6313 D InsetsController: show(ime(), fromIme=false)
+08-17 14:54:37.765  6313  6313 I ImeTracker: com.termux:1da9897: onCancelled at PHASE_CLIENT_APPLY_ANIMATION
+08-17 14:54:37.935  6313  6313 I ImeTracker: com.termux:e5c8a04a: onShown
+08-17 14:54:39.999  6313  6313 W WindowOnBackDispatcher: sendCancelIfRunning: isInProgress=false callback=android.view.ViewRootImpl$$ExternalSyntheticLambda14@74ad084
+08-17 14:54:40.002  6313  6368 D Surface : Surface::disconnect
+08-17 14:54:40.002  6313  6368 D BufferQueueProducer: [PopupWindow:2bf1a3b#33635(BLAST Consumer)pid:6313](id:18a90000014a,api:1,p:6313,c:6313) disconnect: api 1
+08-17 14:54:40.011  6313  6313 W WindowOnBackDispatcher: sendCancelIfRunning: isInProgress=false callback=android.view.ViewRootImpl$$ExternalSyntheticLambda14@430c8ee
+08-17 14:54:40.018  6313  6368 D Surface : Surface::disconnect
+08-17 14:54:40.018  6313  6368 D BufferQueueProducer: [PopupWindow:e340796#33636(BLAST Consumer)pid:6313](id:18a90000014b,api:1,p:6313,c:6313) disconnect: api 1
+08-17 14:54:40.285  6313  6313 W WindowOnBackDispatcher: sendCancelIfRunning: isInProgress=false callback=android.view.ViewRootImpl$$ExternalSyntheticLambda14@636e08
+08-17 14:54:40.292  6313  6368 D Surface : Surface::disconnect
+08-17 14:54:40.292  6313  6368 D BufferQueueProducer: [PopupWindow:51e9ed8#33637(BLAST Consumer)pid:6313](id:18a90000014c,api:1,p:6313,c:6313) disconnect: api 1
+08-17 14:54:40.292  6313  6368 D HWUI    : endAllActiveAnimators on 0x71e08b3c00 (RippleDrawable) with handle 0x71f860c560
+08-17 14:54:40.949  5774  5774 W bash    : type=1400 audit(0.0:411727): avc:  granted  { execute } for  name="python3.14" dev="dm-65" ino=1364150 scontext=u:r:untrusted_app_27:s0:c252,c257,c512,c768 tcontext=u:object_r:app_data_file:s0:c252,c257,c512,c768 tclass=file app=com.termux
+08-17 14:54:40.953  5774  5774 W bash    : type=1400 audit(0.0:411728): avc:  granted  { execute } for  name="python3.14" dev="dm-65" ino=1364150 scontext=u:r:untrusted_app_27:s0:c252,c257,c512,c768 tcontext=u:object_r:app_data_file:s0:c252,c257,c512,c768 tclass=file app=com.termux
+08-17 14:54:40.953  5774  5774 W bash    : type=1400 audit(0.0:411729): avc:  granted  { execute_no_trans } for  path="/data/data/com.termux/files/usr/bin/python3.14" dev="dm-65" ino=1364150 scontext=u:r:untrusted_app_27:s0:c252,c257,c512,c768 tcontext=u:object_r:app_data_file:s0:c252,c257,c512,c768 tclass=file app=com.termux
+08-17 14:54:40.953  5774  5774 W python  : type=1400 audit(0.0:411730): avc:  granted  { execute } for  path="/data/data/com.termux/files/usr/bin/python3.14" dev="dm-65" ino=1364150 scontext=u:r:untrusted_app_27:s0:c252,c257,c512,c768 tcontext=u:object_r:app_data_file:s0:c252,c257,c512,c768 tclass=file app=com.termux
+08-17 14:54:40.953  5774  5774 W python  : type=1400 audit(0.0:411731): avc:  denied  { search } for  name="tests" dev="dm-65" ino=113 scontext=u:r:untrusted_app_27:s0:c252,c257,c512,c768 tcontext=u:object_r:shell_test_data_file:s0 tclass=dir permissive=0 app=com.termux
+08-17 14:54:42.465  6313  6400 D AidlBufferPool: bufferpool2 0x72d60fee68 : 0(0 size) total buffers - 0(0 size) used buffers - 2/7 (recycle/alloc) - 5/24 (fetch/transfer)
+08-17 14:54:42.466  6313  6400 D AidlBufferPoolAcc: evictor expired: 1, evicted: 1
+08-17 14:54:43.546  6313 13176 D AidlBufferPool: Destruction - bufferpool2 0x72d60fee68 cached: 0/0M, 0/0% in use; allocs: 7, 29% recycled; transfers: 24, 79% unfetched
+08-17 14:54:43.614  6313  6313 W LongScreenshotUtils: findMainScrollView topViewName_0; name: com.termux/com.termux.app.TermuxActivity/android.view.ViewRootImpl@af1267e
+08-17 14:54:43.653  6313  6313 I ImeTracker: system_server:62f7dae3: onCancelled at PHASE_CLIENT_ON_CONTROLS_CHANGED
+08-17 14:54:44.758  6313  6313 I ImeTracker: system_server:cb3e771b: onCancelled at PHASE_CLIENT_ON_CONTROLS_CHANGED
+08-17 14:54:44.762  6313  6313 W WindowOnBackDispatcher: sendCancelIfRunning: isInProgress=false callback=android.view.ImeBackAnimationController@b18f05f
+08-17 14:54:44.957  6313  6313 I ImeTracker: system_server:e28123ed: onCancelled at PHASE_CLIENT_ON_CONTROLS_CHANGED
+08-17 14:54:45.477  6313  6313 W WindowOnBackDispatcher: sendCancelIfRunning: isInProgress=false callback=android.view.ImeBackAnimationController@b18f05f
+08-17 14:54:45.492  6313  6368 D Surface : Surface::disconnect
+08-17 14:54:45.492  6313  6368 D BufferQueueProducer: [com.termux/com.termux.app.TermuxActivity#33625(BLAST Consumer)pid:6313](id:18a900000149,api:1,p:6313,c:6313) disconnect: api 1
+08-17 14:54:48.548  6313  6400 D AidlBufferPoolAcc: evictor expired: 1, evicted: 0
+08-17 14:55:02.961  6313  6160 D MediaCodecList: codecHandlesFormat: no format, so no extra checks
+08-17 14:55:02.961  6313  6160 I MediaCodec: (0x71f85b0800) init name(c2.android.vorbis.decoder)
+08-17 14:55:02.962  6313  6163 D CCodec  : allocate(c2.android.vorbis.decoder)
+08-17 14:55:02.963  6313  6163 I CCodec  : setting up 'default' as default (vendor) store
+08-17 14:55:02.967  6313  6163 W com.termux: AIBinder_linkToDeath is being called with a non-null cookie and no onUnlink callback set. This might not be intended. AIBinder_DeathRecipient_setOnUnlinked should be called first.
+08-17 14:55:02.967  6313  6163 I CCodec  : Created component [c2.android.vorbis.decoder] for [c2.android.vorbis.decoder]
+08-17 14:55:02.967  6313  6163 D CCodecConfig: read media type: audio/vorbis
+08-17 14:55:02.969  6313  6163 D ReflectedParamUpdater: extent() != 1 for single value type: algo.buffers.max-count.values
+08-17 14:55:02.970  6313  6163 D ReflectedParamUpdater: extent() != 1 for single value type: output.subscribed-indices.values
+08-17 14:55:02.970  6313  6163 D ReflectedParamUpdater: extent() != 1 for single value type: input.buffers.allocator-ids.values
+08-17 14:55:02.970  6313  6163 D ReflectedParamUpdater: extent() != 1 for single value type: output.buffers.allocator-ids.values
+08-17 14:55:02.970  6313  6163 D ReflectedParamUpdater: extent() != 1 for single value type: algo.buffers.allocator-ids.values
+08-17 14:55:02.970  6313  6163 D ReflectedParamUpdater: extent() != 1 for single value type: output.buffers.pool-ids.values
+08-17 14:55:02.970  6313  6163 D ReflectedParamUpdater: extent() != 1 for single value type: algo.buffers.pool-ids.values
+08-17 14:55:02.972  6313  6163 I CCodecConfig: query failed after returning 8 values (BAD_INDEX)
+08-17 14:55:02.972  6313  6163 D CCodecConfig: c2 config diff is Dict {
+08-17 14:55:02.972  6313  6163 D CCodecConfig:   c2::u32 coded.bitrate.value = 64000
+08-17 14:55:02.972  6313  6163 D CCodecConfig:   c2::u32 input.buffers.max-size.value = 32768
+08-17 14:55:02.972  6313  6163 D CCodecConfig:   c2::u32 input.delay.value = 0
+08-17 14:55:02.972  6313  6163 D CCodecConfig:   string input.media-type.value = "audio/vorbis"
+08-17 14:55:02.972  6313  6163 D CCodecConfig:   c2::u32 output.large-frame.max-size = 0
+08-17 14:55:02.972  6313  6163 D CCodecConfig:   c2::u32 output.large-frame.threshold-size = 0
+08-17 14:55:02.972  6313  6163 D CCodecConfig:   string output.media-type.value = "audio/raw"
+08-17 14:55:02.972  6313  6163 D CCodecConfig:   c2::u32 raw.channel-count.value = 1
+08-17 14:55:02.972  6313  6163 D CCodecConfig:   c2::u32 raw.sample-rate.value = 48000
+08-17 14:55:02.972  6313  6163 D CCodecConfig: }
+08-17 14:55:02.972  6313  6163 I MediaCodec: (0x71f85b0800) Component Allocated (c2.android.vorbis.decoder)
+08-17 14:55:02.974  6313  6160 E MediaCodec: Media Quality Service not found.
+08-17 14:55:02.974  6313  6160 I MediaCodec: (0x71f85b0800) configure surface(0x0) crypto(0x0) flags(0)
+08-17 14:55:02.974  6313  6160 D MediaCodec: (0x71f85b0800) configure format: AMessage(what = 0x00000000) = {
+08-17 14:55:02.974  6313  6160 D MediaCodec:       string mime = "audio/vorbis"
+08-17 14:55:02.974  6313  6160 D MediaCodec:       int64_t durationUs = 116848
+08-17 14:55:02.974  6313  6160 D MediaCodec:       int32_t track-id = 1
+08-17 14:55:02.974  6313  6160 D MediaCodec:       Buffer csd-0 = {
+08-17 14:55:02.974  6313  6160 D MediaCodec:         00000000:  01 76 6f 72 62 69 73 00  00 00 00 01 44 ac 00 00  .vorbis.....D...
+08-17 14:55:02.974  6313  6160 D MediaCodec:         00000010:  00 00 00 00 00 77 01 00  00 00 00 00 b8 01        .....w........
+08-17 14:55:02.974  6313  6160 D MediaCodec:       }
+08-17 14:55:02.974  6313  6160 D MediaCodec:       Buffer *csd-1 = 0x72d60c2500
+08-17 14:55:02.974  6313  6160 D MediaCodec:       int32_t bitrate = 96000
+08-17 14:55:02.974  6313  6160 D MediaCodec:       int32_t channel-count = 1
+08-17 14:55:02.974  6313  6160 D MediaCodec:       int32_t sample-rate = 44100
+08-17 14:55:02.974  6313  6160 D MediaCodec:       int32_t channel-mask = 1
+08-17 14:55:02.974  6313  6160 D MediaCodec:     }
+08-17 14:55:02.975  6313  6163 D CCodec  : [c2.android.vorbis.decoder] buffers are bound to CCodec for this session
+08-17 14:55:02.975  6313  6163 D CCodecConfig: no c2 equivalents for durationUs
+08-17 14:55:02.975  6313  6163 D CCodecConfig: no c2 equivalents for track-id
+08-17 14:55:02.975  6313  6163 D CCodecConfig: no c2 equivalents for csd-1
+08-17 14:55:02.975  6313  6163 D CCodecConfig: no c2 equivalents for flags
+08-17 14:55:02.975  6313  6163 D CCodecConfig: c2 config diff is   c2::u32 coded.bitrate.value = 96000
+08-17 14:55:02.975  6313  6163 D CCodecConfig:   c2::u32 raw.sample-rate.value = 44100
+08-17 14:55:02.976  6313  6163 D CCodec  : encoding statistics level = 0
+08-17 14:55:02.976  6313  6163 D CCodec  : setup formats input: AMessage(what = 0x00000000) = {
+08-17 14:55:02.976  6313  6163 D CCodec  :   int32_t bitrate = 96000
+08-17 14:55:02.976  6313  6163 D CCodec  :   int32_t channel-count = 1
+08-17 14:55:02.976  6313  6163 D CCodec  :   int32_t max-input-size = 32768
+08-17 14:55:02.976  6313  6163 D CCodec  :   string mime = "audio/vorbis"
+08-17 14:55:02.976  6313  6163 D CCodec  :   int32_t sample-rate = 44100
+08-17 14:55:02.976  6313  6163 D CCodec  : }
+08-17 14:55:02.976  6313  6163 D CCodec  : setup formats output: AMessage(what = 0x00000000) = {
+08-17 14:55:02.976  6313  6163 D CCodec  :   int32_t buffer-batch-max-output-size = 0
+08-17 14:55:02.976  6313  6163 D CCodec  :   int32_t buffer-batch-threshold-output-size = 0
+08-17 14:55:02.976  6313  6163 D CCodec  :   int32_t channel-count = 1
+08-17 14:55:02.976  6313  6163 D CCodec  :   string mime = "audio/raw"
+08-17 14:55:02.976  6313  6163 D CCodec  :   int32_t sample-rate = 44100
+08-17 14:55:02.976  6313  6163 D CCodec  :   int32_t channel-mask = 1
+08-17 14:55:02.976  6313  6163 D CCodec  :   int32_t android._config-pcm-encoding = 2
+08-17 14:55:02.976  6313  6163 D CCodec  : }
+08-17 14:55:02.976  6313  6163 I CCodecConfig: query failed after returning 8 values (BAD_INDEX)
+08-17 14:55:02.976  6313  6163 E com.termux: Failed to query component interface for required system resources: 6
+08-17 14:55:02.977  6313  6160 I MediaCodec: (0x71f85b0800) start
+08-17 14:55:02.981  6313  6163 D CCodecBufferChannel: [c2.android.vorbis.decoder#269] Created input block pool with allocatorID 16 => poolID 109 - OK (0)
+08-17 14:55:02.983  6313  6163 I CCodecBufferChannel: [c2.android.vorbis.decoder#269] Created output block pool with allocatorID 16 => poolID 2413 - OK
+08-17 14:55:02.983  6313  6163 D CCodecBufferChannel: [c2.android.vorbis.decoder#269] Configured output block pool ids 2413 => OK
+08-17 14:55:02.984  6313  6163 D CCodecBufferChannel: [c2.android.vorbis.decoder#269] start: updating output delay 0
+08-17 14:55:02.986  6313  6163 I MediaCodec: (0x71f85b0800) kWhatStartCompleted
+08-17 14:55:02.987  6313  6163 W com.termux: AIBinder_linkToDeath is being called with a non-null cookie and no onUnlink callback set. This might not be intended. AIBinder_DeathRecipient_setOnUnlinked should be called first.
+08-17 14:55:03.063  6313  6160 I MediaCodec: (0x71f85b0800) stop
+08-17 14:55:03.064  6313  6163 D CCodecBufferChannel: [c2.android.vorbis.decoder#269] MediaCodec discarded an unknown buffer
+08-17 14:55:03.066  6313  6160 I MediaCodec: (0x71f85b0800) release
+08-17 14:55:03.141  6313  6313 E ImeBackDispatcher: Ime callback not found. Ignoring unregisterReceivedCallback. callbackId: 65342873 remaining callbacks: 0
+08-17 14:55:03.192  6313  6313 D InsetsController: show(ime(), fromIme=false)
+08-17 14:55:03.192  6313  6313 I ImeTracker: com.termux:214bf423: onCancelled at PHASE_CLIENT_REPORT_REQUESTED_VISIBLE_TYPES
+08-17 14:55:03.239  6313  6313 I ImeTracker: com.termux:63a40101: onRequestShow at ORIGIN_CLIENT reason SHOW_SOFT_INPUT fromUser false
+08-17 14:55:03.240  6313  6313 D InsetsController: show(ime(), fromIme=false)
+08-17 14:55:03.240  6313  6313 I ImeTracker: com.termux:63a40101: onCancelled at PHASE_CLIENT_REPORT_REQUESTED_VISIBLE_TYPES
+08-17 14:55:03.304  6313  6313 I ImeTracker: system_server:508f2d21: onShown
+08-17 14:55:04.207  6313  6313 I ImeTracker: com.termux:950044f1: onRequestShow at ORIGIN_CLIENT reason SHOW_SOFT_INPUT fromUser true
+08-17 14:55:04.207  6313  6313 D InsetsController: show(ime(), fromIme=false)
+08-17 14:55:04.207  6313  6313 I ImeTracker: com.termux:950044f1: onCancelled at PHASE_CLIENT_APPLY_ANIMATION
+08-17 14:55:05.196  6313  6313 E ViewDragHelper: Ignoring pointerId=0 because ACTION_DOWN was not received for this pointer before ACTION_MOVE. It likely happened because  ViewDragHelper did not receive all the events in the event stream.
+08-17 14:55:05.196  6313  6313 E ViewDragHelper: Ignoring pointerId=0 because ACTION_DOWN was not received for this pointer before ACTION_MOVE. It likely happened because  ViewDragHelper did not receive all the events in the event stream.
+08-17 14:55:05.196  6313  6313 E ViewDragHelper: Ignoring pointerId=0 because ACTION_DOWN was not received for this pointer before ACTION_MOVE. It likely happened because  ViewDragHelper did not receive all the events in the event stream.
+08-17 14:55:05.196  6313  6313 E ViewDragHelper: Ignoring pointerId=0 because ACTION_DOWN was not received for this pointer before ACTION_MOVE. It likely happened because  ViewDragHelper did not receive all the events in the event stream.
+08-17 14:55:05.287  6313  6313 W WindowOnBackDispatcher: sendCancelIfRunning: isInProgress=false callback=android.view.ViewRootImpl$$ExternalSyntheticLambda14@e05daef
+08-17 14:55:05.289  6313  6368 D Surface : Surface::disconnect
+08-17 14:55:05.289  6313  6368 D BufferQueueProducer: [PopupWindow:f7eff1e#33706(BLAST Consumer)pid:6313](id:18a900000150,api:1,p:6313,c:6313) disconnect: api 1
+08-17 14:55:06.209  6313  6313 W WindowOnBackDispatcher: sendCancelIfRunning: isInProgress=false callback=android.view.ViewRootImpl$$ExternalSyntheticLambda14@28bd11b
+08-17 14:55:06.212  6313  6368 D Surface : Surface::disconnect
+08-17 14:55:06.212  6313  6368 D BufferQueueProducer: [PopupWindow:9c16a70#33704(BLAST Consumer)pid:6313](id:18a90000014e,api:1,p:6313,c:6313) disconnect: api 1
+08-17 14:55:06.216  6313  6313 W WindowOnBackDispatcher: sendCancelIfRunning: isInProgress=false callback=android.view.ViewRootImpl$$ExternalSyntheticLambda14@461accd
+08-17 14:55:06.224  6313  6368 D Surface : Surface::disconnect
+08-17 14:55:06.224  6313  6368 D BufferQueueProducer: [PopupWindow:f9ea90f#33705(BLAST Consumer)pid:6313](id:18a90000014f,api:1,p:6313,c:6313) disconnect: api 1
+08-17 14:55:06.482  6313  6313 W WindowOnBackDispatcher: sendCancelIfRunning: isInProgress=false callback=android.view.ViewRootImpl$$ExternalSyntheticLambda14@ac8e92e
+08-17 14:55:06.488  6313  6368 D Surface : Surface::disconnect
+08-17 14:55:06.488  6313  6368 D BufferQueueProducer: [PopupWindow:f7eff1e#33708(BLAST Consumer)pid:6313](id:18a900000151,api:1,p:6313,c:6313) disconnect: api 1
+08-17 14:55:06.488  6313  6368 D HWUI    : endAllActiveAnimators on 0x71e0a8da00 (RippleDrawable) with handle 0x71eb121860
+08-17 14:55:07.061  6216  6216 W bash    : type=1400 audit(0.0:411739): avc:  granted  { execute } for  name="logcat" dev="dm-65" ino=942687 scontext=u:r:untrusted_app_27:s0:c252,c257,c512,c768 tcontext=u:object_r:app_data_file:s0:c252,c257,c512,c768 tclass=file app=com.termux
+08-17 14:55:07.061  6216  6216 W bash    : type=1400 audit(0.0:411740): avc:  granted  { execute } for  name="dash" dev="dm-65" ino=939150 scontext=u:r:untrusted_app_27:s0:c252,c257,c512,c768 tcontext=u:object_r:app_data_file:s0:c252,c257,c512,c768 tclass=file app=com.termux
+08-17 14:55:07.061  6216  6216 W bash    : type=1400 audit(0.0:411741): avc:  granted  { execute_no_trans } for  path="/data/data/com.termux/files/usr/bin/dash" dev="dm-65" ino=939150 scontext=u:r:untrusted_app_27:s0:c252,c257,c512,c768 tcontext=u:object_r:app_data_file:s0:c252,c257,c512,c768 tclass=file app=com.termux
+08-17 14:55:07.065  6216  6216 W sh      : type=1400 audit(0.0:411742): avc:  granted  { execute } for  path="/data/data/com.termux/files/usr/bin/dash" dev="dm-65" ino=939150 scontext=u:r:untrusted_app_27:s0:c252,c257,c512,c768 tcontext=u:object_r:app_data_file:s0:c252,c257,c512,c768 tclass=file app=com.termux
+08-17 14:55:07.069  6216  6216 W sh      : type=1400 audit(0.0:411743): avc:  denied  { search } for  name="tests" dev="dm-65" ino=113 scontext=u:r:untrusted_app_27:s0:c252,c257,c512,c768 tcontext=u:object_r:shell_test_data_file:s0 tclass=dir permissive=0 app=com.termux
