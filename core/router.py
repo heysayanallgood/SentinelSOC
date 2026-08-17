@@ -15,6 +15,8 @@ from modules import hashlookup
 from modules import cvelookup
 from modules import ioclookup
 from modules import mitre
+from modules.settings import settings_menu
+from modules.about import about_menu
 
 console = Console()
 
@@ -70,12 +72,19 @@ def route(choice):
         reporting()
 
     elif choice == "8":
-        console.print("[cyan]Settings Module Coming Soon[/cyan]")
-
+        try:
+            settings_menu()
+        except KeyboardInterrupt:
+            print("\n[i] Settings operation cancelled.")
+        except Exception as exc:
+            print(f"\n[!] Settings module error: {exc}")
     elif choice == "9":
-        console.print("[green]SentinelSOC v1.0[/green]")
-        console.print("[cyan]Built by Sayan Chowdhury[/cyan]")
-
+        try:
+            about_menu()
+        except KeyboardInterrupt:
+            print("\n[i] About dossier cancelled.")
+        except Exception as exc:
+            print(f"\n[!] About module error: {exc}")
     elif choice == "0":
         console.print("[bold red]Goodbye![/bold red]")
 

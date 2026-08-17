@@ -1,24 +1,43 @@
 __pycache__/
-*.pyc
+*.py[cod]
 *.pyo
 *.pyd
 .venv/
 venv/
 env/
+.env
 *.log
 
 # Local/generated databases
+*.db
+*.sqlite
+*.sqlite3
 assets/mitre/sentinel_mitre_db
-assets/mitre/*.db
-assets/*.db
+assets/mitre/*-db
+assets/*-db
 
-# Runtime-generated incident evidence
-assets/incident_response/ad hoc_triage/
+# Runtime-generated evidence
 assets/incident_response/adhoc_triage/
+assets/incident_response/adhoc_triage/*
+assets/incident_response/incidents.db
 
-# Local backup files
+# Local backup/working files
 *.backup
 *.bak
 *.WORKING
 *_backup.py
 *.before_*
+*.pre_*
+*.fix
+*.optional
+
+# Python build/cache
+build/
+dist/
+*.egg-info/
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
