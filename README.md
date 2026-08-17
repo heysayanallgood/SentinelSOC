@@ -1011,7 +1011,338 @@ Then enter the command deck.
 ---
 
 🔬 EXAMPLE DEFENSIVE INVESTIGATION
-
-SECURITY EVENT
+                    SECURITY EVENT
                            │
-          
+                           ▼
+                   EVENT NORMALIZER
+                           │
+                           ▼
+                     ALERT ENGINE
+                           │
+                           ▼
+                       RISK SCORE
+                           │
+                  ┌────────┴────────┐
+                  │                 │
+                  ▼                 ▼
+                 IOC              CONTEXT
+                  │                 │
+                  └────────┬────────┘
+                           ▼
+                    MITRE ATT&CK
+                           │
+                           ▼
+                    INCIDENT TRIAGE
+                           │
+                 ┌─────────┴─────────┐
+                 │                   │
+                 ▼                   ▼
+             EVIDENCE               CASE
+                 │                   │
+                 └─────────┬─────────┘
+                           ▼
+                       REPORTING
+🛰️ FUTURE PLATFORM ARCHITECTURE
+SentinelSOC can naturally evolve from a local toolkit into a distributed SOC architecture.
+flowchart TB
+
+    Analyst["🧑‍💻 Security Analyst"]
+
+    CLI["SentinelSOC CLI"]
+    WEB["SentinelSOC Web Dashboard"]
+
+    API["Secure SentinelSOC API"]
+
+    DB["Central Event / Case Store"]
+
+    Agent1["Endpoint Agent 01"]
+    Agent2["Endpoint Agent 02"]
+    AgentN["Endpoint Agent N"]
+
+    Telemetry["Telemetry Pipeline"]
+    Incident["Incident Engine"]
+    MITRE["MITRE ATT&CK"]
+    IOC["IOC Engine"]
+    Risk["Risk Engine"]
+    Reports["Reporting Engine"]
+
+    Analyst --> CLI
+    Analyst --> WEB
+
+    CLI --> API
+    WEB --> API
+
+    Agent1 --> Telemetry
+    Agent2 --> Telemetry
+    AgentN --> Telemetry
+
+    Telemetry --> API
+
+    API --> DB
+    API --> Risk
+    Risk --> IOC
+    IOC --> MITRE
+    MITRE --> Incident
+    Incident --> DB
+    DB --> Reports
+
+📈 DEVELOPMENT ROADMAP
+✅ PHASE I — FOUNDATION
+[x] Project architecture
+[x] Modular application
+[x] Main routing system
+[x] Terminal interface
+[x] Dashboard
+[x] Settings system
+[x] About system
+✅ PHASE II — NETWORK SECURITY
+[x] Network analysis
+[x] DNS workflows
+[x] Reverse DNS
+[x] WHOIS
+[x] Port scanning
+[x] HTTP analysis
+[x] TLS inspection
+[x] Connectivity analysis
+✅ PHASE III — THREAT INTELLIGENCE
+[x] IOC workflows
+[x] Hash investigation
+[x] CVE research
+[x] Threat intelligence
+[x] MITRE ATT&CK
+✅ PHASE IV — LOG SECURITY
+[x] Log parsing
+[x] Authentication analysis
+[x] Failed-login analysis
+[x] Suspicious-IP workflows
+[x] Timeline workflows
+[x] Live monitoring
+✅ PHASE V — DIGITAL FORENSICS
+[x] Metadata analysis
+[x] SHA-256 hashing
+[x] MD5 hashing
+[x] Integrity analysis
+[x] Evidence collection
+[x] Timeline generation
+[x] Artifact analysis
+✅ PHASE VI — INCIDENT RESPONSE
+[x] Process inventory
+[x] Network inventory
+[x] Listening ports
+[x] Persistence review
+[x] IOC sweep
+[x] Incident cases
+[x] Triage snapshots
+[x] Evidence collection
+[x] Response workflows
+[x] Incident reports
+[x] Live SOC monitoring
+✅ PHASE VII — REPORTING
+[x] HTML
+[x] PDF
+[x] JSON
+[x] CSV
+[x] IAM
+[x] Report history
+[x] Latest report
+[x] Live report summary
+[x] Multi-format generation
+✅ PHASE VIII — CONTROL CENTER
+[x] Dynamic Settings
+[x] Persistent configuration
+[x] Appearance controls
+[x] Monitoring controls
+[x] Logging controls
+[x] Privacy controls
+[x] Security controls
+[x] Live system information
+[x] About dossier
+🔮 FUTURE EVOLUTION
+Potential future capabilities include:
+🌐 Centralized SOC server
+🖥️ Web dashboard
+📡 Endpoint agents
+🔐 Secure authentication
+👥 Multi-user access
+🧑‍💻 Analyst roles
+📊 Centralized telemetry
+🔔 Real-time alerting
+🧠 Advanced correlation
+🤖 Automated triage
+☁️ Cloud deployment
+📱 Remote endpoint monitoring
+📸 SCREENSHOTS
+Recommended repository structure:
+docs/
+└── screenshots/
+    ├── dashboard.png
+    ├── network.png
+    ├── threat-intelligence.png
+    ├── log-analysis.png
+    ├── digital-forensics.png
+    ├── incident-response.png
+    ├── reporting.png
+    ├── settings.png
+    └── about.png
+Then add them to this README:
+![SentinelSOC Dashboard](docs/screenshots/dashboard.png)
+🏆 WHY SENTINELSOC?
+Because cybersecurity should not feel like a collection of disconnected scripts.
+SentinelSOC attempts to create one continuous defensive workflow:
+                    SEE
+                     │
+                     ▼
+                UNDERSTAND
+                     │
+                     ▼
+                  DETECT
+                     │
+                     ▼
+                CORRELATE
+                     │
+                     ▼
+               INVESTIGATE
+                     │
+                     ▼
+                  RESPOND
+                     │
+                     ▼
+                 PRESERVE
+                     │
+                     ▼
+                  REPORT
+The goal is to make defensive security more accessible, portable and understandable while maintaining a modular architecture that can continue to evolve.
+🛡️ RESPONSIBLE USE
+SentinelSOC is intended for:
+authorized systems
+owned infrastructure
+cyber ranges
+laboratory environments
+educational research
+defensive security operations
+incident response
+digital forensics
+security monitoring
+Do not use the toolkit against systems, networks, devices, accounts or data without appropriate authorization.
+The operator is responsible for using the software legally and ethically.
+🤝 CONTRIBUTING
+Contributions are welcome.
+Contribution Workflow
+FORK
+  │
+  ▼
+CLONE
+  │
+  ▼
+CREATE BRANCH
+  │
+  ▼
+IMPLEMENT
+  │
+  ▼
+TEST
+  │
+  ▼
+DOCUMENT
+  │
+  ▼
+PULL REQUEST
+Please include:
+clear descriptions
+documentation
+tests where appropriate
+security considerations
+compatibility information
+reproducible bug reports
+🐛 BUG REPORTS
+If you discover a problem, open an issue containing:
+Environment:
+OS:
+Python version:
+SentinelSOC version:
+Module:
+Command:
+Expected behavior:
+Actual behavior:
+Error / traceback:
+Never publish:
+passwords
+API keys
+access tokens
+private credentials
+sensitive forensic evidence
+personal information
+📜 LICENSE
+SentinelSOC is released under the MIT License.
+See LICENSE for the complete license text.
+⚠️ COMIC / MARVEL DISCLAIMER
+SentinelSOC uses comic-book-inspired storytelling, terminology and fictional threat archetypes for educational and creative presentation.
+References such as:
+Sentinels
+S.H.I.E.L.D.
+Stark Industries
+Dr. Doom
+Ultron
+Loki
+Thanos
+Avengers
+Wakanda
+belong to their respective rights holders.
+SentinelSOC is an independent project and is not affiliated with, endorsed by, sponsored by, or associated with Marvel Entertainment, Disney, or any Marvel property.
+The comic-book references are used solely as thematic metaphors for defensive cybersecurity concepts.
+👨‍💻 CREATOR DOSSIER
+�
+
+⚡ SAYAN CHOWDHURY
+Creator • Architect • Defensive Security Builder
+VIT Vellore
+📧 sayanchowdhury702@gmail.com
+📱 7278622784
+�
+
+🦸 THE ONE ABOVE ALL
+Within the fictional comic-book command-dossier theme of SentinelSOC, the creator occupies the "One Above All" position — the architect responsible for the project's vision, implementation and evolution.
+The real mission remains simple:
+BUILD
+  ↓
+LEARN
+  ↓
+DEFEND
+  ↓
+INVESTIGATE
+  ↓
+IMPROVE
+  ↓
+SHARE
+❤️ BUILT FOR THE CYBERSECURITY COMMUNITY
+SentinelSOC was created with the belief that learning cybersecurity becomes more powerful when theory can be transformed into an actual working system.
+Whether you are:
+🎓 a cybersecurity student
+🛡️ a Blue Teamer
+🧑‍💻 a SOC analyst
+🔍 a DFIR learner
+🧠 a threat hunter
+🌐 a security researcher
+🐧 a Linux enthusiast
+SentinelSOC is intended to provide a practical environment for learning defensive security workflows.
+�
+
+🛡️⚡ SENTINELSOC
+THE DIGITAL SENTINEL NEVER STOPS WATCHING.
+Observe. Detect. Correlate. Investigate. Respond.
+�
+
+
+⭐ If SentinelSOC helped you learn something new, give the repository a Star!
+🍴 Fork it.
+🐛 Report bugs.
+🧠 Improve it.
+🛡️ Use it responsibly.
+�
+
+
+Built with Python • Linux • Termux • Curiosity • Defensive Security
+�
+
+
+© SentinelSOC — Independent Open-Source Project
